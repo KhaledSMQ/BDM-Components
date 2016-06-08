@@ -1,0 +1,25 @@
+--- 
+cwAnnounceNumber: 1.3.6.1.4.1.351.150.25.1.1.2.1.1.1
+cwAnnounceControlGrp: 1.3.6.1.4.1.351.150.25.1.1.1
+cwAnnFileName: 1.3.6.1.4.1.351.150.25.1.1.2.1.1.3
+cwAnnReqTimeout: 1.3.6.1.4.1.351.150.25.1.1.1.6
+cwAnnounceMIBConformance: 1.3.6.1.4.1.351.150.25.3
+cwAnnounceGeneric: 1.3.6.1.4.1.351.150.25.1.1
+cwAnnounceTableGrp: 1.3.6.1.4.1.351.150.25.1.1.2
+cwAnnounceMIBCompliances: 1.3.6.1.4.1.351.150.25.3.1
+cwAnnounceMIBGroups: 1.3.6.1.4.1.351.150.25.3.2
+cwAnnMaximumSize: 1.3.6.1.4.1.351.150.25.1.1.1.1
+cwAnnFileStatus: 1.3.6.1.4.1.351.150.25.1.1.2.1.1.2
+ciscoWanAnnouncementMIB: 1.3.6.1.4.1.351.150.25
+cwAnnAgeTime: 1.3.6.1.4.1.351.150.25.1.1.1.3
+cwAnnounceNotifications: 1.3.6.1.4.1.351.150.25.2.0
+cwAnnounceTable: 1.3.6.1.4.1.351.150.25.1.1.2.1
+cwAnnounceGrpMIBObjects: 1.3.6.1.4.1.351.150.25.1
+cwAnnFileServerName: 1.3.6.1.4.1.351.150.25.1.1.1.2
+cwAnnounceNotificationPrefix: 1.3.6.1.4.1.351.150.25.2
+cwAnnPrefixPath: 1.3.6.1.4.1.351.150.25.1.1.1.5
+cwAnnFileCodec: 1.3.6.1.4.1.351.150.25.1.1.2.1.1.4
+cwAnnPreferenceCodec: 1.3.6.1.4.1.351.150.25.1.1.1.4
+cwAnnounceEntry: 1.3.6.1.4.1.351.150.25.1.1.2.1.1
+cwAnnRowStatus: 1.3.6.1.4.1.351.150.25.1.1.2.1.1.5
+

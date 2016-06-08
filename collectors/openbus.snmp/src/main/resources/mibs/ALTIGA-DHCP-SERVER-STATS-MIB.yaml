@@ -1,0 +1,21 @@
+--- 
+alDhcpServerStatsSessTable: 1.3.6.1.4.1.3076.2.1.2.37.2
+alDhcpServerStatsActiveLeases: 1.3.6.1.4.1.3076.2.1.2.37.1.1
+alDhcpServerStatsMaximumLeases: 1.3.6.1.4.1.3076.2.1.2.37.1.2
+alDhcpServerStatsSessEntry: 1.3.6.1.4.1.3076.2.1.2.37.2.1
+alDhcpServerStatsSessLeaseExpire: 1.3.6.1.4.1.3076.2.1.2.37.2.1.4
+altigaDhcpServerStatsMibModule: 1.3.6.1.4.1.3076.1.1.42.2
+altigaDhcpServerStatsMibCompliances: 1.3.6.1.4.1.3076.1.1.42.2.1.1
+alDhcpServerStatsSessRowStatus: 1.3.6.1.4.1.3076.2.1.2.37.2.1.1
+alDhcpServerStatsSessMacAddr: 1.3.6.1.4.1.3076.2.1.2.37.2.1.5
+alDhcpServerStatsDiscoversRcvd: 1.3.6.1.4.1.3076.2.1.2.37.1.3
+alDhcpServerStatsNaksSent: 1.3.6.1.4.1.3076.2.1.2.37.1.6
+alDhcpServerStatsSessIpAddr: 1.3.6.1.4.1.3076.2.1.2.37.2.1.3
+alDhcpServerStatsSessHostName: 1.3.6.1.4.1.3076.2.1.2.37.2.1.6
+alDhcpServerStatsOffersSent: 1.3.6.1.4.1.3076.2.1.2.37.1.4
+alDhcpServerStatsSessId: 1.3.6.1.4.1.3076.2.1.2.37.2.1.2
+alStatsDhcpServerGlobal: 1.3.6.1.4.1.3076.2.1.2.37.1
+alDhcpServerStatsReqTimeouts: 1.3.6.1.4.1.3076.2.1.2.37.1.7
+altigaDhcpServerStatsMibConformance: 1.3.6.1.4.1.3076.1.1.42.2.1
+alDhcpServerStatsAcksSent: 1.3.6.1.4.1.3076.2.1.2.37.1.5
+

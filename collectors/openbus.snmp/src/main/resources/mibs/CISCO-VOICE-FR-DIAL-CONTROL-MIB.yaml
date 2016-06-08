@@ -1,0 +1,14 @@
+--- 
+cvFrCallHistoryTable: 1.3.6.1.4.1.9.10.36.1.1.1
+cvFrCallHistoryLowerIfName: 1.3.6.1.4.1.9.10.36.1.1.1.1.3
+cvFrCallHistory: 1.3.6.1.4.1.9.10.36.1.1
+cvFrCallHistoryEntry: 1.3.6.1.4.1.9.10.36.1.1.1.1
+cvfrdcMIBCompliances: 1.3.6.1.4.1.9.10.36.3.1
+ciscoVoiceFrDialControlMIB: 1.3.6.1.4.1.9.10.36
+cvfrdcMIBConformance: 1.3.6.1.4.1.9.10.36.3
+cvFrCallHistoryDlci: 1.3.6.1.4.1.9.10.36.1.1.1.1.2
+cvFrCallHistoryGroup: 1.3.6.1.4.1.9.10.36.3.2.1
+cvfrdcMIBGroups: 1.3.6.1.4.1.9.10.36.3.2
+cvfrdcMIBObjects: 1.3.6.1.4.1.9.10.36.1
+cvFrCallHistorySessionTarget: 1.3.6.1.4.1.9.10.36.1.1.1.1.4
+

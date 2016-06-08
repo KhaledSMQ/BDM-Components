@@ -1,0 +1,28 @@
+--- 
+ciscoLwappMeshBatteryInfo: 1.3.6.1.4.1.9.9.620.1.1
+clMeshNodeBatteryRemainingCapacity: 1.3.6.1.4.1.9.9.620.1.1.1.1.5
+ciscoLwappMeshBatteryAlarm: 1.3.6.1.4.1.9.9.620.0.1
+ciscoLwappMeshBatteryMIB: 1.3.6.1.4.1.9.9.620
+clMeshNodeBatteryModelName: 1.3.6.1.4.1.9.9.620.1.1.1.1.1
+clMeshNodeBatteryCurrentValue: 1.3.6.1.4.1.9.9.620.1.1.1.1.14
+clMeshBatteryAlarmEnabled: 1.3.6.1.4.1.9.9.620.1.2.1
+clMeshNodeBatterySerialNumber: 1.3.6.1.4.1.9.9.620.1.1.1.1.7
+clMeshNodeBatteryChargingLevel: 1.3.6.1.4.1.9.9.620.1.1.1.1.4
+ciscoLwappMeshBatteryNotifControlConfig: 1.3.6.1.4.1.9.9.620.1.2
+clMeshNodeBatterySwVersion: 1.3.6.1.4.1.9.9.620.1.1.1.1.6
+clMeshNodeBatteryEntry: 1.3.6.1.4.1.9.9.620.1.1.1.1
+clMeshNodeBatteryStatus: 1.3.6.1.4.1.9.9.620.1.1.1.1.2
+clMeshNodeBatteryChargingState: 1.3.6.1.4.1.9.9.620.1.1.1.1.3
+clMeshNodeBatteryInputVoltage: 1.3.6.1.4.1.9.9.620.1.1.1.1.8
+clMeshNodeBatteryOutputVoltage: 1.3.6.1.4.1.9.9.620.1.1.1.1.9
+ciscoLwappMeshBatteryMIBConform: 1.3.6.1.4.1.9.9.620.2
+ciscoLwappMeshBatteryMIBNotifs: 1.3.6.1.4.1.9.9.620.0
+clMeshNodeBatteryOutputPower: 1.3.6.1.4.1.9.9.620.1.1.1.1.10
+clMeshNodeBatteryTemperature: 1.3.6.1.4.1.9.9.620.1.1.1.1.12
+clMeshNodeBatteryCurrent: 1.3.6.1.4.1.9.9.620.1.1.1.1.13
+ciscoLwappMeshBatteryMIBGroups: 1.3.6.1.4.1.9.9.620.2.2
+ciscoLwappMeshBatteryMIBObjects: 1.3.6.1.4.1.9.9.620.1
+clMeshNodeBatteryTable: 1.3.6.1.4.1.9.9.620.1.1.1
+clMeshNodeBatteryInternalVoltage: 1.3.6.1.4.1.9.9.620.1.1.1.1.11
+ciscoLwappMeshBatteryMIBCompliances: 1.3.6.1.4.1.9.9.620.2.1
+

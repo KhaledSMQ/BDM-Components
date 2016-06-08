@@ -1,0 +1,26 @@
+--- 
+cpimRPMappingChangeType: 1.3.6.1.4.1.9.9.184.2.1.1
+ciscoPimRPMappingChange: 1.3.6.1.4.1.9.9.184.2.0.3
+ciscoPimInvalidJoinPrune: 1.3.6.1.4.1.9.9.184.2.0.5
+ciscoPimMIB: 1.3.6.1.4.1.9.9.184
+cpimLastErrorOrigin: 1.3.6.1.4.1.9.9.184.1.1.5
+ciscoPimMIBGroups: 1.3.6.1.4.1.9.9.184.3.2
+ciscoPimMIBObjects: 1.3.6.1.4.1.9.9.184.1
+cpimLastErrorType: 1.3.6.1.4.1.9.9.184.1.1.3
+ciscoPimMIBConformance: 1.3.6.1.4.1.9.9.184.3
+ciscoPimInterfaceUp: 1.3.6.1.4.1.9.9.184.2.0.1
+cpimLastErrorGroupType: 1.3.6.1.4.1.9.9.184.1.1.6
+ciscoPimInterfaceDown: 1.3.6.1.4.1.9.9.184.2.0.2
+ciscoPimInvalidRegister: 1.3.6.1.4.1.9.9.184.2.0.4
+cpim: 1.3.6.1.4.1.9.9.184.1.1
+cpimInvalidRegisterMsgsRcvd: 1.3.6.1.4.1.9.9.184.1.1.1
+cpimInvalidJoinPruneMsgsRcvd: 1.3.6.1.4.1.9.9.184.1.1.2
+cpimLastErrorOriginType: 1.3.6.1.4.1.9.9.184.1.1.4
+cpimLastErrorGroup: 1.3.6.1.4.1.9.9.184.1.1.7
+ciscoPimMIBNotificationObjects: 1.3.6.1.4.1.9.9.184.2.1
+cpimLastErrorRPType: 1.3.6.1.4.1.9.9.184.1.1.8
+cpimLastErrorRP: 1.3.6.1.4.1.9.9.184.1.1.9
+ciscoPimMIBNotificationPrefix: 1.3.6.1.4.1.9.9.184.2
+ciscoPimMIBNotifications: 1.3.6.1.4.1.9.9.184.2.0
+ciscoPimMIBCompliances: 1.3.6.1.4.1.9.9.184.3.1
+

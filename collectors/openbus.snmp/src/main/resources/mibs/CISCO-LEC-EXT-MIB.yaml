@@ -1,0 +1,13 @@
+--- 
+cLecToVlanEntry: 1.3.6.1.4.1.9.9.77.1.1.1.1
+cLecExtVlan: 1.3.6.1.4.1.9.9.77.1.1
+cLecToVlanTable: 1.3.6.1.4.1.9.9.77.1.1.1
+ciscoLecExtMIBNotificationPrefix: 1.3.6.1.4.1.9.9.77.2
+ciscoLecExtMIBCompliances: 1.3.6.1.4.1.9.9.77.3.1
+ciscoLecExtMIBNotifications: 1.3.6.1.4.1.9.9.77.2.0
+ciscoLecExtMIBConformance: 1.3.6.1.4.1.9.9.77.3
+ciscoLecExtMIBGroups: 1.3.6.1.4.1.9.9.77.3.2
+ciscoLecExtMIBObjects: 1.3.6.1.4.1.9.9.77.1
+ciscoLecExtMIB: 1.3.6.1.4.1.9.9.77
+cLecToVlanId: 1.3.6.1.4.1.9.9.77.1.1.1.1.1
+

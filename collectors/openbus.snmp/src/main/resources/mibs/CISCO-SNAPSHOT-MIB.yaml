@@ -1,0 +1,28 @@
+--- 
+ciscoSnapshotMIBObjects: 1.3.6.1.4.1.9.9.19.1
+ciscoSnapshotIfIndex: 1.3.6.1.4.1.9.9.19.1.2.1.1
+ciscoSnapshotMIBCompliances: 1.3.6.1.4.1.9.9.19.2.1
+ciscoSnapshotRetryInterval: 1.3.6.1.4.1.9.9.19.1.2.1.6
+ciscoSnapshotMIBConformance: 1.3.6.1.4.1.9.9.19.2
+ciscoSnapshotMIBGroups: 1.3.6.1.4.1.9.9.19.2.2
+ciscoSnapshotInterfaceEntry: 1.3.6.1.4.1.9.9.19.1.2.1
+ciscoSnapshotActivityIndex: 1.3.6.1.4.1.9.9.19.1.3.1.1
+ciscoSnapshotDialerMap: 1.3.6.1.4.1.9.9.19.1.3.1.5
+ciscoSnapshotSourceAddress: 1.3.6.1.4.1.9.9.19.1.3.1.7
+ciscoSnapshotInterfaceTable: 1.3.6.1.4.1.9.9.19.1.2
+ciscoSnapshotActivityEntry: 1.3.6.1.4.1.9.9.19.1.3.1
+ciscoSnapshotMIB: 1.3.6.1.4.1.9.9.19
+ciscoSnapshotActiveInterval: 1.3.6.1.4.1.9.9.19.1.2.1.4
+ciscoSnapshotExchangeTimer: 1.3.6.1.4.1.9.9.19.1.3.1.4
+ciscoSnapshotSourceProtocol: 1.3.6.1.4.1.9.9.19.1.3.1.6
+ciscoSnapshotIfUpAction: 1.3.6.1.4.1.9.9.19.1.2.1.7
+ciscoSnapshotRowStatus: 1.3.6.1.4.1.9.9.19.1.2.1.8
+ciscoSnapshotActivityTimer: 1.3.6.1.4.1.9.9.19.1.3.1.3
+ciscoSnapshotClient: 1.3.6.1.4.1.9.9.19.1.2.1.2
+ciscoSnapshotDialer: 1.3.6.1.4.1.9.9.19.1.2.1.3
+ciscoSnapshotQuietInterval: 1.3.6.1.4.1.9.9.19.1.2.1.5
+ciscoSnapshotProtocolsExchanged: 1.3.6.1.4.1.9.9.19.1.3.1.8
+ciscoSnapshotForceActive: 1.3.6.1.4.1.9.9.19.1.1
+ciscoSnapshotActivityTable: 1.3.6.1.4.1.9.9.19.1.3
+ciscoSnapshotActivityState: 1.3.6.1.4.1.9.9.19.1.3.1.2
+

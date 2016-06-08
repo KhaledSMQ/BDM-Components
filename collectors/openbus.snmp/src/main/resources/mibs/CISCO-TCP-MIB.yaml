@@ -1,0 +1,19 @@
+--- 
+ciscoTcpConnInBytes: 1.3.6.1.4.1.9.9.6.1.1.1.1
+ciscoTcpConnInPkts: 1.3.6.1.4.1.9.9.6.1.1.1.3
+ciscoTcpConnRetransPkts: 1.3.6.1.4.1.9.9.6.1.1.1.7
+ciscoTcpMIBGroups: 1.3.6.1.4.1.9.9.6.3.2
+ciscoTcpConnRto: 1.3.6.1.4.1.9.9.6.1.1.1.9
+ciscoTcpConnSRTT: 1.3.6.1.4.1.9.9.6.1.1.1.6
+ciscoTcpMIBObjects: 1.3.6.1.4.1.9.9.6.1
+ciscoTcpMIBConformance: 1.3.6.1.4.1.9.9.6.3
+ciscoTcpConnTable: 1.3.6.1.4.1.9.9.6.1.1
+ciscoTcpConnOutBytes: 1.3.6.1.4.1.9.9.6.1.1.1.2
+ciscoTcpConnElapsed: 1.3.6.1.4.1.9.9.6.1.1.1.5
+ciscoTcpConnFastRetransPkts: 1.3.6.1.4.1.9.9.6.1.1.1.8
+ciscoTcpMIBCompliances: 1.3.6.1.4.1.9.9.6.3.1
+ciscoTcpConnOutPkts: 1.3.6.1.4.1.9.9.6.1.1.1.4
+ciscoTcpMIB: 1.3.6.1.4.1.9.9.6
+ciscoTcpConnEntry: 1.3.6.1.4.1.9.9.6.1.1.1
+ciscoTcpMIBTraps: 1.3.6.1.4.1.9.9.6.2
+

@@ -1,0 +1,29 @@
+--- 
+cvUriClassCfgType: 1.3.6.1.4.1.9.10.99999999.1.1.1.1.2
+cvSIPUriClassCfgEntry: 1.3.6.1.4.1.9.10.99999999.1.1.2.1
+cvUriClassSIPGeneralConfig: 1.3.6.1.4.1.9.10.99999999.1.2
+ciscoVoiceUriClassMIB: 1.3.6.1.4.1.9.10.99999999
+cvUriClassMIBObjects: 1.3.6.1.4.1.9.10.99999999.1
+cvUriClassCfgTable: 1.3.6.1.4.1.9.10.99999999.1.1.1
+cvSIPUriClassCfgUserIDPattern: 1.3.6.1.4.1.9.10.99999999.1.1.2.1.1
+cvUriClassSIPHostPreference: 1.3.6.1.4.1.9.10.99999999.1.2.1
+cvUriClassMIBGroups: 1.3.6.1.4.1.9.10.99999999.2.2
+cvUriClass: 1.3.6.1.4.1.9.10.99999999.1.1
+cvUriClassCfgStatus: 1.3.6.1.4.1.9.10.99999999.1.1.1.1.3
+cvSIPUriClassCfgPhoneCtxtPattern: 1.3.6.1.4.1.9.10.99999999.1.1.2.1.3
+cvTELUriClassCfgTable: 1.3.6.1.4.1.9.10.99999999.1.1.3
+cvTELUriClassCfgPhoneNumPattern: 1.3.6.1.4.1.9.10.99999999.1.1.3.1.1
+cvUriClassMIBNotifications: 1.3.6.1.4.1.9.10.99999999.0
+cvUriClassCfgEntry: 1.3.6.1.4.1.9.10.99999999.1.1.1.1
+cvCommonUriClassCfgTable: 1.3.6.1.4.1.9.10.99999999.1.1.4
+cvCommonUriClassCfgURIPattern: 1.3.6.1.4.1.9.10.99999999.1.1.4.1.1
+cvUriClassSIPUserIDPreference: 1.3.6.1.4.1.9.10.99999999.1.2.2
+cvUriClassMIBCompliances: 1.3.6.1.4.1.9.10.99999999.2.1
+cvSIPUriClassCfgHostPattern: 1.3.6.1.4.1.9.10.99999999.1.1.2.1.2
+cvTELUriClassCfgEntry: 1.3.6.1.4.1.9.10.99999999.1.1.3.1
+cvUriClassCfgTag: 1.3.6.1.4.1.9.10.99999999.1.1.1.1.1
+cvTELUriClassCfgPhoneCtxtPattern: 1.3.6.1.4.1.9.10.99999999.1.1.3.1.2
+cvUriClassMIBConformance: 1.3.6.1.4.1.9.10.99999999.2
+cvSIPUriClassCfgTable: 1.3.6.1.4.1.9.10.99999999.1.1.2
+cvCommonUriClassCfgEntry: 1.3.6.1.4.1.9.10.99999999.1.1.4.1
+

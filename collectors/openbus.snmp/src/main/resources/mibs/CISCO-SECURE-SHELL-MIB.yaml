@@ -1,0 +1,30 @@
+--- 
+cssSessionEntry: 1.3.6.1.4.1.9.9.339.1.2.1.1
+cssSessionPID: 1.3.6.1.4.1.9.9.339.1.2.1.1.4
+cssKeyString: 1.3.6.1.4.1.9.9.339.1.1.2.1.6
+cssSessionInfo: 1.3.6.1.4.1.9.9.339.1.2
+cssSessionVersion: 1.3.6.1.4.1.9.9.339.1.2.1.1.2
+cssKeyNBits: 1.3.6.1.4.1.9.9.339.1.1.2.1.2
+ciscoSecureShellMIBObjects: 1.3.6.1.4.1.9.9.339.1
+cssKeyTable: 1.3.6.1.4.1.9.9.339.1.1.2
+cssKeyRowStatus: 1.3.6.1.4.1.9.9.339.1.1.2.1.5
+cssSessionTable: 1.3.6.1.4.1.9.9.339.1.2.1
+cssSessionUserID: 1.3.6.1.4.1.9.9.339.1.2.1.1.5
+ciscoSecureShellMIBConformance: 1.3.6.1.4.1.9.9.339.2
+ciscoSecureShellMIB: 1.3.6.1.4.1.9.9.339
+cssConfiguration: 1.3.6.1.4.1.9.9.339.1.1
+cssServiceActivation: 1.3.6.1.4.1.9.9.339.1.1.1
+cssKeyLastCreationTime: 1.3.6.1.4.1.9.9.339.1.1.2.1.4
+cssServiceCapability: 1.3.6.1.4.1.9.9.339.1.1.3
+cssSessionHostAddrType: 1.3.6.1.4.1.9.9.339.1.2.1.1.6
+cssSessionHostAddr: 1.3.6.1.4.1.9.9.339.1.2.1.1.7
+cssSessionState: 1.3.6.1.4.1.9.9.339.1.2.1.1.3
+cssKeyOverWrite: 1.3.6.1.4.1.9.9.339.1.1.2.1.3
+cssKeyGenerationStatus: 1.3.6.1.4.1.9.9.339.1.1.5
+ciscoSecureShellMIBCompliances: 1.3.6.1.4.1.9.9.339.2.1
+ciscoSecureShellMIBGroups: 1.3.6.1.4.1.9.9.339.2.2
+cssServiceMode: 1.3.6.1.4.1.9.9.339.1.1.4
+cssKeyEntry: 1.3.6.1.4.1.9.9.339.1.1.2.1
+cssKeyIndex: 1.3.6.1.4.1.9.9.339.1.1.2.1.1
+cssSessionID: 1.3.6.1.4.1.9.9.339.1.2.1.1.1
+

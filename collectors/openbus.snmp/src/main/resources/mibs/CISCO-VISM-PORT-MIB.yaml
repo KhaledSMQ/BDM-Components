@@ -1,0 +1,16 @@
+--- 
+vismPortCnfGrpTable: 1.3.6.1.4.1.351.110.5.5.2.1.1
+vismPortState: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.7
+vismPortLineNum: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.3
+vismPortDs0ConfigBitMap: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.5
+vismPortCnfGrp: 1.3.6.1.4.1.351.110.5.5.2.1
+vismPortNum: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.1
+ciscoVismPortMIBConformance: 1.3.6.1.4.1.351.150.92.2
+ciscoVismPortMIBGroups: 1.3.6.1.4.1.351.150.92.2.1
+ciscoVismPortMIBCompliances: 1.3.6.1.4.1.351.150.92.2.2
+vismPortType: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.4
+vismPortRowStatus: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.2
+ciscoVismPortMIB: 1.3.6.1.4.1.351.150.92
+vismPortCnfGrpEntry: 1.3.6.1.4.1.351.110.5.5.2.1.1.1
+vismPortSpeed: 1.3.6.1.4.1.351.110.5.5.2.1.1.1.6
+

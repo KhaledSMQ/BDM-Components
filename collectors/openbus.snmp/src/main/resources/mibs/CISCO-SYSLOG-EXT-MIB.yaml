@@ -1,0 +1,33 @@
+--- 
+cseSyslogServerAddressType: 1.3.6.1.4.1.9.9.301.1.1.7.1.2
+cseSyslogServerFacility: 1.3.6.1.4.1.9.9.301.1.1.7.1.6
+cseSyslogLogFileName: 1.3.6.1.4.1.9.9.301.1.1.3
+cseSyslogLogFileMsgSeverity: 1.3.6.1.4.1.9.9.301.1.1.4
+cseSyslogFileLoggingDisable: 1.3.6.1.4.1.9.9.301.1.1.5
+ciscoSyslogExtMIBObjects: 1.3.6.1.4.1.9.9.301.1
+cseSyslogServerProtocol: 1.3.6.1.4.1.9.9.301.1.1.7.1.7
+cseSyslogServerProtocolFallback: 1.3.6.1.4.1.9.9.301.1.1.7.1.9
+cseSyslogServerEntry: 1.3.6.1.4.1.9.9.301.1.1.7.1
+cseSyslogServerAddress: 1.3.6.1.4.1.9.9.301.1.1.7.1.3
+cseSyslogServerPort: 1.3.6.1.4.1.9.9.301.1.1.7.1.8
+cseSyslogMessageSeverity: 1.3.6.1.4.1.9.9.301.1.1.8.1.2
+cseSyslogServerTableMaxEntries: 1.3.6.1.4.1.9.9.301.1.1.6
+cseSyslogServerIndex: 1.3.6.1.4.1.9.9.301.1.1.7.1.1
+cseSyslogConfigurationGroup: 1.3.6.1.4.1.9.9.301.1.1
+cseSyslogConsoleMsgSeverity: 1.3.6.1.4.1.9.9.301.1.1.2
+ciscoSyslogExtMIBConformance: 1.3.6.1.4.1.9.9.301.2
+ciscoSyslogExtMIBCompliances: 1.3.6.1.4.1.9.9.301.2.1
+ciscoSyslogExtMIBGroups: 1.3.6.1.4.1.9.9.301.2.2
+cseSyslogServerMsgSeverity: 1.3.6.1.4.1.9.9.301.1.1.7.1.4
+cseSyslogServerStatus: 1.3.6.1.4.1.9.9.301.1.1.7.1.5
+cseSyslogTerminalEnable: 1.3.6.1.4.1.9.9.301.1.1.9
+ciscoSyslogExtMIB: 1.3.6.1.4.1.9.9.301
+cseSyslogConsoleEnable: 1.3.6.1.4.1.9.9.301.1.1.1
+cseSyslogServerTable: 1.3.6.1.4.1.9.9.301.1.1.7
+cseSyslogMessageControlTable: 1.3.6.1.4.1.9.9.301.1.1.8
+cseSyslogMessageFacility: 1.3.6.1.4.1.9.9.301.1.1.8.1.1
+cseSyslogTerminalMsgSeverity: 1.3.6.1.4.1.9.9.301.1.1.10
+cseSyslogMessageControlEntry: 1.3.6.1.4.1.9.9.301.1.1.8.1
+cseSyslogLinecardEnable: 1.3.6.1.4.1.9.9.301.1.1.11
+cseSyslogLinecardMsgSeverity: 1.3.6.1.4.1.9.9.301.1.1.12
+

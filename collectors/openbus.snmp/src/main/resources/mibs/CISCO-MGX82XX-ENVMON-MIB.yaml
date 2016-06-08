@@ -1,0 +1,19 @@
+--- 
+asmAlarmThreshold: 1.3.6.1.4.1.351.110.1.2.1.1.4
+asmUnitMeasurable: 1.3.6.1.4.1.351.110.1.2.1.1.6
+asmShelfAlarmState: 1.3.6.1.4.1.351.110.1.2.3
+asmAlarmNum: 1.3.6.1.4.1.351.110.1.2.1.1.1
+asmAlarmUnitNum: 1.3.6.1.4.1.351.110.1.2.1.1.3
+asmAlarmSeverity: 1.3.6.1.4.1.351.110.1.2.1.1.5
+cmEnvmonMIBConformance: 1.3.6.1.4.1.351.150.70.2
+ciscoMgx82xxEnvmonMIB: 1.3.6.1.4.1.351.150.70
+asmClrButton: 1.3.6.1.4.1.351.110.1.2.1.1.9
+cmEnvmonMIBGroups: 1.3.6.1.4.1.351.150.70.2.1
+asmAlarmTable: 1.3.6.1.4.1.351.110.1.2.1
+asmUnitMeasuredValue: 1.3.6.1.4.1.351.110.1.2.1.1.7
+asmPhysicalAlarmState: 1.3.6.1.4.1.351.110.1.2.1.1.8
+asmAlarmType: 1.3.6.1.4.1.351.110.1.2.1.1.2
+asmNumOfValidEntries: 1.3.6.1.4.1.351.110.1.2.2
+asmAlarmEntry: 1.3.6.1.4.1.351.110.1.2.1.1
+cmEnvmonMIBCompliances: 1.3.6.1.4.1.351.150.70.2.2
+

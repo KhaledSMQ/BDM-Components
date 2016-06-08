@@ -1,0 +1,36 @@
+--- 
+fcPingPacketTimeout: 1.3.6.1.4.1.9.9.295.1.1.1.1.7
+fcPingAgeInterval: 1.3.6.1.4.1.9.9.295.1.1.1.1.9
+fcPingOperStatus: 1.3.6.1.4.1.9.9.295.1.1.1.1.12
+fcPingTrapOnCompletion: 1.3.6.1.4.1.9.9.295.1.1.1.1.13
+fcPingMaxRtt: 1.3.6.1.4.1.9.9.295.1.2.1.1.5
+fcPingCompletionNotify: 1.3.6.1.4.1.9.9.295.1.3.0.1
+fcPingConfiguration: 1.3.6.1.4.1.9.9.295.1.1
+fcPingUsrPriority: 1.3.6.1.4.1.9.9.295.1.1.1.1.10
+fcPingTxPackets: 1.3.6.1.4.1.9.9.295.1.2.1.1.1
+fcPingMIBCompliances: 1.3.6.1.4.1.9.9.295.2.1
+fcPingStatsEntry: 1.3.6.1.4.1.9.9.295.1.2.1.1
+ciscoFcPingMIB: 1.3.6.1.4.1.9.9.295
+fcPingAddressType: 1.3.6.1.4.1.9.9.295.1.1.1.1.3
+fcPingStatsTable: 1.3.6.1.4.1.9.9.295.1.2.1
+fcPingIndex: 1.3.6.1.4.1.9.9.295.1.1.1.1.1
+fcPingVsanIndex: 1.3.6.1.4.1.9.9.295.1.1.1.1.2
+fcPingAddress: 1.3.6.1.4.1.9.9.295.1.1.1.1.4
+fcPingAdminStatus: 1.3.6.1.4.1.9.9.295.1.1.1.1.11
+fcPingMIBConformance: 1.3.6.1.4.1.9.9.295.2
+fcPingPayloadSize: 1.3.6.1.4.1.9.9.295.1.1.1.1.6
+fcPingDelay: 1.3.6.1.4.1.9.9.295.1.1.1.1.8
+fcPingStats: 1.3.6.1.4.1.9.9.295.1.2
+fcPingMinRtt: 1.3.6.1.4.1.9.9.295.1.2.1.1.3
+fcPingNumTimeouts: 1.3.6.1.4.1.9.9.295.1.2.1.1.6
+fcPingTable: 1.3.6.1.4.1.9.9.295.1.1.1
+fcPingRowStatus: 1.3.6.1.4.1.9.9.295.1.1.1.1.14
+ciscoFcPingMIBObjects: 1.3.6.1.4.1.9.9.295.1
+fcPingAvgRtt: 1.3.6.1.4.1.9.9.295.1.2.1.1.4
+fcPingEntry: 1.3.6.1.4.1.9.9.295.1.1.1.1
+fcPingNotification: 1.3.6.1.4.1.9.9.295.1.3
+fcPingNotifications: 1.3.6.1.4.1.9.9.295.1.3.0
+fcPingMIBGroups: 1.3.6.1.4.1.9.9.295.2.2
+fcPingPacketCount: 1.3.6.1.4.1.9.9.295.1.1.1.1.5
+fcPingRxPackets: 1.3.6.1.4.1.9.9.295.1.2.1.1.2
+

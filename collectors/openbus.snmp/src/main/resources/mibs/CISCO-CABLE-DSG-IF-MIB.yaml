@@ -1,0 +1,29 @@
+--- 
+ccdsgIfTunnel: 1.3.6.1.4.1.9.10.999.2
+ccdsgIfDownDsgIndex: 1.3.6.1.4.1.9.10.999.3.1.1.1
+ccdsgIfDownTunnelIndex: 1.3.6.1.4.1.9.10.999.3.1.1.2
+ccdsgIfTunnelTable: 1.3.6.1.4.1.9.10.999.2.1
+ccdsgIfDownstreamTable: 1.3.6.1.4.1.9.10.999.3.1
+ccdsgIfDownstream: 1.3.6.1.4.1.9.10.999.3
+ciscoCableDsgIfCompliances: 1.3.6.1.4.1.9.10.999.4.1
+ccdsgIfCaVendorIndex: 1.3.6.1.4.1.9.10.999.1.1.1.1
+ccdsgIfCaVendorName: 1.3.6.1.4.1.9.10.999.1.1.1.2
+ccdsgIfCaVendorTunnelCnt: 1.3.6.1.4.1.9.10.999.1.1.1.3
+ccdsgIfTunnelEntry: 1.3.6.1.4.1.9.10.999.2.1.1
+ccdsgIfDownIfIndex: 1.3.6.1.4.1.9.10.999.3.1.1.3
+ccdsgIfCaVendorEntry: 1.3.6.1.4.1.9.10.999.1.1.1
+ccdsgIfTunnelInIpAddress: 1.3.6.1.4.1.9.10.999.2.1.1.3
+ccdsgIfDownstreamEntry: 1.3.6.1.4.1.9.10.999.3.1.1
+ciscoCableDsgIfGroups: 1.3.6.1.4.1.9.10.999.4.2
+ccdsgIfDownRowStatus: 1.3.6.1.4.1.9.10.999.3.1.1.4
+ccdsgIfCaVendorRowStatus: 1.3.6.1.4.1.9.10.999.1.1.1.4
+ccdsgIfTunnelIndex: 1.3.6.1.4.1.9.10.999.2.1.1.1
+ccdsgIfTunnelRowStatus: 1.3.6.1.4.1.9.10.999.2.1.1.6
+ccdsgIfCaVendor: 1.3.6.1.4.1.9.10.999.1
+ccdsgIfTunnelMacAddress: 1.3.6.1.4.1.9.10.999.2.1.1.4
+ciscoCableDsgIfMIB: 1.3.6.1.4.1.9.10.999
+ccdsgIfTunnelInAddressType: 1.3.6.1.4.1.9.10.999.2.1.1.2
+ccdsgIfTunnelCaVendorIndex: 1.3.6.1.4.1.9.10.999.2.1.1.5
+ciscoCableDsgIfConformance: 1.3.6.1.4.1.9.10.999.4
+ccdsgIfCaVendorTable: 1.3.6.1.4.1.9.10.999.1.1
+

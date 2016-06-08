@@ -1,0 +1,27 @@
+--- 
+ciscoAsppMIB: 1.3.6.1.4.1.9.9.55
+asppPortDelayEnq: 1.3.6.1.4.1.9.9.55.1.1.1.1.13
+asppObjects: 1.3.6.1.4.1.9.9.55.1
+asppPortTable: 1.3.6.1.4.1.9.9.55.1.1.1
+asppPortReceiveInterFrameTimeout: 1.3.6.1.4.1.9.9.55.1.1.1.1.3
+asppPortDirect: 1.3.6.1.4.1.9.9.55.1.1.1.1.16
+asppPortRspTimer: 1.3.6.1.4.1.9.9.55.1.1.1.1.8
+asppPortDCDAlways: 1.3.6.1.4.1.9.9.55.1.1.1.1.17
+asppMibConformance: 1.3.6.1.4.1.9.9.55.3
+asppMibCompliances: 1.3.6.1.4.1.9.9.55.3.1
+asppPortSendAck: 1.3.6.1.4.1.9.9.55.1.1.1.1.15
+asppPortSOFCharacter: 1.3.6.1.4.1.9.9.55.1.1.1.1.6
+asppPortHostTimer: 1.3.6.1.4.1.9.9.55.1.1.1.1.10
+asppPortRetryCount: 1.3.6.1.4.1.9.9.55.1.1.1.1.12
+asppPortDisableEnq: 1.3.6.1.4.1.9.9.55.1.1.1.1.14
+asppPorts: 1.3.6.1.4.1.9.9.55.1.1
+asppPortEOFCharacter: 1.3.6.1.4.1.9.9.55.1.1.1.1.5
+asppPortEntry: 1.3.6.1.4.1.9.9.55.1.1.1.1
+asppPortProtocol: 1.3.6.1.4.1.9.9.55.1.1.1.1.1
+asppPortRole: 1.3.6.1.4.1.9.9.55.1.1.1.1.2
+asppPortDeviceAddressOffset: 1.3.6.1.4.1.9.9.55.1.1.1.1.4
+asppPortIgnoreSequenceNumber: 1.3.6.1.4.1.9.9.55.1.1.1.1.7
+asppPortRxTimer: 1.3.6.1.4.1.9.9.55.1.1.1.1.9
+asppPortConnectTimer: 1.3.6.1.4.1.9.9.55.1.1.1.1.11
+asppMibGroups: 1.3.6.1.4.1.9.9.55.3.2
+

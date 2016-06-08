@@ -1,0 +1,30 @@
+--- 
+ciscoAtmIfPhysLcvErrors: 1.3.6.1.4.1.9.9.45.1.1.1.5
+ciscoAtmIfPhysCellPayloadScrambling: 1.3.6.1.4.1.9.9.45.1.1.1.11
+ciscoAtmIfPhysMIBConformance: 1.3.6.1.4.1.9.9.45.3
+ciscoAtmIfPhysTable: 1.3.6.1.4.1.9.9.45.1.1
+ciscoAtmIfPhysLoopbackConfig: 1.3.6.1.4.1.9.9.45.1.1.1.14
+ciscoAtmIfPhysClockSourceStatus: 1.3.6.1.4.1.9.9.45.1.1.1.18
+ciscoAtmIfPhysPathParityErrors: 1.3.6.1.4.1.9.9.45.1.1.1.4
+ciscoAtmIfPhysStsStreamScrambling: 1.3.6.1.4.1.9.9.45.1.1.1.12
+ciscoAtmIfPhysDS1BitErrors: 1.3.6.1.4.1.9.9.45.1.1.1.19
+ciscoAtmIfPhysE1CrcErrors: 1.3.6.1.4.1.9.9.45.1.1.1.20
+ciscoAtmIfPhysLineCode: 1.3.6.1.4.1.9.9.45.1.1.1.21
+ciscoAtmIfPhysMIBGroups: 1.3.6.1.4.1.9.9.45.3.2
+ciscoAtmIfPhysPlcpBipViolations: 1.3.6.1.4.1.9.9.45.1.1.1.8
+ciscoAtmIfPhysStatus: 1.3.6.1.4.1.9.9.45.1.1.1.1
+ciscoAtmIfPhysSectionParityErrors: 1.3.6.1.4.1.9.9.45.1.1.1.2
+ciscoAtmIfPhysTransmitClockSource: 1.3.6.1.4.1.9.9.45.1.1.1.16
+ciscoAtmIfPhysMIBCompliances: 1.3.6.1.4.1.9.9.45.3.1
+ciscoAtmIfPhysCBitParityErrors: 1.3.6.1.4.1.9.9.45.1.1.1.6
+ciscoAtmIfPhysLineFebeErrors: 1.3.6.1.4.1.9.9.45.1.1.1.9
+ciscoAtmIfPhysPathFebeErrors: 1.3.6.1.4.1.9.9.45.1.1.1.10
+ciscoAtmIfPhysLineParityErrors: 1.3.6.1.4.1.9.9.45.1.1.1.3
+ciscoAtmIfPhysPBitParityErrors: 1.3.6.1.4.1.9.9.45.1.1.1.7
+ciscoAtmIfPhysFramingMode: 1.3.6.1.4.1.9.9.45.1.1.1.13
+ciscoAtmIfPhysClockSourcePriority: 1.3.6.1.4.1.9.9.45.1.1.1.17
+ciscoAtmIfPhysMIB: 1.3.6.1.4.1.9.9.45
+ciscoAtmIfPhysMIBObjects: 1.3.6.1.4.1.9.9.45.1
+ciscoAtmIfPhysEntry: 1.3.6.1.4.1.9.9.45.1.1.1
+ciscoAtmIfPhysLineBuildOut: 1.3.6.1.4.1.9.9.45.1.1.1.15
+

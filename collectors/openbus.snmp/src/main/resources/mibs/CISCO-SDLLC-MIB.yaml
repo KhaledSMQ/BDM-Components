@@ -1,0 +1,28 @@
+--- 
+convSdllcPeerStateChangeNotification: 1.3.6.1.4.1.9.9.28.2.0.1
+convSdllcPortVirtMacAddr: 1.3.6.1.4.1.9.9.28.1.1.1.1.1
+ciscoSnaSdllcMIB: 1.3.6.1.4.1.9.9.28
+convSdllcPortBridge: 1.3.6.1.4.1.9.9.28.1.1.1.1.3
+convSdllcAddrs: 1.3.6.1.4.1.9.9.28.1.2
+convSdllcAddrMaxSdlcFrameSize: 1.3.6.1.4.1.9.9.28.1.2.1.1.5
+convSdllcNotificationPrefix: 1.3.6.1.4.1.9.9.28.2
+convSdllcAddrXID: 1.3.6.1.4.1.9.9.28.1.2.1.1.3
+convSdllcPortEntry: 1.3.6.1.4.1.9.9.28.1.1.1.1
+convSdllcPortLocalAckState: 1.3.6.1.4.1.9.9.28.1.1.1.1.6
+convSdllcPortMaxLlc2FrameSize: 1.3.6.1.4.1.9.9.28.1.1.1.1.7
+convSdllcAddrSdlcAddr: 1.3.6.1.4.1.9.9.28.1.2.1.1.1
+sdllcMibGroups: 1.3.6.1.4.1.9.9.28.3.2
+convSdllcObjects: 1.3.6.1.4.1.9.9.28.1
+convSdllcAddrEntry: 1.3.6.1.4.1.9.9.28.1.2.1.1
+convSdllcAddrPartnerMacAddr: 1.3.6.1.4.1.9.9.28.1.2.1.1.2
+convSdllcPortVirtRing: 1.3.6.1.4.1.9.9.28.1.1.1.1.2
+convSdllcPortLlc2Ring: 1.3.6.1.4.1.9.9.28.1.1.1.1.4
+sdllcMibConformance: 1.3.6.1.4.1.9.9.28.3
+convSdllcPorts: 1.3.6.1.4.1.9.9.28.1.1
+convSdllcPortTable: 1.3.6.1.4.1.9.9.28.1.1.1
+convSdllcAddrTable: 1.3.6.1.4.1.9.9.28.1.2.1
+convSdllcPortLocalAck: 1.3.6.1.4.1.9.9.28.1.1.1.1.5
+sdllcMibCompliances: 1.3.6.1.4.1.9.9.28.3.1
+convSdllcAddrState: 1.3.6.1.4.1.9.9.28.1.2.1.1.4
+convSdllcNotifications: 1.3.6.1.4.1.9.9.28.2.0
+

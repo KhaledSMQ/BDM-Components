@@ -1,0 +1,17 @@
+--- 
+ciscoIkeFlowExtMIBNotifs: 1.3.6.1.4.1.9.9.428.0
+cifeTunnelExtTable: 1.3.6.1.4.1.9.9.428.1.2
+cifeTunnelExtEntry: 1.3.6.1.4.1.9.9.428.1.2.1
+cifeTunnelExtDoi: 1.3.6.1.4.1.9.9.428.1.2.1.1
+cifeMIBGroups: 1.3.6.1.4.1.9.9.428.2.2
+ciscoIkeFlowExtMIB: 1.3.6.1.4.1.9.9.428
+ciscoIkeFlowExtMIBObjects: 1.3.6.1.4.1.9.9.428.1
+cifeIkeGlobals: 1.3.6.1.4.1.9.9.428.1.1
+cifeClearAllTunnels: 1.3.6.1.4.1.9.9.428.1.1.1
+cifeTunnelExtLocalIdentity: 1.3.6.1.4.1.9.9.428.1.2.1.3
+cifeTunnelExtRemoteIdentity: 1.3.6.1.4.1.9.9.428.1.2.1.5
+ciscoIkeFlowExtMIBConform: 1.3.6.1.4.1.9.9.428.2
+cifeTunnelExtLocalIdenType: 1.3.6.1.4.1.9.9.428.1.2.1.2
+cifeMIBConformances: 1.3.6.1.4.1.9.9.428.2.1
+cifeTunnelExtRemoteIdenType: 1.3.6.1.4.1.9.9.428.1.2.1.4
+

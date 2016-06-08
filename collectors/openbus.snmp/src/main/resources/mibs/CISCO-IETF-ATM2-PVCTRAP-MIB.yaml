@@ -1,0 +1,22 @@
+--- 
+atmIntfPvcNotificationInterval: 1.3.6.1.4.1.9.10.29.1.14.1.24
+atmPvcTraps: 1.3.6.1.4.1.9.10.29.2.1
+atm2MIBGroups: 1.3.6.1.4.1.9.10.29.3.1
+atmInterfaceExtTable: 1.3.6.1.4.1.9.10.29.1.14
+atm2MIBConformance: 1.3.6.1.4.1.9.10.29.3
+ciscoIetfAtm2PvctrapMIB: 1.3.6.1.4.1.9.10.29
+atmIntfPvcFailuresTrapEnable: 1.3.6.1.4.1.9.10.29.1.14.1.23
+atmCurrentlyFailingPVclTimeStamp: 1.3.6.1.4.1.9.10.29.1.21.1.1
+atmPreviouslyFailedPVclInterval: 1.3.6.1.4.1.9.10.29.1.14.1.25
+atmPreviouslyFailedPVclTimeStamp: 1.3.6.1.4.1.9.10.29.1.21.1.2
+atmCurrentlyFailingPVclTable: 1.3.6.1.4.1.9.10.29.1.21
+atm2MIBTraps: 1.3.6.1.4.1.9.10.29.2
+atmPvcTrapsPrefix: 1.3.6.1.4.1.9.10.29.2.1.0
+atm2MIBCompliances: 1.3.6.1.4.1.9.10.29.3.2
+atm2MIBObjects: 1.3.6.1.4.1.9.10.29.1
+atmInterfaceExtEntry: 1.3.6.1.4.1.9.10.29.1.14.1
+atmIntfCurrentlyFailingPVcls: 1.3.6.1.4.1.9.10.29.1.14.1.22
+atmIntfPvcFailuresTrap: 1.3.6.1.4.1.9.10.29.2.1.0.1
+atmIntfPvcFailures: 1.3.6.1.4.1.9.10.29.1.14.1.20
+atmCurrentlyFailingPVclEntry: 1.3.6.1.4.1.9.10.29.1.21.1
+

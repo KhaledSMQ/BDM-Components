@@ -1,0 +1,20 @@
+--- 
+cwrChanVirtualTemplate: 1.3.6.1.4.1.351.150.9.1.1.1.1.4
+cwRpmConnExtMIBObjects: 1.3.6.1.4.1.351.150.9.1
+cwrChanAalEncapType: 1.3.6.1.4.1.351.150.9.1.1.1.1.3
+cwrChanOamRetryInterval: 1.3.6.1.4.1.351.150.9.1.1.1.1.10
+ciscoWanRpmConnExtMIBGroups: 1.3.6.1.4.1.351.150.9.2.2
+cwRpmChanExtEntry: 1.3.6.1.4.1.351.150.9.1.1.1.1
+cwrChanVcd: 1.3.6.1.4.1.351.150.9.1.1.1.1.2
+cwrChanOamRetryDownCount: 1.3.6.1.4.1.351.150.9.1.1.1.1.9
+ciscoWanRpmConnExtMIBConformance: 1.3.6.1.4.1.351.150.9.2
+cwrChanInArpInterval: 1.3.6.1.4.1.351.150.9.1.1.1.1.5
+cwrChanOamRetryUpCount: 1.3.6.1.4.1.351.150.9.1.1.1.1.8
+cwRpmConnExt: 1.3.6.1.4.1.351.150.9.1.1
+ciscoWanRpmConnExtMIB: 1.3.6.1.4.1.351.150.9
+cwRpmChanExtTable: 1.3.6.1.4.1.351.150.9.1.1.1
+cwrChanSubInterface: 1.3.6.1.4.1.351.150.9.1.1.1.1.1
+cwrChanOamLoopbkTxInterval: 1.3.6.1.4.1.351.150.9.1.1.1.1.6
+cwrChanOamManage: 1.3.6.1.4.1.351.150.9.1.1.1.1.7
+ciscoWanRpmConnExtMIBCompliances: 1.3.6.1.4.1.351.150.9.2.1
+

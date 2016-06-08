@@ -1,0 +1,34 @@
+--- 
+ciscoWlanVlanMIBObjects: 1.3.6.1.4.1.9.9.268.1
+ciscoWlanVlanMIBConformance: 1.3.6.1.4.1.9.9.268.2
+ciscoWlanVlanMIBGroups: 1.3.6.1.4.1.9.9.268.2.2
+cwvlRoamDomainConfig: 1.3.6.1.4.1.9.9.268.1.1
+cwvlWlanNUcastKeyTable: 1.3.6.1.4.1.9.9.268.1.2.2
+cwvlWlanWepKeyHashing: 1.3.6.1.4.1.9.9.268.1.2.1.1.8
+cwvlWlanNUcastKeyIndex: 1.3.6.1.4.1.9.9.268.1.2.2.1.1
+ciscoWlanVlanWepChangeNotif: 1.3.6.1.4.1.9.9.268.0.1
+cwvlWlanVlanTable: 1.3.6.1.4.1.9.9.268.1.2.1
+cwvlWlanMicAlgorithm: 1.3.6.1.4.1.9.9.268.1.2.1.1.6
+cwvlWlanRowStatus: 1.3.6.1.4.1.9.9.268.1.2.1.1.10
+cwvlWlanNUcastKeyValue: 1.3.6.1.4.1.9.9.268.1.2.2.1.3
+cwvlBridgingNativeVlanId: 1.3.6.1.4.1.9.9.268.1.1.2
+cwvlVoIPVlanId: 1.3.6.1.4.1.9.9.268.1.1.4
+cwvlWlanVlanId: 1.3.6.1.4.1.9.9.268.1.2.1.1.1
+cwvlWlanEncryptionMandatory: 1.3.6.1.4.1.9.9.268.1.2.1.1.5
+ciscoWlanVlanMIBCompliances: 1.3.6.1.4.1.9.9.268.2.1
+ciscoWlanVlanMIB: 1.3.6.1.4.1.9.9.268
+cwvlVoIPVlanEnabled: 1.3.6.1.4.1.9.9.268.1.1.3
+cwvlPublicVlanId: 1.3.6.1.4.1.9.9.268.1.1.5
+cwvlWlanWepKeyPermuteAlgorithm: 1.3.6.1.4.1.9.9.268.1.2.1.1.7
+cwvlWlanNUcastKeyLen: 1.3.6.1.4.1.9.9.268.1.2.2.1.2
+cwvlWlanWepChangeNotifEnabled: 1.3.6.1.4.1.9.9.268.1.2.3
+cwvlWlanDot1qEncapEnabled: 1.3.6.1.4.1.9.9.268.1.1.1
+cwvlDot11VlanConfig: 1.3.6.1.4.1.9.9.268.1.2
+cwvlWlanEncryptionMode: 1.3.6.1.4.1.9.9.268.1.2.1.1.4
+cwvlWlanNUcastKeyEntry: 1.3.6.1.4.1.9.9.268.1.2.2.1
+ciscoWlanVlanMIBNotifications: 1.3.6.1.4.1.9.9.268.0
+cwvlWlanVlanEntry: 1.3.6.1.4.1.9.9.268.1.2.1.1
+cwvlWlanEncryptionAlgorithm: 1.3.6.1.4.1.9.9.268.1.2.1.1.9
+cwvlWlanNUcastKeyRotateInterval: 1.3.6.1.4.1.9.9.268.1.2.1.1.3
+cwvlWlanEnabled: 1.3.6.1.4.1.9.9.268.1.2.1.1.2
+

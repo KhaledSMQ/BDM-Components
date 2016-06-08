@@ -1,0 +1,25 @@
+--- 
+qosIfQType: 1.3.6.1.4.1.9.9.159.1.2.2.1.2
+ciscoQosPolicyConfigMIBObjects: 1.3.6.1.4.1.9.9.159.1
+qosRsvpOperPolicySource: 1.3.6.1.4.1.9.9.159.1.1.5
+qosCopsPolicyStatus: 1.3.6.1.4.1.9.9.159.1.1.6
+ciscoQosPolicyConfigMIBGroups: 1.3.6.1.4.1.9.9.159.3.2
+ciscoQosPolicyConfigMIB: 1.3.6.1.4.1.9.9.159
+qosIfCapabilityEntry: 1.3.6.1.4.1.9.9.159.1.2.2.1
+qosIfCapabilities: 1.3.6.1.4.1.9.9.159.1.2.2.1.3
+qosPrOperPolicySource: 1.3.6.1.4.1.9.9.159.1.1.3
+qosPrIfEntry: 1.3.6.1.4.1.9.9.159.1.2.1.1
+qosRsvpAdminPolicySource: 1.3.6.1.4.1.9.9.159.1.1.4
+qosPolicyGlobalObjects: 1.3.6.1.4.1.9.9.159.1.1
+qosPrIfTable: 1.3.6.1.4.1.9.9.159.1.2.1
+qosPrIfOperPolicySource: 1.3.6.1.4.1.9.9.159.1.2.1.1.2
+qosIfDirection: 1.3.6.1.4.1.9.9.159.1.2.2.1.1
+ciscoQosPolicyConfigMIBConformance: 1.3.6.1.4.1.9.9.159.3
+ciscoQosPolicyConfigMIBCompliances: 1.3.6.1.4.1.9.9.159.3.1
+qosEnabled: 1.3.6.1.4.1.9.9.159.1.1.1
+qosPolicyInterfaceObjects: 1.3.6.1.4.1.9.9.159.1.2
+qosIfCapabilityTable: 1.3.6.1.4.1.9.9.159.1.2.2
+qosPrAdminPolicySource: 1.3.6.1.4.1.9.9.159.1.1.2
+qosPrIfAdminPolicySource: 1.3.6.1.4.1.9.9.159.1.2.1.1.1
+ciscoQosPolicyMIBNotifications: 1.3.6.1.4.1.9.9.159.2
+

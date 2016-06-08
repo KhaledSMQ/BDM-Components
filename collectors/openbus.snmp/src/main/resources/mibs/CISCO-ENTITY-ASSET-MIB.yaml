@@ -1,0 +1,25 @@
+--- 
+ceAssetTag: 1.3.6.1.4.1.9.9.92.1.1.1.13
+ceAssetFirmwareID: 1.3.6.1.4.1.9.9.92.1.1.1.7
+ceAssetTable: 1.3.6.1.4.1.9.9.92.1.1
+ciscoEntityAssetMIB: 1.3.6.1.4.1.9.9.92
+ceAssetSerialNumber: 1.3.6.1.4.1.9.9.92.1.1.1.2
+ceAssetOrderablePartNumber: 1.3.6.1.4.1.9.9.92.1.1.1.3
+ciscoEntityAssetMIBNotifications: 1.3.6.1.4.1.9.9.92.2.0
+ceAssetSoftwareRevision: 1.3.6.1.4.1.9.9.92.1.1.1.10
+ceAssetCLEI: 1.3.6.1.4.1.9.9.92.1.1.1.11
+ceAssetIsFRU: 1.3.6.1.4.1.9.9.92.1.1.1.14
+ciscoEntityAssetMIBNotificationsPrefix: 1.3.6.1.4.1.9.9.92.2
+ceAssetOEMString: 1.3.6.1.4.1.9.9.92.1.1.1.1
+ceAssetMfgAssyRevision: 1.3.6.1.4.1.9.9.92.1.1.1.6
+ciscoEntityAssetMIBCompliances: 1.3.6.1.4.1.9.9.92.3.1
+ciscoEntityAssetMIBObjects: 1.3.6.1.4.1.9.9.92.1
+ceAssetEntry: 1.3.6.1.4.1.9.9.92.1.1.1
+ceAssetHardwareRevision: 1.3.6.1.4.1.9.9.92.1.1.1.4
+ceAssetMfgAssyNumber: 1.3.6.1.4.1.9.9.92.1.1.1.5
+ceAssetSoftwareID: 1.3.6.1.4.1.9.9.92.1.1.1.9
+ceAssetAlias: 1.3.6.1.4.1.9.9.92.1.1.1.12
+ceAssetFirmwareRevision: 1.3.6.1.4.1.9.9.92.1.1.1.8
+ciscoEntityAssetMIBConformance: 1.3.6.1.4.1.9.9.92.3
+ciscoEntityAssetMIBGroups: 1.3.6.1.4.1.9.9.92.3.2
+

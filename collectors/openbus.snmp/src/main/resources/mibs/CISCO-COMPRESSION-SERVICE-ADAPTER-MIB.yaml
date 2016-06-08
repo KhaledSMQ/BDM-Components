@@ -1,0 +1,20 @@
+--- 
+ciscoCompressionServiceAdapterMIB: 1.3.6.1.4.1.9.9.57
+csaInPackets: 1.3.6.1.4.1.9.9.57.1.1.1.1.3
+csaOutPackets: 1.3.6.1.4.1.9.9.57.1.1.1.1.4
+ciscoCSAMIBObjects: 1.3.6.1.4.1.9.9.57.1
+csaCompressionRatio: 1.3.6.1.4.1.9.9.57.1.1.1.1.8
+csaOutPacketsDrop: 1.3.6.1.4.1.9.9.57.1.1.1.1.6
+csaMIBCompliances: 1.3.6.1.4.1.9.9.57.3.1
+csaEnable: 1.3.6.1.4.1.9.9.57.1.1.1.1.10
+ciscoCSAMIBConformance: 1.3.6.1.4.1.9.9.57.3
+csaStatsTable: 1.3.6.1.4.1.9.9.57.1.1.1
+csaNumberOfRestarts: 1.3.6.1.4.1.9.9.57.1.1.1.1.7
+csaStats: 1.3.6.1.4.1.9.9.57.1.1
+csaInPacketsDrop: 1.3.6.1.4.1.9.9.57.1.1.1.1.5
+csaOutOctets: 1.3.6.1.4.1.9.9.57.1.1.1.1.2
+csaMIBGroups: 1.3.6.1.4.1.9.9.57.3.2
+csaStatsEntry: 1.3.6.1.4.1.9.9.57.1.1.1.1
+csaInOctets: 1.3.6.1.4.1.9.9.57.1.1.1.1.1
+csaDecompressionRatio: 1.3.6.1.4.1.9.9.57.1.1.1.1.9
+

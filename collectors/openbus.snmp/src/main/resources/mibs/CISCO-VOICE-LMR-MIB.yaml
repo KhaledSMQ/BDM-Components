@@ -1,0 +1,24 @@
+--- 
+cvlSignalToneEntry: 1.3.6.1.4.1.9.9.510.1.1.2.1
+cvlClassEntry: 1.3.6.1.4.1.9.9.510.1.1.1.1
+cvlSignalToneIndex: 1.3.6.1.4.1.9.9.510.1.1.2.1.2
+cvlGuardToneFreq: 1.3.6.1.4.1.9.9.510.1.1.1.1.4
+cvlClassIndex: 1.3.6.1.4.1.9.9.510.1.1.1.1.1
+cvlGuardToneAmp: 1.3.6.1.4.1.9.9.510.1.1.1.1.5
+cvlSignalToneGroupIndex: 1.3.6.1.4.1.9.9.510.1.1.2.1.1
+cvlSignalToneName: 1.3.6.1.4.1.9.9.510.1.1.2.1.3
+cvlSignalToneAmp: 1.3.6.1.4.1.9.9.510.1.1.2.1.5
+ciscoVoiceLmrMIB: 1.3.6.1.4.1.9.9.510
+cvlDigitalFilter: 1.3.6.1.4.1.9.9.510.1.1.1.1.3
+cvlSignalToneDur: 1.3.6.1.4.1.9.9.510.1.1.2.1.6
+cvlMIBConformance: 1.3.6.1.4.1.9.9.510.2
+cvlMIBCompliances: 1.3.6.1.4.1.9.9.510.2.1
+cvlToneObjects: 1.3.6.1.4.1.9.9.510.1.1
+cvlClassTable: 1.3.6.1.4.1.9.9.510.1.1.1
+cvlClassName: 1.3.6.1.4.1.9.9.510.1.1.1.1.2
+cvlIdleToneFlag: 1.3.6.1.4.1.9.9.510.1.1.1.1.6
+cvlSignalToneTable: 1.3.6.1.4.1.9.9.510.1.1.2
+cvlMIBObjects: 1.3.6.1.4.1.9.9.510.1
+cvlSignalToneFreq: 1.3.6.1.4.1.9.9.510.1.1.2.1.4
+cvlMIBGroups: 1.3.6.1.4.1.9.9.510.2.2
+

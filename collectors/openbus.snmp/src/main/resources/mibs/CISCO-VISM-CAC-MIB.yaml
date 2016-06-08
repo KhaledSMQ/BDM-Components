@@ -1,0 +1,23 @@
+--- 
+vismChanCacPassedCons: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.3
+vismPortCacPvcAddFailures: 1.3.6.1.4.1.351.110.5.5.20.1
+vismChanCarrierLossPolicy: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.6
+vismChanCacMaster: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.2
+vismCardCacFailuresGrp: 1.3.6.1.4.1.351.110.5.5.20
+vismChanCacRejectionPolicy: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.5
+vismPortCacSvcAddFailures: 1.3.6.1.4.1.351.110.5.5.20.2
+vismVcCacPvcUpspeedFailures: 1.3.6.1.4.1.351.110.5.5.20.4
+vismChanCacRejectedCons: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.4
+ciscoVismCacMIBConformance: 1.3.6.1.4.1.351.150.96.2
+vismChanVADTolerance: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.7
+vismVcCacPvcFailures: 1.3.6.1.4.1.351.110.5.5.20.3
+vismPortCacSvcUpspeedFailures: 1.3.6.1.4.1.351.110.5.5.20.5
+ciscoVismCacMIBGroups: 1.3.6.1.4.1.351.150.96.2.1
+vismChanCacTable: 1.3.6.1.4.1.351.110.5.5.3.1.3
+vismChanVADDutyCycle: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.8
+vismChanCacEntry: 1.3.6.1.4.1.351.110.5.5.3.1.3.1
+vismChanNum: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.1
+networkCacConfigState: 1.3.6.1.4.1.351.110.5.5.3.1.3.1.9
+ciscoVismCacMIB: 1.3.6.1.4.1.351.150.96
+ciscoVismCacMIBCompliances: 1.3.6.1.4.1.351.150.96.2.2
+

@@ -1,0 +1,36 @@
+--- 
+clogServerConfigEntry: 1.3.6.1.4.1.9.9.41.1.3.2.1
+clogBasic: 1.3.6.1.4.1.9.9.41.1.1
+clogOriginID: 1.3.6.1.4.1.9.9.41.1.1.7
+clogServerAddr: 1.3.6.1.4.1.9.9.41.1.3.2.1.2
+clogNotificationsSent: 1.3.6.1.4.1.9.9.41.1.1.1
+clogHistTableMaxLength: 1.3.6.1.4.1.9.9.41.1.2.1
+clogHistoryTable: 1.3.6.1.4.1.9.9.41.1.2.3
+clogHistMsgName: 1.3.6.1.4.1.9.9.41.1.2.3.1.4
+clogMaxServers: 1.3.6.1.4.1.9.9.41.1.3.1
+ciscoSyslogMIBNotificationPrefix: 1.3.6.1.4.1.9.9.41.2
+clogMaxSeverity: 1.3.6.1.4.1.9.9.41.1.1.3
+clogHistMsgsFlushed: 1.3.6.1.4.1.9.9.41.1.2.2
+clogServerConfigTable: 1.3.6.1.4.1.9.9.41.1.3.2
+clogMessageGenerated: 1.3.6.1.4.1.9.9.41.2.0.1
+clogHistSeverity: 1.3.6.1.4.1.9.9.41.1.2.3.1.3
+clogHistMsgText: 1.3.6.1.4.1.9.9.41.1.2.3.1.5
+ciscoSyslogMIBGroups: 1.3.6.1.4.1.9.9.41.3.2
+ciscoSyslogMIBObjects: 1.3.6.1.4.1.9.9.41.1
+clogHistTimestamp: 1.3.6.1.4.1.9.9.41.1.2.3.1.6
+clogServer: 1.3.6.1.4.1.9.9.41.1.3
+ciscoSyslogMIBConformance: 1.3.6.1.4.1.9.9.41.3
+ciscoSyslogMIB: 1.3.6.1.4.1.9.9.41
+clogNotificationsEnabled: 1.3.6.1.4.1.9.9.41.1.1.2
+clogMsgIgnores: 1.3.6.1.4.1.9.9.41.1.1.4
+clogHistory: 1.3.6.1.4.1.9.9.41.1.2
+clogServerAddrType: 1.3.6.1.4.1.9.9.41.1.3.2.1.1
+clogMsgDrops: 1.3.6.1.4.1.9.9.41.1.1.5
+clogOriginIDType: 1.3.6.1.4.1.9.9.41.1.1.6
+clogHistFacility: 1.3.6.1.4.1.9.9.41.1.2.3.1.2
+clogServerStatus: 1.3.6.1.4.1.9.9.41.1.3.2.1.3
+clogHistoryEntry: 1.3.6.1.4.1.9.9.41.1.2.3.1
+ciscoSyslogMIBNotifications: 1.3.6.1.4.1.9.9.41.2.0
+ciscoSyslogMIBCompliances: 1.3.6.1.4.1.9.9.41.3.1
+clogHistIndex: 1.3.6.1.4.1.9.9.41.1.2.3.1.1
+

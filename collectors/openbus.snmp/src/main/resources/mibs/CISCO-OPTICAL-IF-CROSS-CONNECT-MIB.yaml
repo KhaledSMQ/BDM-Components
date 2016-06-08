@@ -1,0 +1,29 @@
+--- 
+coifccInterfaceEntry: 1.3.6.1.4.1.9.10.68.1.1.1.1
+coifccCcSwitchType: 1.3.6.1.4.1.9.10.68.1.2.3.1.4
+coifccCcL2HOperStatus: 1.3.6.1.4.1.9.10.68.1.2.3.1.7
+coifccCcL2HAttenuation: 1.3.6.1.4.1.9.10.68.1.2.3.1.12
+coifccInterfaceTable: 1.3.6.1.4.1.9.10.68.1.1.1
+coifccCrossConnectEntry: 1.3.6.1.4.1.9.10.68.1.2.3.1
+coifccCcKind: 1.3.6.1.4.1.9.10.68.1.2.3.1.5
+coifccInterface: 1.3.6.1.4.1.9.10.68.1.1
+coifccIfCrossConnectIdentifier: 1.3.6.1.4.1.9.10.68.1.1.1.1.1
+coifccCcIndex: 1.3.6.1.4.1.9.10.68.1.2.3.1.1
+coifccMIBObjects: 1.3.6.1.4.1.9.10.68.1
+coifccCcLastChange: 1.3.6.1.4.1.9.10.68.1.2.2
+coifccCrossConnectTable: 1.3.6.1.4.1.9.10.68.1.2.3
+coifccCcHighIfIndex: 1.3.6.1.4.1.9.10.68.1.2.3.1.3
+coifccCcCreationTime: 1.3.6.1.4.1.9.10.68.1.2.3.1.6
+coifccCcL2HLastChange: 1.3.6.1.4.1.9.10.68.1.2.3.1.9
+coifccCcH2LLastChange: 1.3.6.1.4.1.9.10.68.1.2.3.1.10
+coifccCcRowStatus: 1.3.6.1.4.1.9.10.68.1.2.3.1.11
+coifccMIBConformance: 1.3.6.1.4.1.9.10.68.2
+coifccMIBCompliances: 1.3.6.1.4.1.9.10.68.2.1
+coifccCcH2LAttenuation: 1.3.6.1.4.1.9.10.68.1.2.3.1.13
+coifccCrossConnect: 1.3.6.1.4.1.9.10.68.1.2
+coifccCcLowIfIndex: 1.3.6.1.4.1.9.10.68.1.2.3.1.2
+ciscoOpticalIfCrossConnectMIB: 1.3.6.1.4.1.9.10.68
+coifccCcIndexNext: 1.3.6.1.4.1.9.10.68.1.2.1
+coifccCcH2LOperStatus: 1.3.6.1.4.1.9.10.68.1.2.3.1.8
+coifccMIBGroups: 1.3.6.1.4.1.9.10.68.2.2
+

@@ -1,0 +1,12 @@
+--- 
+ciscoVlanBridgingMIBConformance: 1.3.6.1.4.1.9.9.56.3
+ciscoVlanBridgingMIBCompliances: 1.3.6.1.4.1.9.9.56.3.1
+ciscoVlanBridgingMIB: 1.3.6.1.4.1.9.9.56
+ciscoVlanBridgingMIBGroups: 1.3.6.1.4.1.9.9.56.3.2
+ciscoVlanBridgingMIBObjects: 1.3.6.1.4.1.9.9.56.1
+cvbStpForwardingMap: 1.3.6.1.4.1.9.9.56.1.1.1.1.2
+cvbStpEntry: 1.3.6.1.4.1.9.9.56.1.1.1.1
+cvbStp: 1.3.6.1.4.1.9.9.56.1.1
+cvbStpTable: 1.3.6.1.4.1.9.9.56.1.1.1
+cvbStpForwardingMap2k: 1.3.6.1.4.1.9.9.56.1.1.1.1.3
+

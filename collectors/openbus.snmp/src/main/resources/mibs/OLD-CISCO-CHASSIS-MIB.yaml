@@ -1,0 +1,35 @@
+--- 
+nvRAMUsed: 1.3.6.1.4.1.9.3.6.8
+cardType: 1.3.6.1.4.1.9.3.6.11.1.2
+cardHwVersion: 1.3.6.1.4.1.9.3.6.11.1.5
+cardIfSlotNumber: 1.3.6.1.4.1.9.3.6.13.1.2
+chassisVersion: 1.3.6.1.4.1.9.3.6.2
+romSysVersion: 1.3.6.1.4.1.9.3.6.5
+processorRam: 1.3.6.1.4.1.9.3.6.6
+cardIfIndexEntry: 1.3.6.1.4.1.9.3.6.13.1
+chassis: 1.3.6.1.4.1.9.3.6
+nvRAMSize: 1.3.6.1.4.1.9.3.6.7
+cardTableEntry: 1.3.6.1.4.1.9.3.6.11.1
+chassisSlots: 1.3.6.1.4.1.9.3.6.12
+configRegNext: 1.3.6.1.4.1.9.3.6.10
+sysUpTimeAtLastChassisChange: 1.3.6.1.4.1.9.3.6.15
+configRegister: 1.3.6.1.4.1.9.3.6.9
+cardTable: 1.3.6.1.4.1.9.3.6.11
+cardIfCardIndex: 1.3.6.1.4.1.9.3.6.13.1.4
+cardSwVersion: 1.3.6.1.4.1.9.3.6.11.1.6
+cardSlotNumber: 1.3.6.1.4.1.9.3.6.11.1.7
+cardContainedByIndex: 1.3.6.1.4.1.9.3.6.11.1.8
+cardIfIndexTable: 1.3.6.1.4.1.9.3.6.13
+cardIfPortNumber: 1.3.6.1.4.1.9.3.6.13.1.3
+cardIfConnectorTypeEnabled: 1.3.6.1.4.1.9.3.6.13.1.5
+chassisType: 1.3.6.1.4.1.9.3.6.1
+romVersion: 1.3.6.1.4.1.9.3.6.4
+cardDescr: 1.3.6.1.4.1.9.3.6.11.1.3
+cardOperStatus: 1.3.6.1.4.1.9.3.6.11.1.9
+cardIfIndex: 1.3.6.1.4.1.9.3.6.13.1.1
+chassisPartner: 1.3.6.1.4.1.9.3.6.14
+chassisId: 1.3.6.1.4.1.9.3.6.3
+cardIndex: 1.3.6.1.4.1.9.3.6.11.1.1
+cardSerial: 1.3.6.1.4.1.9.3.6.11.1.4
+cardSlots: 1.3.6.1.4.1.9.3.6.11.1.10
+

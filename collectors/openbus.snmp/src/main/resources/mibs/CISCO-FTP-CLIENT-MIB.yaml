@@ -1,0 +1,26 @@
+--- 
+cfcRequest: 1.3.6.1.4.1.9.9.80.1.1
+cfcRequestRemoteFile: 1.3.6.1.4.1.9.9.80.1.1.5.1.4
+ciscoFtpClientMIBObjects: 1.3.6.1.4.1.9.9.80.1
+ciscoFtpClientMIBCompliances: 1.3.6.1.4.1.9.9.80.3.1
+cfcRequestServer: 1.3.6.1.4.1.9.9.80.1.1.5.1.5
+cfcRequestResult: 1.3.6.1.4.1.9.9.80.1.1.5.1.8
+cfcRequestEntryStatus: 1.3.6.1.4.1.9.9.80.1.1.5.1.12
+cfcRequestsHigh: 1.3.6.1.4.1.9.9.80.1.1.3
+cfcRequestStop: 1.3.6.1.4.1.9.9.80.1.1.5.1.10
+cfcRequestTable: 1.3.6.1.4.1.9.9.80.1.1.5
+cfcRequests: 1.3.6.1.4.1.9.9.80.1.1.2
+cfcRequestEntry: 1.3.6.1.4.1.9.9.80.1.1.5.1
+cfcRequestLocalFile: 1.3.6.1.4.1.9.9.80.1.1.5.1.3
+cfcRequestCompletionTime: 1.3.6.1.4.1.9.9.80.1.1.5.1.9
+ciscoFtpClientMIBGroups: 1.3.6.1.4.1.9.9.80.3.2
+cfcRequestMaximum: 1.3.6.1.4.1.9.9.80.1.1.1
+cfcRequestIndex: 1.3.6.1.4.1.9.9.80.1.1.5.1.1
+cfcRequestUser: 1.3.6.1.4.1.9.9.80.1.1.5.1.6
+cfcRequestPassword: 1.3.6.1.4.1.9.9.80.1.1.5.1.7
+ciscoFtpClientMIB: 1.3.6.1.4.1.9.9.80
+cfcRequestsBumped: 1.3.6.1.4.1.9.9.80.1.1.4
+cfcRequestOperation: 1.3.6.1.4.1.9.9.80.1.1.5.1.2
+cfcRequestOperationState: 1.3.6.1.4.1.9.9.80.1.1.5.1.11
+ciscoFtpClientMIBConformance: 1.3.6.1.4.1.9.9.80.3
+

@@ -1,0 +1,34 @@
+--- 
+igmpInterfaceVersion1QuerierTimer: 1.3.6.1.3.59.1.1.1.1.9
+igmpMIB: 1.3.6.1.3.59
+igmp: 1.3.6.1.3.59.1.1
+igmpInterfaceQueryInterval: 1.3.6.1.3.59.1.1.1.1.2
+igmpInterfaceStatus: 1.3.6.1.3.59.1.1.1.1.3
+igmpInterfaceLeaves: 1.3.6.1.3.59.1.1.1.1.12
+igmpInterfaceRobustness: 1.3.6.1.3.59.1.1.1.1.14
+igmpMIBConformance: 1.3.6.1.3.59.2
+igmpInterfaceEntry: 1.3.6.1.3.59.1.1.1.1
+igmpInterfaceQuerier: 1.3.6.1.3.59.1.1.1.1.5
+igmpInterfaceLeaveEnabled: 1.3.6.1.3.59.1.1.1.1.8
+igmpCacheTable: 1.3.6.1.3.59.1.1.2
+igmpMIBObjects: 1.3.6.1.3.59.1
+igmpCacheAddress: 1.3.6.1.3.59.1.1.2.1.1
+igmpCacheLastReporter: 1.3.6.1.3.59.1.1.2.1.4
+igmpInterfaceTable: 1.3.6.1.3.59.1.1.1
+igmpInterfaceWrongVersionQueries: 1.3.6.1.3.59.1.1.1.1.10
+igmpCacheIfIndex: 1.3.6.1.3.59.1.1.2.1.2
+igmpCacheUpTime: 1.3.6.1.3.59.1.1.2.1.5
+igmpInterfaceQueryMaxResponseTime: 1.3.6.1.3.59.1.1.1.1.6
+igmpInterfaceGroups: 1.3.6.1.3.59.1.1.1.1.13
+igmpCacheStatus: 1.3.6.1.3.59.1.1.2.1.7
+igmpInterfaceIfIndex: 1.3.6.1.3.59.1.1.1.1.1
+igmpInterfaceVersion: 1.3.6.1.3.59.1.1.1.1.4
+igmpInterfaceJoins: 1.3.6.1.3.59.1.1.1.1.11
+igmpCacheSelf: 1.3.6.1.3.59.1.1.2.1.3
+igmpInterfaceQuerierPresentTimeout: 1.3.6.1.3.59.1.1.1.1.7
+igmpCacheEntry: 1.3.6.1.3.59.1.1.2.1
+igmpCacheVersion1HostTimer: 1.3.6.1.3.59.1.1.2.1.8
+igmpCacheExpiryTime: 1.3.6.1.3.59.1.1.2.1.6
+igmpMIBCompliances: 1.3.6.1.3.59.2.1
+igmpMIBGroups: 1.3.6.1.3.59.2.2
+

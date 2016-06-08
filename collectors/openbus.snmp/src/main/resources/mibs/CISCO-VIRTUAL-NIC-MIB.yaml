@@ -1,0 +1,35 @@
+--- 
+cvnVethHostAddr: 1.3.6.1.4.1.9.9.710.1.1.1.1.6
+cvnConnecteeName: 1.3.6.1.4.1.9.9.710.1.2.1.1.3
+cvnConnecteeType: 1.3.6.1.4.1.9.9.710.1.2.1.1.5
+cvnVethAdapter: 1.3.6.1.4.1.9.9.710.1.1.1.1.2
+cvnInterfaceObjects: 1.3.6.1.4.1.9.9.710.1.1
+cvnVethIfTable: 1.3.6.1.4.1.9.9.710.1.1.1
+cvnVethInterface: 1.3.6.1.4.1.9.9.710.1.1.1.1.1
+cvnVethHostAddrType: 1.3.6.1.4.1.9.9.710.1.1.1.1.5
+cvnConnecteeTable: 1.3.6.1.4.1.9.9.710.1.2.1
+cvnPinningTable: 1.3.6.1.4.1.9.9.710.1.1.2
+ciscoVirtualNicMIBGroups: 1.3.6.1.4.1.9.9.710.2.2
+ciscoVirtualNicMIBObjects: 1.3.6.1.4.1.9.9.710.1
+cvnVethOwner: 1.3.6.1.4.1.9.9.710.1.1.1.1.3
+cvnVethIfProfileAlias: 1.3.6.1.4.1.9.9.710.1.1.1.1.8
+cvnConnecteeAttachType: 1.3.6.1.4.1.9.9.710.1.2.1.1.1
+cvnVethIfAdditionalState: 1.3.6.1.4.1.9.9.710.1.1.1.1.9
+cvnVethStateReason: 1.3.6.1.4.1.9.9.710.1.1.1.1.10
+cvnPinnedSubGrpId: 1.3.6.1.4.1.9.9.710.1.1.2.1.1
+cvnConnecteeEntry: 1.3.6.1.4.1.9.9.710.1.2.1.1
+cvnConnecteeUuid: 1.3.6.1.4.1.9.9.710.1.2.1.1.4
+ciscoVirtualNicMIBNotifs: 1.3.6.1.4.1.9.9.710.0
+cvnVethPortProfileUsed: 1.3.6.1.4.1.9.9.710.1.1.1.1.7
+cvnVethIfEntry: 1.3.6.1.4.1.9.9.710.1.1.1.1
+cvnConnecteeDeviceName: 1.3.6.1.4.1.9.9.710.1.2.1.1.7
+cvnConnecteeDeviceType: 1.3.6.1.4.1.9.9.710.1.2.1.1.8
+ciscoVirtualNicMIBConformance: 1.3.6.1.4.1.9.9.710.2
+ciscoVirtualNicMIB: 1.3.6.1.4.1.9.9.710
+cvnPinningEntry: 1.3.6.1.4.1.9.9.710.1.1.2.1
+cvnConnecteeObjects: 1.3.6.1.4.1.9.9.710.1.2
+cvnConnecteeMac: 1.3.6.1.4.1.9.9.710.1.2.1.1.6
+ciscoVirtualNicMIBCompliances: 1.3.6.1.4.1.9.9.710.2.1
+cvnVethHostID: 1.3.6.1.4.1.9.9.710.1.1.1.1.4
+cvnDVSPort: 1.3.6.1.4.1.9.9.710.1.2.1.1.2
+

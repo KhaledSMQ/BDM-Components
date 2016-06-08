@@ -1,0 +1,33 @@
+--- 
+capSidSessionAddress: 1.3.6.1.4.1.9.9.653.1.1.3.1.5
+capSidSessionPolicyEntry: 1.3.6.1.4.1.9.9.653.1.1.4.1
+ciscoAdmissionPolicyMIBGroups: 1.3.6.1.4.1.9.9.653.2.2
+capSidSessionPolicyTable: 1.3.6.1.4.1.9.9.653.1.1.4
+capSidSessionAddressType: 1.3.6.1.4.1.9.9.653.1.1.3.1.4
+capSidRedirectUrlString: 1.3.6.1.4.1.9.9.653.1.1.4.1.10
+ciscoAdmissionPolicyMIBConformance: 1.3.6.1.4.1.9.9.653.2
+ciscoAdmissionPolicyMIBObjects: 1.3.6.1.4.1.9.9.653.1
+capSessions: 1.3.6.1.4.1.9.9.653.1.1
+capTotalSessions: 1.3.6.1.4.1.9.9.653.1.1.1
+capSidDownloadableAclState: 1.3.6.1.4.1.9.9.653.1.1.4.1.7
+capSidSessionIfIndex: 1.3.6.1.4.1.9.9.653.1.1.3.1.2
+capSidRedirectUrlStringState: 1.3.6.1.4.1.9.9.653.1.1.4.1.11
+capActiveSessions: 1.3.6.1.4.1.9.9.653.1.1.2
+capSidSessionIndex: 1.3.6.1.4.1.9.9.653.1.1.3.1.1
+capSidSessionMacAddress: 1.3.6.1.4.1.9.9.653.1.1.3.1.3
+capSidEgressQosPolicyState: 1.3.6.1.4.1.9.9.653.1.1.4.1.5
+capSidUrlRedirectAclState: 1.3.6.1.4.1.9.9.653.1.1.4.1.9
+ciscoAdmissionPolicyMIB: 1.3.6.1.4.1.9.9.653
+capSidSessionFeatureType: 1.3.6.1.4.1.9.9.653.1.1.3.1.6
+capSidSessionPolicyIndex: 1.3.6.1.4.1.9.9.653.1.1.4.1.1
+capSidIngressQosPolicyState: 1.3.6.1.4.1.9.9.653.1.1.4.1.3
+capSidEgressQosPolicy: 1.3.6.1.4.1.9.9.653.1.1.4.1.4
+ciscoAdmissionPolicyMIBCompliances: 1.3.6.1.4.1.9.9.653.2.1
+capSidSessionInfoTable: 1.3.6.1.4.1.9.9.653.1.1.3
+capSidIngressQosPolicy: 1.3.6.1.4.1.9.9.653.1.1.4.1.2
+capSidDownloadableAclName: 1.3.6.1.4.1.9.9.653.1.1.4.1.6
+ciscoAdmissionPolicyMIBNotifs: 1.3.6.1.4.1.9.9.653.0
+capSidSecurityGroupTag: 1.3.6.1.4.1.9.9.653.1.1.4.1.12
+capSidSessionInfoEntry: 1.3.6.1.4.1.9.9.653.1.1.3.1
+capSidUrlRedirectAclName: 1.3.6.1.4.1.9.9.653.1.1.4.1.8
+

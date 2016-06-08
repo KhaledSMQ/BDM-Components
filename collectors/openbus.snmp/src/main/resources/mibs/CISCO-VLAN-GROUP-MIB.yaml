@@ -1,0 +1,16 @@
+--- 
+ciscoVlanGroupMIB: 1.3.6.1.4.1.9.9.709
+ciscoVlanGroupMIBConform: 1.3.6.1.4.1.9.9.709.2
+cvgConfigTable: 1.3.6.1.4.1.9.9.709.1.1
+cvgConfigVlansFirst2K: 1.3.6.1.4.1.9.9.709.1.1.1.2
+ciscoVlanGroupMIBObjects: 1.3.6.1.4.1.9.9.709.1
+ciscoVlanGroupMIBNotifs: 1.3.6.1.4.1.9.9.709.0
+cvgConfigTableSize: 1.3.6.1.4.1.9.9.709.1.2
+cvgConfigEntry: 1.3.6.1.4.1.9.9.709.1.1.1
+ciscoVlanGroupMIBCompliances: 1.3.6.1.4.1.9.9.709.2.1
+cvgConfigRowStatus: 1.3.6.1.4.1.9.9.709.1.1.1.5
+cvgConfigGroupName: 1.3.6.1.4.1.9.9.709.1.1.1.1
+cvgConfigStorageType: 1.3.6.1.4.1.9.9.709.1.1.1.4
+cvgConfigVlansSecond2K: 1.3.6.1.4.1.9.9.709.1.1.1.3
+ciscoVlanGroupMIBGroups: 1.3.6.1.4.1.9.9.709.2.2
+

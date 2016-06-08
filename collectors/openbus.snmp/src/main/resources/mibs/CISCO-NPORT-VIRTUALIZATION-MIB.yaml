@@ -1,0 +1,19 @@
+--- 
+cnpvTrafficMapEntry: 1.3.6.1.4.1.9.9.660.1.1.2.1.1
+ciscoNportVirtualizationMIBConform: 1.3.6.1.4.1.9.9.660.2
+cnpvConfiguration: 1.3.6.1.4.1.9.9.660.1.1
+cnpvTrafficMap: 1.3.6.1.4.1.9.9.660.1.1.2
+ciscoNportVirtualizationMIB: 1.3.6.1.4.1.9.9.660
+ciscoNportVirtualizationMIBObjects: 1.3.6.1.4.1.9.9.660.1
+ciscoNportVirtualizationMIBGroups: 1.3.6.1.4.1.9.9.660.2.2
+ciscoNportVirtualizationMIBNotifs: 1.3.6.1.4.1.9.9.660.0
+cnpvTrafficMapToIfIndexList: 1.3.6.1.4.1.9.9.660.1.1.2.1.1.2
+ciscoNportVirtualizationMIBCompliances: 1.3.6.1.4.1.9.9.660.2.1
+cnpvTrafficMapRowStatus: 1.3.6.1.4.1.9.9.660.1.1.2.1.1.5
+cnpvTrafficMapTable: 1.3.6.1.4.1.9.9.660.1.1.2.1
+cnpvTrafficMapLastChange: 1.3.6.1.4.1.9.9.660.1.1.2.1.1.3
+cnpvTrafficMapStorageType: 1.3.6.1.4.1.9.9.660.1.1.2.1.1.4
+cnpvGlobal: 1.3.6.1.4.1.9.9.660.1.1.1
+cnpvTrafficAutoLoadbalance: 1.3.6.1.4.1.9.9.660.1.1.1.1
+cnpvTrafficMapFromIfIndex: 1.3.6.1.4.1.9.9.660.1.1.2.1.1.1
+

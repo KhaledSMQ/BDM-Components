@@ -1,0 +1,18 @@
+--- 
+cptPortTrackLinkedPort: 1.3.6.1.4.1.9.9.437.1.1.1.1.1
+cptPortTrackVsanIndex: 1.3.6.1.4.1.9.9.437.1.1.1.1.4
+cptPortForceShutTable: 1.3.6.1.4.1.9.9.437.1.1.2
+cptPortForceState: 1.3.6.1.4.1.9.9.437.1.1.2.1.1
+ciscoPortTrackMIB: 1.3.6.1.4.1.9.9.437
+cptMIBGroups: 1.3.6.1.4.1.9.9.437.2.2
+cptPortTrackTable: 1.3.6.1.4.1.9.9.437.1.1.1
+cptPortTrackVsanType: 1.3.6.1.4.1.9.9.437.1.1.1.1.3
+cptPortTrackRowStatus: 1.3.6.1.4.1.9.9.437.1.1.1.1.5
+cptPortForceShutEntry: 1.3.6.1.4.1.9.9.437.1.1.2.1
+cptMIBCompliances: 1.3.6.1.4.1.9.9.437.2.1
+ciscoPortTrackObjects: 1.3.6.1.4.1.9.9.437.1
+cptPortTrackEntry: 1.3.6.1.4.1.9.9.437.1.1.1.1
+cptPortTrackTrackedPort: 1.3.6.1.4.1.9.9.437.1.1.1.1.2
+cptConfig: 1.3.6.1.4.1.9.9.437.1.1
+cptMIBConformance: 1.3.6.1.4.1.9.9.437.2
+

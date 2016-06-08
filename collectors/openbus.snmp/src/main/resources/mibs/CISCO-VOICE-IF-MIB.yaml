@@ -1,0 +1,24 @@
+--- 
+cvIfCfgMusicOnHoldThreshold: 1.3.6.1.4.1.9.9.64.1.1.1.1.3
+cvIfCfgEchoCanceller: 1.3.6.1.4.1.9.9.64.1.1.1.1.14
+cvIfCfgInGain: 1.3.6.1.4.1.9.9.64.1.1.1.1.4
+cvIfCfgInterDigitTimeOut: 1.3.6.1.4.1.9.9.64.1.1.1.1.11
+cvIfCfgRegionalTone: 1.3.6.1.4.1.9.9.64.1.1.1.1.12
+cvIfCfgNoiseRegEnable: 1.3.6.1.4.1.9.9.64.1.1.1.1.1
+cvIfCfgEchoCancelWorstERL: 1.3.6.1.4.1.9.9.64.1.1.1.1.13
+cvIfCfgTable: 1.3.6.1.4.1.9.9.64.1.1.1
+cvIfCfgConnectionNumber: 1.3.6.1.4.1.9.9.64.1.1.1.1.9
+cvIfGroups: 1.3.6.1.4.1.9.9.64.2.2
+cvIfCfgEchoCancelCoverage: 1.3.6.1.4.1.9.9.64.1.1.1.1.7
+cvIfConformance: 1.3.6.1.4.1.9.9.64.2
+cvIfObjects: 1.3.6.1.4.1.9.9.64.1
+cvIfCfgOutAttn: 1.3.6.1.4.1.9.9.64.1.1.1.1.5
+cvIfCfgEchoCancelEnable: 1.3.6.1.4.1.9.9.64.1.1.1.1.6
+cvIfCfgConnectionMode: 1.3.6.1.4.1.9.9.64.1.1.1.1.8
+cvIfCfgInitialDigitTimeOut: 1.3.6.1.4.1.9.9.64.1.1.1.1.10
+cvIfCfgObjects: 1.3.6.1.4.1.9.9.64.1.1
+cvIfCfgEntry: 1.3.6.1.4.1.9.9.64.1.1.1.1
+cvIfCfgNonLinearProcEnable: 1.3.6.1.4.1.9.9.64.1.1.1.1.2
+ciscoVoiceInterfaceMIB: 1.3.6.1.4.1.9.9.64
+cvIfCompliances: 1.3.6.1.4.1.9.9.64.2.1
+

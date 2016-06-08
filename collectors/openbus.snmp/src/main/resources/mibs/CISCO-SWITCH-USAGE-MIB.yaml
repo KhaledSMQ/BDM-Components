@@ -1,0 +1,16 @@
+--- 
+cswitchUsageByIngrsIntfHCPkts: 1.3.6.1.4.1.9.9.201.1.1.1.1.2
+cswitchUsageStatEntry: 1.3.6.1.4.1.9.9.201.1.1.1.1
+cswitchUsageByIngrsIntfOctets: 1.3.6.1.4.1.9.9.201.1.1.1.1.3
+cswitchUsageByIngrsIntfHCOctets: 1.3.6.1.4.1.9.9.201.1.1.1.1.4
+ciscoSwitchUsageMIBCompliances: 1.3.6.1.4.1.9.9.201.3.1
+ciscoSwitchUsageMIBNotifications: 1.3.6.1.4.1.9.9.201.2.0
+ciscoSwitchUsageMIBConformance: 1.3.6.1.4.1.9.9.201.3
+ciscoSwitchUsageMIBNotifyPrefix: 1.3.6.1.4.1.9.9.201.2
+ciscoSwitchUsageMIB: 1.3.6.1.4.1.9.9.201
+cswitchUsageByIngrsIntfPkts: 1.3.6.1.4.1.9.9.201.1.1.1.1.1
+cswitchUsageStatTable: 1.3.6.1.4.1.9.9.201.1.1.1
+ciscoSwitchUsageMIBGroups: 1.3.6.1.4.1.9.9.201.3.2
+ciscoSwitchUsageStats: 1.3.6.1.4.1.9.9.201.1.1
+ciscoSwitchUsageMIBObjects: 1.3.6.1.4.1.9.9.201.1
+

@@ -1,0 +1,20 @@
+--- 
+ciscoAtmPvcCreateBindGroup: 1.3.6.1.4.1.9.9.94.1.1
+capvcVPI: 1.3.6.1.4.1.9.9.94.1.1.1.1.2
+capvcType: 1.3.6.1.4.1.9.9.94.1.1.1.1.5
+ciscoAtmPvcMIB: 1.3.6.1.4.1.9.9.94
+capvcRowStatus: 1.3.6.1.4.1.9.9.94.1.1.1.1.10
+capvcTable: 1.3.6.1.4.1.9.9.94.1.1.1
+capvcOAM: 1.3.6.1.4.1.9.9.94.1.1.1.1.7
+ciscoAtmPvcMIBConformance: 1.3.6.1.4.1.9.9.94.3
+capvcPCR: 1.3.6.1.4.1.9.9.94.1.1.1.1.6
+ciscoAtmPvcMIBCompliances: 1.3.6.1.4.1.9.9.94.3.1
+capvcFrequency: 1.3.6.1.4.1.9.9.94.1.1.1.1.8
+ciscoAtmPvcMIBObjects: 1.3.6.1.4.1.9.9.94.1
+capvcEntry: 1.3.6.1.4.1.9.9.94.1.1.1.1
+capvcPort: 1.3.6.1.4.1.9.9.94.1.1.1.1.1
+capvcVCI: 1.3.6.1.4.1.9.9.94.1.1.1.1.3
+capvcVCD: 1.3.6.1.4.1.9.9.94.1.1.1.1.4
+capvcVlanId: 1.3.6.1.4.1.9.9.94.1.1.1.1.9
+ciscoAtmPvcMIBGroups: 1.3.6.1.4.1.9.9.94.3.2
+

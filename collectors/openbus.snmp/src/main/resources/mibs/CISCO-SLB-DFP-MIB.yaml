@@ -1,0 +1,18 @@
+--- 
+cslbcDfpCongestionOnsetThreshold: 1.3.6.1.4.1.9.9.689.1.1
+cslbcProcessorDfpValDfpValue: 1.3.6.1.4.1.9.9.689.1.4.1.3
+ciscoSlbDfpMIBCompliances: 1.3.6.1.4.1.9.9.689.2.1
+ciscoSlbDfpMIBObjects: 1.3.6.1.4.1.9.9.689.1
+cslbcDfpCongestionThresholdType: 1.3.6.1.4.1.9.9.689.1.3
+cslbcProcessorDfpValEntry: 1.3.6.1.4.1.9.9.689.1.4.1
+ciscoSlbDfpMIBNotifs: 1.3.6.1.4.1.9.9.689.0
+cslbcSlbDfpCongestionAbate: 1.3.6.1.4.1.9.9.689.0.2
+cslbcSlbDfpCongestionOnset: 1.3.6.1.4.1.9.9.689.0.1
+ciscoSlbDfpMIB: 1.3.6.1.4.1.9.9.689
+cslbcDfpCongestionAbateThreshold: 1.3.6.1.4.1.9.9.689.1.2
+cslbcProcessorDfpValPhysicalIndex: 1.3.6.1.4.1.9.9.689.1.4.1.1
+cslbcProcessorDfpValDescription: 1.3.6.1.4.1.9.9.689.1.4.1.2
+cslbcProcessorDfpValTable: 1.3.6.1.4.1.9.9.689.1.4
+ciscoSlbDfpMIBConform: 1.3.6.1.4.1.9.9.689.2
+ciscoSlbDfpMIBGroups: 1.3.6.1.4.1.9.9.689.2.2
+

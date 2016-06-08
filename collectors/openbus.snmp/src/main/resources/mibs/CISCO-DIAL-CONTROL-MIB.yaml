@@ -1,0 +1,36 @@
+--- 
+cCallHistoryPeerAddress: 1.3.6.1.4.1.9.10.25.1.4.3.1.3
+cCallHistoryReceivePackets: 1.3.6.1.4.1.9.10.25.1.4.3.1.17
+ciscoDialControlMibCompliances: 1.3.6.1.4.1.9.10.25.3.1
+cCallHistoryPeerIfIndex: 1.3.6.1.4.1.9.10.25.1.4.3.1.6
+cCallHistoryReceiveBytes: 1.3.6.1.4.1.9.10.25.1.4.3.1.18
+cCallHistoryLogicalIfIndex: 1.3.6.1.4.1.9.10.25.1.4.3.1.7
+cCallHistoryDisconnectCause: 1.3.6.1.4.1.9.10.25.1.4.3.1.8
+cCallHistoryConnectTime: 1.3.6.1.4.1.9.10.25.1.4.3.1.10
+cCallHistoryTransmitPackets: 1.3.6.1.4.1.9.10.25.1.4.3.1.15
+cCallHistoryReleaseSource: 1.3.6.1.4.1.9.10.25.1.4.3.1.19
+cCallHistoryReleaseSrc: 1.3.6.1.4.1.9.10.25.1.4.3.1.20
+cCallHistory: 1.3.6.1.4.1.9.10.25.1.4
+cCallHistoryPeerSubAddress: 1.3.6.1.4.1.9.10.25.1.4.3.1.4
+cPeerSearchType: 1.3.6.1.4.1.9.10.25.1.5.1
+ciscoDialControlMibObjects: 1.3.6.1.4.1.9.10.25.1
+cCallHistoryChargedUnits: 1.3.6.1.4.1.9.10.25.1.4.3.1.13
+cCallHistoryTransmitBytes: 1.3.6.1.4.1.9.10.25.1.4.3.1.16
+cPeerGlobalConfiguration: 1.3.6.1.4.1.9.10.25.1.5
+cCallHistoryIndex: 1.3.6.1.4.1.9.10.25.1.4.3.1.1
+cCallHistorySetupTime: 1.3.6.1.4.1.9.10.25.1.4.3.1.2
+cCallHistoryDisconnectTime: 1.3.6.1.4.1.9.10.25.1.4.3.1.11
+cCallHistoryIec: 1.3.6.1.4.1.9.10.25.1.4.4.1.2
+ciscoDialControlMibGroups: 1.3.6.1.4.1.9.10.25.3.2
+cCallHistoryEntry: 1.3.6.1.4.1.9.10.25.1.4.3.1
+cCallHistoryDisconnectText: 1.3.6.1.4.1.9.10.25.1.4.3.1.9
+cCallHistoryIecTable: 1.3.6.1.4.1.9.10.25.1.4.4
+ciscoDialControlMibConformance: 1.3.6.1.4.1.9.10.25.3
+ciscoDialControlMib: 1.3.6.1.4.1.9.10.25
+cCallHistoryCallOrigin: 1.3.6.1.4.1.9.10.25.1.4.3.1.12
+cCallHistoryTable: 1.3.6.1.4.1.9.10.25.1.4.3
+cCallHistoryPeerId: 1.3.6.1.4.1.9.10.25.1.4.3.1.5
+cCallHistoryInfoType: 1.3.6.1.4.1.9.10.25.1.4.3.1.14
+cCallHistoryIecEntry: 1.3.6.1.4.1.9.10.25.1.4.4.1
+cCallHistoryIecIndex: 1.3.6.1.4.1.9.10.25.1.4.4.1.1
+

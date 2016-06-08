@@ -1,0 +1,31 @@
+--- 
+cFCCNotificationEnable: 1.3.6.1.4.1.9.9.365.1.1.3
+cFCCPathQuenchPktsSent: 1.3.6.1.4.1.9.9.365.1.2.1.1.4
+cFCCLastCongestionStartTime: 1.3.6.1.4.1.9.9.365.1.2.1.1.7
+cFCCCongestionSourceID: 1.3.6.1.4.1.9.9.365.1.3.1
+ciscoFCCMIB: 1.3.6.1.4.1.9.9.365
+cFCCPortTable: 1.3.6.1.4.1.9.9.365.1.2.1
+ciscoFCCMIBGroups: 1.3.6.1.4.1.9.9.365.2.2
+cFCCEdgeQuenchPktsRecd: 1.3.6.1.4.1.9.9.365.1.2.1.1.1
+cFCCPathQuenchPktsRecd: 1.3.6.1.4.1.9.9.365.1.2.1.1.3
+ciscoFCCMIBConformance: 1.3.6.1.4.1.9.9.365.2
+cFCCPortEntry: 1.3.6.1.4.1.9.9.365.1.2.1.1
+ciscoFCCCongestionRateLimitStart: 1.3.6.1.4.1.9.9.365.0.2
+cFCCIsRateLimitingApplied: 1.3.6.1.4.1.9.9.365.1.2.1.1.8
+cFCCCongestionDestinationID: 1.3.6.1.4.1.9.9.365.1.3.2
+ciscoFCCMIBNotifs: 1.3.6.1.4.1.9.9.365.0
+cFCCCurrentCongestionState: 1.3.6.1.4.1.9.9.365.1.2.1.1.5
+cFCCLastCongestedTime: 1.3.6.1.4.1.9.9.365.1.2.1.1.6
+cFCCNotifObjects: 1.3.6.1.4.1.9.9.365.1.3
+ciscoFCCCongestionStateChange: 1.3.6.1.4.1.9.9.365.0.1
+cFCCEnable: 1.3.6.1.4.1.9.9.365.1.1.1
+cFCCPacketPriority: 1.3.6.1.4.1.9.9.365.1.1.2
+cFCCPortEntries: 1.3.6.1.4.1.9.9.365.1.2
+ciscoFCCCongestionRateLimitEnd: 1.3.6.1.4.1.9.9.365.0.3
+cFCCEdgeQuenchPktsSent: 1.3.6.1.4.1.9.9.365.1.2.1.1.2
+ciscoFCCMIBCompliances: 1.3.6.1.4.1.9.9.365.2.1
+ciscoFCCMIBObjects: 1.3.6.1.4.1.9.9.365.1
+cFCCConfig: 1.3.6.1.4.1.9.9.365.1.1
+cFCCCongestionState: 1.3.6.1.4.1.9.9.365.1.3.4
+cFCCCongestionNotifyVSANIndex: 1.3.6.1.4.1.9.9.365.1.3.3
+

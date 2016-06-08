@@ -1,0 +1,24 @@
+--- 
+cwapConfigTable: 1.3.6.1.4.1.9.9.99998.1.1.1
+cwapVpi: 1.3.6.1.4.1.9.9.99998.1.1.1.1.5
+cwapRootPhysicalId: 1.3.6.1.4.1.9.9.99998.1.1.1.1.12
+cwapVci: 1.3.6.1.4.1.9.9.99998.1.1.1.1.6
+cwapOperStatus: 1.3.6.1.4.1.9.9.99998.1.1.1.1.9
+cwapUploadCounter: 1.3.6.1.4.1.9.9.99998.1.1.1.1.11
+ciscoWanAtmPartyMIBGroups: 1.3.6.1.4.1.9.9.99998.2.2
+ciscoWanAtmPartyMIBNotifs: 1.3.6.1.4.1.9.9.99998.0
+cwapRowStatus: 1.3.6.1.4.1.9.9.99998.1.1.1.1.13
+ciscoWanAtmPartyMIBConform: 1.3.6.1.4.1.9.9.99998.2
+ciscoWanAtmPartyMIBCompliances: 1.3.6.1.4.1.9.9.99998.2.1
+cwapReroute: 1.3.6.1.4.1.9.9.99998.1.1.1.1.7
+ciscoWanAtmPartyMIBObjects: 1.3.6.1.4.1.9.9.99998.1
+cwapNSAPAddress: 1.3.6.1.4.1.9.9.99998.1.1.1.1.4
+cwapAdminStatus: 1.3.6.1.4.1.9.9.99998.1.1.1.1.8
+cwapConfig: 1.3.6.1.4.1.9.9.99998.1.1
+cwapRootVpi: 1.3.6.1.4.1.9.9.99998.1.1.1.1.1
+cwapIdentifier: 1.3.6.1.4.1.9.9.99998.1.1.1.1.10
+ciscoWanAtmPartyMIB: 1.3.6.1.4.1.9.9.99998
+cwapConfigEntry: 1.3.6.1.4.1.9.9.99998.1.1.1.1
+cwapRootVci: 1.3.6.1.4.1.9.9.99998.1.1.1.1.2
+cwapReference: 1.3.6.1.4.1.9.9.99998.1.1.1.1.3
+

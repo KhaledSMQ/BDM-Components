@@ -1,0 +1,35 @@
+--- 
+ciscoCarMIB: 1.3.6.1.4.1.9.9.113
+ccarConfigs: 1.3.6.1.4.1.9.9.113.1.1
+ccarConfigType: 1.3.6.1.4.1.9.9.113.1.1.1.1.3
+ccarStatHCSwitchedPkts: 1.3.6.1.4.1.9.9.113.1.2.1.1.10
+ccarConfigRowIndex: 1.3.6.1.4.1.9.9.113.1.1.1.1.2
+ccarStats: 1.3.6.1.4.1.9.9.113.1.2
+ccarStatTable: 1.3.6.1.4.1.9.9.113.1.2.1
+ciscoCarMIBConformance: 1.3.6.1.4.1.9.9.113.3
+ccarConfigConformAction: 1.3.6.1.4.1.9.9.113.1.1.1.1.8
+ccarStatSwitchedBytes: 1.3.6.1.4.1.9.9.113.1.2.1.1.2
+ccarStatSwitchedPktsOverflow: 1.3.6.1.4.1.9.9.113.1.2.1.1.6
+ccarConfigDirection: 1.3.6.1.4.1.9.9.113.1.1.1.1.1
+ccarStatEntry: 1.3.6.1.4.1.9.9.113.1.2.1.1
+ccarStatCurBurst: 1.3.6.1.4.1.9.9.113.1.2.1.1.5
+ccarStatFilteredPktsOverflow: 1.3.6.1.4.1.9.9.113.1.2.1.1.8
+ccarStatHCFilteredBytes: 1.3.6.1.4.1.9.9.113.1.2.1.1.13
+ccarConfigRate: 1.3.6.1.4.1.9.9.113.1.1.1.1.5
+ccarConfigLimit: 1.3.6.1.4.1.9.9.113.1.1.1.1.6
+ccarStatSwitchedBytesOverflow: 1.3.6.1.4.1.9.9.113.1.2.1.1.7
+ciscoCarMIBObjects: 1.3.6.1.4.1.9.9.113.1
+ccarConfigAccIdx: 1.3.6.1.4.1.9.9.113.1.1.1.1.4
+ccarConfigExceedAction: 1.3.6.1.4.1.9.9.113.1.1.1.1.9
+ciscoCarMIBGroups: 1.3.6.1.4.1.9.9.113.3.2
+ccarConfigTable: 1.3.6.1.4.1.9.9.113.1.1.1
+ccarConfigExtLimit: 1.3.6.1.4.1.9.9.113.1.1.1.1.7
+ccarStatSwitchedPkts: 1.3.6.1.4.1.9.9.113.1.2.1.1.1
+ccarStatFilteredPkts: 1.3.6.1.4.1.9.9.113.1.2.1.1.3
+ccarStatFilteredBytes: 1.3.6.1.4.1.9.9.113.1.2.1.1.4
+ccarStatHCFilteredPkts: 1.3.6.1.4.1.9.9.113.1.2.1.1.12
+ciscoCarMIBCompliances: 1.3.6.1.4.1.9.9.113.3.1
+ccarConfigEntry: 1.3.6.1.4.1.9.9.113.1.1.1.1
+ccarStatFilteredBytesOverflow: 1.3.6.1.4.1.9.9.113.1.2.1.1.9
+ccarStatHCSwitchedBytes: 1.3.6.1.4.1.9.9.113.1.2.1.1.11
+

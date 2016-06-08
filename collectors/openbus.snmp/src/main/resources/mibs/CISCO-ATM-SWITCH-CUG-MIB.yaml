@@ -1,0 +1,25 @@
+--- 
+csCugInterlockCodeEntry: 1.3.6.1.4.1.9.9.89.1.1.1
+csCugIfTable: 1.3.6.1.4.1.9.9.89.1.2
+csCugIfRowStatus: 1.3.6.1.4.1.9.9.89.1.2.1.4
+csCugEntry: 1.3.6.1.4.1.9.9.89.1.3.1
+csCugIndex: 1.3.6.1.4.1.9.9.89.1.3.1.1
+csCugInterlockCodeRowStatus: 1.3.6.1.4.1.9.9.89.1.1.1.3
+csCugDenySameGroupFromUser: 1.3.6.1.4.1.9.9.89.1.3.1.4
+csCugMIBObjects: 1.3.6.1.4.1.9.9.89.1
+csCugMIBConformance: 1.3.6.1.4.1.9.9.89.3
+csCugMIBGroups: 1.3.6.1.4.1.9.9.89.3.2
+csCugMIB: 1.3.6.1.4.1.9.9.89
+csCugInterlockCodeTable: 1.3.6.1.4.1.9.9.89.1.1
+csCugIfEntry: 1.3.6.1.4.1.9.9.89.1.2.1
+csCugRowStatus: 1.3.6.1.4.1.9.9.89.1.3.1.5
+csCugDenySameGroupToUser: 1.3.6.1.4.1.9.9.89.1.3.1.3
+csCugInterlockCodeAliasName: 1.3.6.1.4.1.9.9.89.1.1.1.2
+csCugIfAccessEnable: 1.3.6.1.4.1.9.9.89.1.2.1.1
+csCugTable: 1.3.6.1.4.1.9.9.89.1.3
+csCugMIBCompliances: 1.3.6.1.4.1.9.9.89.3.1
+csCugInterlockCode: 1.3.6.1.4.1.9.9.89.1.1.1.1
+csCugIfPermitUnknownCugsFromUser: 1.3.6.1.4.1.9.9.89.1.2.1.3
+csCugPreferential: 1.3.6.1.4.1.9.9.89.1.3.1.2
+csCugIfPermitUnknownCugsToUser: 1.3.6.1.4.1.9.9.89.1.2.1.2
+

@@ -1,0 +1,27 @@
+--- 
+ciscoSwitchRateLimiterMIBObjects: 1.3.6.1.4.1.9.9.773.1
+csrlGlobalRateLimiterTable: 1.3.6.1.4.1.9.9.773.1.2.1
+csrlGlobalRateLimiterAllowed: 1.3.6.1.4.1.9.9.773.1.2.1.1.2
+csrlGlobalRateLimiter: 1.3.6.1.4.1.9.9.773.1.2
+csrlLocalRateLimiterConfigured: 1.3.6.1.4.1.9.9.773.1.3.1.1.1
+ciscoSwitchRateLimiterMIBConform: 1.3.6.1.4.1.9.9.773.2
+csrlRateLimiterClassEntry: 1.3.6.1.4.1.9.9.773.1.1.1.1
+csrlGlobalRateLimiterTotal: 1.3.6.1.4.1.9.9.773.1.2.1.1.4
+ciscoSwitchRateLimiterMIB: 1.3.6.1.4.1.9.9.773
+csrlGlobalRateLimiterEntry: 1.3.6.1.4.1.9.9.773.1.2.1.1
+csrlRateLimiterClassId: 1.3.6.1.4.1.9.9.773.1.1.1.1.1
+csrlLocalRateLimiterEntry: 1.3.6.1.4.1.9.9.773.1.3.1.1
+ciscoSwitchRateLimiterMIBNotifs: 1.3.6.1.4.1.9.9.773.0
+csrlLocalRateLimiterTable: 1.3.6.1.4.1.9.9.773.1.3.1
+csrlLocalRateLimiterAllowed: 1.3.6.1.4.1.9.9.773.1.3.1.1.2
+csrlRateLimiterClassTable: 1.3.6.1.4.1.9.9.773.1.1.1
+csrlGlobalRateLimiterConfigured: 1.3.6.1.4.1.9.9.773.1.2.1.1.1
+csrlGlobalRateLimiterDropped: 1.3.6.1.4.1.9.9.773.1.2.1.1.3
+csrlLocalRateLimiter: 1.3.6.1.4.1.9.9.773.1.3
+csrlLocalRateLimiterTotal: 1.3.6.1.4.1.9.9.773.1.3.1.1.4
+csrlMIBGroups: 1.3.6.1.4.1.9.9.773.2.2
+csrlRateLimiterInfo: 1.3.6.1.4.1.9.9.773.1.1
+csrlRateLimiterClassDescr: 1.3.6.1.4.1.9.9.773.1.1.1.1.2
+csrlLocalRateLimiterDropped: 1.3.6.1.4.1.9.9.773.1.3.1.1.3
+csrlMIBCompliances: 1.3.6.1.4.1.9.9.773.2.1
+

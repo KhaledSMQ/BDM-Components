@@ -1,0 +1,28 @@
+--- 
+vPNTunnelTable: 1.3.6.1.4.1.255.2.2
+vpnTunnelTableIpBytesSent: 1.3.6.1.4.1.255.2.2.1.1.7
+vpnTunnelTableUptime: 1.3.6.1.4.1.255.2.2.1.1.12
+compatVars: 1.3.6.1.4.1.255.1
+vpnTunnelTableAssignedIpAddress: 1.3.6.1.4.1.255.2.2.1.1.5
+vpnTunnelTableBandwidthOut: 1.3.6.1.4.1.255.2.2.1.1.14
+vpnTunnelTableBandwidthReturn: 1.3.6.1.4.1.255.2.2.1.1.15
+failedLogins: 1.3.6.1.4.1.255.2.1.1
+vpnTunnelTableGroupName: 1.3.6.1.4.1.255.2.2.1.1.3
+vpnTunnelTableAppletalkBytesRcvd: 1.3.6.1.4.1.255.2.2.1.1.10
+failedRadiusAuth: 1.3.6.1.4.1.255.2.1.3
+vpnLoginTable: 1.3.6.1.4.1.255.2.1
+vpnTunnelTableIndex: 1.3.6.1.4.1.255.2.2.1.1.1
+vpnTunnelTableAppletalkBytesSent: 1.3.6.1.4.1.255.2.2.1.1.11
+vpnTunnelTableEntry: 1.3.6.1.4.1.255.2.2.1.1
+vpnTunnelTableIpxBytesSent: 1.3.6.1.4.1.255.2.2.1.1.9
+compatVPN: 1.3.6.1.4.1.255.2
+processorUtilizationPercentage: 1.3.6.1.4.1.255.1.1
+vpnTunnelTable: 1.3.6.1.4.1.255.2.2.1
+vpnTunnelTableLatency: 1.3.6.1.4.1.255.2.2.1.1.13
+vpnTunnelTableIpxBytesRcvd: 1.3.6.1.4.1.255.2.2.1.1.8
+compatible: 1.3.6.1.4.1.255
+failedSecurID: 1.3.6.1.4.1.255.2.1.2
+vpnTunnelTableUserName: 1.3.6.1.4.1.255.2.2.1.1.2
+vpnTunnelTableIpAddress: 1.3.6.1.4.1.255.2.2.1.1.4
+vpnTunnelTableIpBytesRcvd: 1.3.6.1.4.1.255.2.2.1.1.6
+

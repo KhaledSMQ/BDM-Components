@@ -1,0 +1,23 @@
+--- 
+ciscoTcpMetricsMIBNotifs: 1.3.6.1.4.1.9.9.770.0
+ciscoTcpMetricsMIBConform: 1.3.6.1.4.1.9.9.770.2
+cfmTcpMetrics: 1.3.6.1.4.1.9.9.770.1.1
+cfmTcpMetricsIntTable: 1.3.6.1.4.1.9.9.770.1.1.3
+ciscoTcpMetricsMIBGroups: 1.3.6.1.4.1.9.9.770.2.2
+cfmTcpMetricsEntry: 1.3.6.1.4.1.9.9.770.1.1.1.1
+cfmTcpMetricsValid: 1.3.6.1.4.1.9.9.770.1.1.1.1.1
+cfmTcpMetricsTableChanged: 1.3.6.1.4.1.9.9.770.1.1.2
+cfmTcpMetricsIntRoundTripTime: 1.3.6.1.4.1.9.9.770.1.1.3.1.4
+ciscoTcpMetricsMIBCompliances: 1.3.6.1.4.1.9.9.770.2.1
+ciscoTcpMetricsMIBIds: 1.3.6.1.4.1.9.9.770.3
+ciscoTcpMetricsMIB: 1.3.6.1.4.1.9.9.770
+ciscoTcpMetricsMIBObjects: 1.3.6.1.4.1.9.9.770.1
+cfmTcpMetricsIntEntry: 1.3.6.1.4.1.9.9.770.1.1.3.1
+cfmTcpMetricsIntValid: 1.3.6.1.4.1.9.9.770.1.1.3.1.1
+cfmTcpMetricsIntRoundTripTimePrecision: 1.3.6.1.4.1.9.9.770.1.1.3.1.3
+cfmTcpMetricsRoundTripTimePrecision: 1.3.6.1.4.1.9.9.770.1.1.1.1.3
+cfmTcpMetricsIntRoundTripTimeScale: 1.3.6.1.4.1.9.9.770.1.1.3.1.2
+cfmTcpMetricsRoundTripTime: 1.3.6.1.4.1.9.9.770.1.1.1.1.4
+cfmTcpMetricsRoundTripTimeScale: 1.3.6.1.4.1.9.9.770.1.1.1.1.2
+cfmTcpMetricsTable: 1.3.6.1.4.1.9.9.770.1.1.1
+

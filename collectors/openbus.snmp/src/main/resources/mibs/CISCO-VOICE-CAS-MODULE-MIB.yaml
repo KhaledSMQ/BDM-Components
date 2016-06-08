@@ -1,0 +1,23 @@
+--- 
+cvcmCasTemplateName: 1.3.6.1.4.1.9.9.389.1.1.1.1.5
+cvcmABCDIncomingPattern: 1.3.6.1.4.1.9.9.389.1.1.1.1.6
+cvcmModulePhysicalIndex: 1.3.6.1.4.1.9.9.389.1.1.1.1.4
+cvcmMIBCompliances: 1.3.6.1.4.1.9.9.389.2.2
+cvcmABCDPatternIndex: 1.3.6.1.4.1.9.9.389.1.1.1.1.3
+cvcmABCDOutgoingPattern: 1.3.6.1.4.1.9.9.389.1.1.1.1.7
+cvcmCasBitRowStatus: 1.3.6.1.4.1.9.9.389.1.1.1.1.12
+cvcmABCDBitTemplateConfigEntry: 1.3.6.1.4.1.9.9.389.1.1.1.1
+cvcmCasTemplateIndex: 1.3.6.1.4.1.9.9.389.1.1.1.1.2
+cvcmCasABitAction: 1.3.6.1.4.1.9.9.389.1.1.1.1.8
+ciscoVoiceCasModuleNotifs: 1.3.6.1.4.1.9.9.389.0
+cvcmCasDBitAction: 1.3.6.1.4.1.9.9.389.1.1.1.1.11
+cvcmMIBGroups: 1.3.6.1.4.1.9.9.389.2.1
+cvcmCasConfig: 1.3.6.1.4.1.9.9.389.1.1
+cvcmModuleIndex: 1.3.6.1.4.1.9.9.389.1.1.1.1.1
+cvcmMIBConformance: 1.3.6.1.4.1.9.9.389.2
+cvcmABCDBitTemplateConfigTable: 1.3.6.1.4.1.9.9.389.1.1.1
+cvcmCasCBitAction: 1.3.6.1.4.1.9.9.389.1.1.1.1.10
+ciscoVoiceCasModuleMIB: 1.3.6.1.4.1.9.9.389
+ciscoVoiceCasModuleObjects: 1.3.6.1.4.1.9.9.389.1
+cvcmCasBBitAction: 1.3.6.1.4.1.9.9.389.1.1.1.1.9
+

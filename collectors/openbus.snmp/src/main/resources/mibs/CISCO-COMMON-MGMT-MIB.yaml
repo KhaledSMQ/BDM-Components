@@ -1,0 +1,31 @@
+--- 
+ccmCommonUserExpiryDate: 1.3.6.1.4.1.9.9.443.1.1.5.1.3
+ccmCommonUserRoleEntry: 1.3.6.1.4.1.9.9.443.1.1.6.1
+ciscoCommonMgmtMIBConform: 1.3.6.1.4.1.9.9.443.2
+ciscoCommonMgmtMIBGroups: 1.3.6.1.4.1.9.9.443.2.2
+ccmCommonUserPassword: 1.3.6.1.4.1.9.9.443.1.1.5.1.2
+ccmCommonUsersGlobalEnforcePriv: 1.3.6.1.4.1.9.9.443.1.1.3
+ccmCommonUserEntry: 1.3.6.1.4.1.9.9.443.1.1.5.1
+ccmCommonUserRoleRowStatus: 1.3.6.1.4.1.9.9.443.1.1.6.1.3
+ciscoCommonMgmtNotifs: 1.3.6.1.4.1.9.9.443.0
+ciscoCommonMgmtMIBObjects: 1.3.6.1.4.1.9.9.443.1
+ciscoCommonMgmtMIBCompliances: 1.3.6.1.4.1.9.9.443.2.1
+ccmCommonUserLastChange: 1.3.6.1.4.1.9.9.443.1.1.4
+ccmCommonUserSshKeyFilename: 1.3.6.1.4.1.9.9.443.1.1.5.1.4
+ccmCommonUsers: 1.3.6.1.4.1.9.9.443.1.1.2
+ccmCommonUserSNMPPrivProtocol: 1.3.6.1.4.1.9.9.443.1.1.5.1.7
+ccmCommonUserCredType: 1.3.6.1.4.1.9.9.443.1.1.5.1.8
+ccmCommonUserRowStatus: 1.3.6.1.4.1.9.9.443.1.1.5.1.10
+ccmCommonUserName: 1.3.6.1.4.1.9.9.443.1.1.5.1.1
+ccmCommonUserSNMPAuthProtocol: 1.3.6.1.4.1.9.9.443.1.1.5.1.6
+ccmCommonUserRoleTable: 1.3.6.1.4.1.9.9.443.1.1.6
+ccmCommonUserRoleName: 1.3.6.1.4.1.9.9.443.1.1.6.1.1
+ccmCommonUserRoleStorageType: 1.3.6.1.4.1.9.9.443.1.1.6.1.2
+ccmCommonUserTable: 1.3.6.1.4.1.9.9.443.1.1.5
+ccmCommonUserStorageType: 1.3.6.1.4.1.9.9.443.1.1.5.1.9
+ciscoCommonMgmtMIB: 1.3.6.1.4.1.9.9.443
+ccmUserConfig: 1.3.6.1.4.1.9.9.443.1.1
+ccmCommonMaxUsers: 1.3.6.1.4.1.9.9.443.1.1.1
+ccmCommonUserSshKeyConfigured: 1.3.6.1.4.1.9.9.443.1.1.5.1.5
+ccmCommonUserCacheTimeout: 1.3.6.1.4.1.9.9.443.1.1.7
+

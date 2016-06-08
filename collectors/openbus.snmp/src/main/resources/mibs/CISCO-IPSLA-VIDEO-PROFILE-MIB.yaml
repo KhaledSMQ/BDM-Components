@@ -1,0 +1,29 @@
+--- 
+cipslaVideoProfileMinBitrate: 1.3.6.1.4.1.9.9.766.1.1.1.1.13
+ciscoIpslaVideoProfileMIBObjects: 1.3.6.1.4.1.9.9.766.1
+cipslaVideoProfileRtpAvgSize: 1.3.6.1.4.1.9.9.766.1.1.1.1.17
+ciscoIpslaVideoProfileMIBGroups: 1.3.6.1.4.1.9.9.766.2.2
+cipslaVideoProfileID: 1.3.6.1.4.1.9.9.766.1.1.1.1.1
+cipslaVideoProfileAvgBitrate: 1.3.6.1.4.1.9.9.766.1.1.1.1.11
+cipslaVideoProfileMaxBitrate: 1.3.6.1.4.1.9.9.766.1.1.1.1.12
+ciscoIpslaVideoProfileMIB: 1.3.6.1.4.1.9.9.766
+ciscoIpslaVideoProfileMIBNotifs: 1.3.6.1.4.1.9.9.766.0
+cipslaVideoProfileResolution: 1.3.6.1.4.1.9.9.766.1.1.1.1.10
+cipslaVideoProfileEntry: 1.3.6.1.4.1.9.9.766.1.1.1.1
+cipslaVideoProfileVideoContents: 1.3.6.1.4.1.9.9.766.1.1.1.1.8
+cipslaVideoProfileRtpJitterPattern: 1.3.6.1.4.1.9.9.766.1.1.1.1.18
+cipslaVideoProfile: 1.3.6.1.4.1.9.9.766.1.1
+cipslaVideoProfileRowStatus: 1.3.6.1.4.1.9.9.766.1.1.1.1.2
+cipslaVideoProfileStorageType: 1.3.6.1.4.1.9.9.766.1.1.1.1.3
+cipslaVideoProfileEndpointType: 1.3.6.1.4.1.9.9.766.1.1.1.1.6
+cipslaVideoProfileIframeRefreshInterval: 1.3.6.1.4.1.9.9.766.1.1.1.1.16
+cipslaVideoProfileTable: 1.3.6.1.4.1.9.9.766.1.1.1
+cipslaVideoProfileDescription: 1.3.6.1.4.1.9.9.766.1.1.1.1.5
+cipslaVideoProfileFrameRate: 1.3.6.1.4.1.9.9.766.1.1.1.1.9
+cipslaVideoProfileBitrateWindowSize: 1.3.6.1.4.1.9.9.766.1.1.1.1.14
+cipslaVideoProfileIframeMaxSize: 1.3.6.1.4.1.9.9.766.1.1.1.1.15
+ciscoIpslaVideoProfileMIBConform: 1.3.6.1.4.1.9.9.766.2
+cipslaVideoProfileName: 1.3.6.1.4.1.9.9.766.1.1.1.1.4
+cipslaVideoProfileCodec: 1.3.6.1.4.1.9.9.766.1.1.1.1.7
+ciscoIpslaVideoProfileMIBCompliances: 1.3.6.1.4.1.9.9.766.2.1
+

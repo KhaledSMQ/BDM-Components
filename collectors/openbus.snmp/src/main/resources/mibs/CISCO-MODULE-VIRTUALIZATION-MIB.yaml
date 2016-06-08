@@ -1,0 +1,30 @@
+--- 
+ciscoModuleVirtualizationMIB: 1.3.6.1.4.1.9.9.472
+cmVirtContextName: 1.3.6.1.4.1.9.9.472.1.1.1.1.1
+cmVirtContextURL: 1.3.6.1.4.1.9.9.472.1.1.1.1.3
+cmVirtualContextEntry: 1.3.6.1.4.1.9.9.472.1.1.1.1
+cmVirtContextIfMapEntry: 1.3.6.1.4.1.9.9.472.1.1.2.1
+cmVirtContextIfMapIdLow: 1.3.6.1.4.1.9.9.472.1.1.2.1.2
+cmVirtContextIfMapIdHigh: 1.3.6.1.4.1.9.9.472.1.1.2.1.3
+cmVirtContextDescr: 1.3.6.1.4.1.9.9.472.1.1.1.1.2
+cmVirtContextIfMapTable: 1.3.6.1.4.1.9.9.472.1.1.2
+cmVirtContextIfMapStorageType: 1.3.6.1.4.1.9.9.472.1.1.2.1.4
+cmVirtualizationMIBObjects: 1.3.6.1.4.1.9.9.472.1
+cmVirtContextIfMapType: 1.3.6.1.4.1.9.9.472.1.1.2.1.1
+cmVirtContextIfMapRowStatus: 1.3.6.1.4.1.9.9.472.1.1.2.1.5
+cmNotifVirtContextName: 1.3.6.1.4.1.9.9.472.1.3.1
+cmVirtContextRemoved: 1.3.6.1.4.1.9.9.472.0.2
+cmVirtContextRowStatus: 1.3.6.1.4.1.9.9.472.1.1.1.1.6
+cmVirtualContextNotifControl: 1.3.6.1.4.1.9.9.472.1.2
+cmVirtualizationCompliances: 1.3.6.1.4.1.9.9.472.2.1
+cmVirtContextStorageType: 1.3.6.1.4.1.9.9.472.1.1.1.1.5
+cmVirtContextNotifEnable: 1.3.6.1.4.1.9.9.472.1.2.1
+cmVirtualContextNotifObjects: 1.3.6.1.4.1.9.9.472.1.3
+cmVirtContextResourceClass: 1.3.6.1.4.1.9.9.472.1.1.1.1.4
+cmVirtualizationNotifs: 1.3.6.1.4.1.9.9.472.0
+cmVirtContextAdded: 1.3.6.1.4.1.9.9.472.0.1
+cmVirtualContext: 1.3.6.1.4.1.9.9.472.1.1
+cmVirtualContextTable: 1.3.6.1.4.1.9.9.472.1.1.1
+cmVirtualizationMIBConformance: 1.3.6.1.4.1.9.9.472.2
+cmVirtualizationGroups: 1.3.6.1.4.1.9.9.472.2.2
+

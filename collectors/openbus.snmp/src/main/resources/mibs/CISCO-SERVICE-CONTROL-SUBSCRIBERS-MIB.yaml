@@ -1,0 +1,34 @@
+--- 
+cServiceControlSubscribersNumTpIpRanges: 1.3.6.1.4.1.9.9.628.1.2.1.11
+cServiceControlSubscriberMappingFailedReason: 1.3.6.1.4.1.9.9.628.1.2.1.15
+cServiceControlSubscribersNumIpAddrMappings: 1.3.6.1.4.1.9.9.628.1.2.1.3
+cServiceControlSubscribersNumIpRangeMappingsFree: 1.3.6.1.4.1.9.9.628.1.2.1.6
+cServiceControlSubscribersNumUpdates: 1.3.6.1.4.1.9.9.628.1.2.1.10
+ciscoServiceControlSubscribersMIBObjects: 1.3.6.1.4.1.9.9.628.1
+cServiceControlSubscriberMapping: 1.3.6.1.4.1.9.9.628.0.1
+ciscoServiceControlSubscribersMIBConform: 1.3.6.1.4.1.9.9.628.2
+cServiceControlSubscriberStorageType: 1.3.6.1.4.1.9.9.628.1.1.1.3
+cServiceControlSubscribersInfoTable: 1.3.6.1.4.1.9.9.628.1.2
+cServiceControlSubscribersNumIpAddrMappingsFree: 1.3.6.1.4.1.9.9.628.1.2.1.4
+cServiceControlSubsribersMaxSupported: 1.3.6.1.4.1.9.9.628.1.2.1.16
+cServiceControlSubscribersGroups: 1.3.6.1.4.1.9.9.628.2.2
+cServiceControlSubscribersTable: 1.3.6.1.4.1.9.9.628.1.1
+cServiceControlSubscribersNumFree: 1.3.6.1.4.1.9.9.628.1.2.1.2
+cServiceControlSubscribersNumTpIpRangesFree: 1.3.6.1.4.1.9.9.628.1.2.1.12
+cServiceControlSubscribersRowStatus: 1.3.6.1.4.1.9.9.628.1.1.1.4
+cServiceControlSubscribersInfoEntry: 1.3.6.1.4.1.9.9.628.1.2.1
+cServiceControlSubscribersNumVlanMappings: 1.3.6.1.4.1.9.9.628.1.2.1.7
+cServiceControlSubscribersCompliances: 1.3.6.1.4.1.9.9.628.2.1
+ciscoServiceControlSubscribersMIB: 1.3.6.1.4.1.9.9.628
+ciscoServiceControlSubscribersMIBNotifs: 1.3.6.1.4.1.9.9.628.0
+cServiceControlSubscribersNumActive: 1.3.6.1.4.1.9.9.628.1.2.1.9
+cServiceControlSubscribersIndex: 1.3.6.1.4.1.9.9.628.1.1.1.1
+cServiceControlSubscribersName: 1.3.6.1.4.1.9.9.628.1.1.1.2
+cServiceControlSubscribersNotifsEnable: 1.3.6.1.4.1.9.9.628.1.3
+cServiceControlSubscribersEntry: 1.3.6.1.4.1.9.9.628.1.1.1
+cServiceControlSubscribersNumIntroduced: 1.3.6.1.4.1.9.9.628.1.2.1.1
+cServiceControlSubscribersNumVlanMappingsFree: 1.3.6.1.4.1.9.9.628.1.2.1.8
+cServiceControlSubscribersNumIpRangeMappings: 1.3.6.1.4.1.9.9.628.1.2.1.5
+cServiceControlSubscribersNumAnonymous: 1.3.6.1.4.1.9.9.628.1.2.1.13
+cServiceControlSubscribersNumWithSessions: 1.3.6.1.4.1.9.9.628.1.2.1.14
+

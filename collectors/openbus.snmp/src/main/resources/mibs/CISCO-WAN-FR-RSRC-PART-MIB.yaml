@@ -1,0 +1,17 @@
+--- 
+frPortCnfResPartGrpTable: 1.3.6.1.4.1.351.110.5.1.1.1.5.1
+frResPartCtrlrNum: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.2
+frResPartNumOfLcnAvail: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.4
+frResPartEgrPctBW: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.8
+cwfRsrcPartMIBConformance: 1.3.6.1.4.1.351.150.45.2
+cwfRsrcPartMIBGroups: 1.3.6.1.4.1.351.150.45.2.2
+cwfRsrcPartMIBCompliances: 1.3.6.1.4.1.351.150.45.2.1
+frResPartDlciLow: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.5
+frResPartIngrPctBW: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.7
+frResPartPortNum: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.1
+frResPartDlciHigh: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.6
+frResPartCtrlrID: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.9
+ciscoWanFrRsrcPartMIB: 1.3.6.1.4.1.351.150.45
+frPortCnfResPartGrpEntry: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1
+frResPartRowStatus: 1.3.6.1.4.1.351.110.5.1.1.1.5.1.1.3
+

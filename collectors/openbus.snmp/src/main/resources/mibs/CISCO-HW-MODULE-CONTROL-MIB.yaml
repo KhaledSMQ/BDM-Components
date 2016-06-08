@@ -1,0 +1,25 @@
+--- 
+chmcOversubModuleCapabilities: 1.3.6.1.4.1.9.9.714.1.1.1.1.1
+chmcOperationalMode: 1.3.6.1.4.1.9.9.714.1.2
+ciscoHwModuleControlMIBObjects: 1.3.6.1.4.1.9.9.714.1
+chmcOversubModuleEntry: 1.3.6.1.4.1.9.9.714.1.1.1.1
+chmcOversubModOversubStatus: 1.3.6.1.4.1.9.9.714.1.1.1.1.2
+chmcOversubPortGroupEntry: 1.3.6.1.4.1.9.9.714.1.1.2.1
+chmcOversubPortGrpOversubStatus: 1.3.6.1.4.1.9.9.714.1.1.2.1.3
+chmcOperModePortGroupTable: 1.3.6.1.4.1.9.9.714.1.2.1
+chmcOperModePortGrpIfIndexList: 1.3.6.1.4.1.9.9.714.1.2.1.1.3
+chmcHwModuleControlMIBGroups: 1.3.6.1.4.1.9.9.714.2.2
+chmcOversubPortGrpClearBlkStatus: 1.3.6.1.4.1.9.9.714.1.1.2.1.4
+ciscoHwModuleControlMIB: 1.3.6.1.4.1.9.9.714
+ciscoHwModuleControlMIBNotifs: 1.3.6.1.4.1.9.9.714.0
+chmcOperModePortGrpOperMode: 1.3.6.1.4.1.9.9.714.1.2.1.1.2
+chmcOversubPortGroupTable: 1.3.6.1.4.1.9.9.714.1.1.2
+chmcOversubPortGrpIfIndexList: 1.3.6.1.4.1.9.9.714.1.1.2.1.2
+chmcOperModePortGrpIndex: 1.3.6.1.4.1.9.9.714.1.2.1.1.1
+chmcHwModuleControlMIBCompliances: 1.3.6.1.4.1.9.9.714.2.1
+chmcOversubscription: 1.3.6.1.4.1.9.9.714.1.1
+chmcOversubPortGrpIndex: 1.3.6.1.4.1.9.9.714.1.1.2.1.1
+ciscoHwModuleControlMIBConform: 1.3.6.1.4.1.9.9.714.2
+chmcOversubModuleTable: 1.3.6.1.4.1.9.9.714.1.1.1
+chmcOperModePortGroupEntry: 1.3.6.1.4.1.9.9.714.1.2.1.1
+

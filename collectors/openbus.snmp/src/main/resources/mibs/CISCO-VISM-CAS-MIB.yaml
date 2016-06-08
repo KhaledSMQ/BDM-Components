@@ -1,0 +1,27 @@
+--- 
+vismCasDigitMethod: 1.3.6.1.4.1.351.110.5.5.8.1.1.4
+vismCasVariantState: 1.3.6.1.4.1.351.110.5.5.8.1.1.8
+vismCasXgcpInitialReXmitTime: 1.3.6.1.4.1.351.110.5.5.8.2.1.4
+vismCasRowStatus: 1.3.6.1.4.1.351.110.5.5.8.1.1.9
+ciscoVismCasMIB: 1.3.6.1.4.1.351.150.88
+vismCasInterdigitTcrit: 1.3.6.1.4.1.351.110.5.5.8.1.1.6
+vismCasXgcpVariantTable: 1.3.6.1.4.1.351.110.5.5.8.2
+vismCasVariantEntry: 1.3.6.1.4.1.351.110.5.5.8.1.1
+vismCasVariantTable: 1.3.6.1.4.1.351.110.5.5.8.1
+vismCasTRinging: 1.3.6.1.4.1.351.110.5.5.8.1.1.3
+vismCasInterdigitTpart: 1.3.6.1.4.1.351.110.5.5.8.1.1.5
+vismCasXgcpFileName: 1.3.6.1.4.1.351.110.5.5.8.2.1.2
+vismCasGrp: 1.3.6.1.4.1.351.110.5.5.8
+vismCasVariantName: 1.3.6.1.4.1.351.110.5.5.8.1.1.1
+vismCasInterdigitTMF: 1.3.6.1.4.1.351.110.5.5.8.1.1.7
+vismCasXgcpMaxReXmitTime: 1.3.6.1.4.1.351.110.5.5.8.2.1.3
+vismCasXgcpMaxRetries: 1.3.6.1.4.1.351.110.5.5.8.2.1.5
+vismCasXgcpVariantEntry: 1.3.6.1.4.1.351.110.5.5.8.2.1
+ciscoVismCasMIBConformance: 1.3.6.1.4.1.351.150.88.2
+ciscoVismCasMIBGroups: 1.3.6.1.4.1.351.150.88.2.1
+ciscoVismCasMIBCompliances: 1.3.6.1.4.1.351.150.88.2.2
+vismCasCountryCode: 1.3.6.1.4.1.351.110.5.5.8.1.1.10
+vismCasFileName: 1.3.6.1.4.1.351.110.5.5.8.1.1.2
+vismCasVariantSource: 1.3.6.1.4.1.351.110.5.5.8.1.1.11
+vismCasXgcpVariantName: 1.3.6.1.4.1.351.110.5.5.8.2.1.1
+

@@ -1,0 +1,30 @@
+--- 
+cOPatchMIBObjects: 1.3.6.1.4.1.9.10.67.1
+cOPatchInterfaceEntry: 1.3.6.1.4.1.9.10.67.1.1.1
+cOPatchEventType: 1.3.6.1.4.1.9.10.67.1.4
+cOPatchHighIfIndex: 1.3.6.1.4.1.9.10.67.1.5.1.3
+cOPatchIntfEntry: 1.3.6.1.4.1.9.10.67.1.7.1
+cOPatchMIBCompliances: 1.3.6.1.4.1.9.10.67.3.1
+cOPatchIdentifier: 1.3.6.1.4.1.9.10.67.1.1.1.1
+cOPatchTable: 1.3.6.1.4.1.9.10.67.1.5
+cOPatchDirOnLowIf: 1.3.6.1.4.1.9.10.67.1.5.1.8
+cOPatchIntfPatchId: 1.3.6.1.4.1.9.10.67.1.7.1.2
+cOPatchIndex: 1.3.6.1.4.1.9.10.67.1.5.1.1
+cOPatchIntfDirection: 1.3.6.1.4.1.9.10.67.1.7.1.1
+cOPatchMIBConformance: 1.3.6.1.4.1.9.10.67.3
+cOPatchIndexNext: 1.3.6.1.4.1.9.10.67.1.2
+cOPatchCreationTime: 1.3.6.1.4.1.9.10.67.1.5.1.6
+cOPatchEventEnabled: 1.3.6.1.4.1.9.10.67.1.6
+cOPatchInterfaceTable: 1.3.6.1.4.1.9.10.67.1.1
+cOPatchIntfTable: 1.3.6.1.4.1.9.10.67.1.7
+cOPatchMIBNotifications: 1.3.6.1.4.1.9.10.67.2
+cOPatchLastChange: 1.3.6.1.4.1.9.10.67.1.3
+cOPatchEntry: 1.3.6.1.4.1.9.10.67.1.5.1
+cOPatchLowIfIndex: 1.3.6.1.4.1.9.10.67.1.5.1.2
+cOPatchType: 1.3.6.1.4.1.9.10.67.1.5.1.4
+cOPatchEvent: 1.3.6.1.4.1.9.10.67.2.1
+cOPatchRowStatus: 1.3.6.1.4.1.9.10.67.1.5.1.7
+ciscoOpticalPatchMIB: 1.3.6.1.4.1.9.10.67
+cOPatchMIBGroups: 1.3.6.1.4.1.9.10.67.3.2
+cOPatchStatus: 1.3.6.1.4.1.9.10.67.1.5.1.5
+

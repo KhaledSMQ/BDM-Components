@@ -1,0 +1,12 @@
+--- 
+cDot11AntennaMIBObjects: 1.3.6.1.4.1.9.9.3333.1
+cDot11AntennaTable: 1.3.6.1.4.1.9.9.3333.1.1.1
+cDot11AntennaEntry: 1.3.6.1.4.1.9.9.3333.1.1.1.1
+cDot11AntennaIsGainConfigured: 1.3.6.1.4.1.9.9.3333.1.1.1.1.1
+cDot11AntennaMIBGroups: 1.3.6.1.4.1.9.9.3333.2.2
+cDot11AntennaResultantGain: 1.3.6.1.4.1.9.9.3333.1.1.1.1.2
+cDot11AntennaMIBConform: 1.3.6.1.4.1.9.9.3333.2
+cDot11AntennaMIBCompliances: 1.3.6.1.4.1.9.9.3333.2.1
+ciscoDot11AntennaMIB: 1.3.6.1.4.1.9.9.3333
+cDot11AntennaGlobal: 1.3.6.1.4.1.9.9.3333.1.1
+

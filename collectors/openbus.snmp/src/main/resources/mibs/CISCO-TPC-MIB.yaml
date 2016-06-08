@@ -1,0 +1,25 @@
+--- 
+ciscoTpcObjects: 1.3.6.1.4.1.9.9.460.1
+ciscoTpcMIB: 1.3.6.1.4.1.9.9.460
+ctpcModuleEntry: 1.3.6.1.4.1.9.9.460.1.1.1.1
+ctpcTargetNumXcopies: 1.3.6.1.4.1.9.9.460.1.1.3.1.5
+ctpcModuleTable: 1.3.6.1.4.1.9.9.460.1.1.1
+ctpcTargetEntry: 1.3.6.1.4.1.9.9.460.1.1.3.1
+ctpcModuleId: 1.3.6.1.4.1.9.9.460.1.1.1.1.1
+ctpcTargetTable: 1.3.6.1.4.1.9.9.460.1.1.3
+ctpcTargetNodeName: 1.3.6.1.4.1.9.9.460.1.1.3.1.2
+ciscoTpcNotification: 1.3.6.1.4.1.9.9.460.0
+ctpcVsanEntry: 1.3.6.1.4.1.9.9.460.1.1.2.1
+ctpcTargetMaxXcopy: 1.3.6.1.4.1.9.9.460.1.1.3.1.7
+ctpcMIBGroups: 1.3.6.1.4.1.9.9.460.2.2
+ctpcTargetMinXcopy: 1.3.6.1.4.1.9.9.460.1.1.3.1.6
+ctpcVsanTable: 1.3.6.1.4.1.9.9.460.1.1.2
+ctpcTargetPortName: 1.3.6.1.4.1.9.9.460.1.1.3.1.3
+ctpcTargetState: 1.3.6.1.4.1.9.9.460.1.1.3.1.4
+ctpcTargetAvgKbPerSec: 1.3.6.1.4.1.9.9.460.1.1.3.1.8
+ciscoTpcConfig: 1.3.6.1.4.1.9.9.460.1.1
+ctpcTargetIndex: 1.3.6.1.4.1.9.9.460.1.1.3.1.1
+ctpcVsanRowStatus: 1.3.6.1.4.1.9.9.460.1.1.2.1.1
+ciscoTpcMIBConformance: 1.3.6.1.4.1.9.9.460.2
+ctpcMIBCompliances: 1.3.6.1.4.1.9.9.460.2.1
+

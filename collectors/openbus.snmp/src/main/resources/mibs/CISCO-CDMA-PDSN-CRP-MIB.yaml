@@ -1,0 +1,27 @@
+--- 
+ccpcPcfSentZlbs: 1.3.6.1.4.1.9.9.957.1.2.1.1.14
+ccpcPcfSentIcrps: 1.3.6.1.4.1.9.9.957.1.2.1.1.6
+ccpcPcfAcptdIccns: 1.3.6.1.4.1.9.9.957.1.2.1.1.8
+ccpcMIBCompliances: 1.3.6.1.4.1.9.9.957.2.1
+ccpcPcfRcvdIcrqs: 1.3.6.1.4.1.9.9.957.1.2.1.1.3
+ccpcPcfDroppedIcrqs: 1.3.6.1.4.1.9.9.957.1.2.1.1.5
+ccpcPcfPerfStatsTable: 1.3.6.1.4.1.9.9.957.1.2.1
+ccpcPcfIpAddressType: 1.3.6.1.4.1.9.9.957.1.2.1.1.1
+ccpcPcfAcptdIcrqs: 1.3.6.1.4.1.9.9.957.1.2.1.1.4
+ccpcMIBConformance: 1.3.6.1.4.1.9.9.957.2
+ccpcMIBGroups: 1.3.6.1.4.1.9.9.957.2.2
+ccpcSystemInfo: 1.3.6.1.4.1.9.9.957.1.1
+ccpcPcfSentCdns: 1.3.6.1.4.1.9.9.957.1.2.1.1.11
+ciscoCdmaPdsnCrpMIB: 1.3.6.1.4.1.9.9.957
+ccpcSessionTotal: 1.3.6.1.4.1.9.9.957.1.1.2
+ccpcPcfPerfStatsEntry: 1.3.6.1.4.1.9.9.957.1.2.1.1
+ccpcEnabled: 1.3.6.1.4.1.9.9.957.1.1.1
+ccpcPcfRcvdCdns: 1.3.6.1.4.1.9.9.957.1.2.1.1.10
+ccpcMIBObjects: 1.3.6.1.4.1.9.9.957.1
+ccpcPcfIpAddress: 1.3.6.1.4.1.9.9.957.1.2.1.1.2
+ccpcPcfDroppedCdns: 1.3.6.1.4.1.9.9.957.1.2.1.1.12
+ccpcPerfStats: 1.3.6.1.4.1.9.9.957.1.2
+ccpcPcfRcvdIccns: 1.3.6.1.4.1.9.9.957.1.2.1.1.7
+ccpcPcfDroppedIccns: 1.3.6.1.4.1.9.9.957.1.2.1.1.9
+ccpcPcfRcvdZlbs: 1.3.6.1.4.1.9.9.957.1.2.1.1.13
+

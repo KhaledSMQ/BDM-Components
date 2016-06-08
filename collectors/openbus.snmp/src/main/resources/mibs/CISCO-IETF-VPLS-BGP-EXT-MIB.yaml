@@ -1,0 +1,29 @@
+--- 
+ciVplsBgpExtVEId: 1.3.6.1.4.1.9.10.140.1.3.1.1
+ciVplsBgpExtConfigTable: 1.3.6.1.4.1.9.10.140.1.1
+ciVplsBgpExtVETable: 1.3.6.1.4.1.9.10.140.1.3
+ciscoIetfVplsBgpExtMIBConform: 1.3.6.1.4.1.9.10.140.2
+ciscoIetfVplsBgpExtMIBCompliances: 1.3.6.1.4.1.9.10.140.2.1
+ciscoIetfVplsBgpExtMIBNotifs: 1.3.6.1.4.1.9.10.140.0
+ciVplsBgpExtConfigEntry: 1.3.6.1.4.1.9.10.140.1.1.1
+ciVplsBgpExtConfigVERangeSize: 1.3.6.1.4.1.9.10.140.1.1.1.4
+civplsBgpExtRTEntry: 1.3.6.1.4.1.9.10.140.1.2.1
+ciVplsBgpExtRT: 1.3.6.1.4.1.9.10.140.1.2.1.2
+ciVplsBgpExtRTStorageType: 1.3.6.1.4.1.9.10.140.1.2.1.3
+ciscoIetfVplsBgpExtMIB: 1.3.6.1.4.1.9.10.140
+ciVplsBgpExtRTRowStatus: 1.3.6.1.4.1.9.10.140.1.2.1.4
+ciVplsBgpExtPwBindLocalVEId: 1.3.6.1.4.1.9.10.140.1.4.1.1
+ciscoIetfVplsBgpExtMIBObjects: 1.3.6.1.4.1.9.10.140.1
+ciVplsBgpExtConfigRouteDistinguisher: 1.3.6.1.4.1.9.10.140.1.1.1.1
+civplsBgpExtRTTable: 1.3.6.1.4.1.9.10.140.1.2
+ciVplsBgpExtVEEntry: 1.3.6.1.4.1.9.10.140.1.3.1
+ciVplsBgpExtVEPreference: 1.3.6.1.4.1.9.10.140.1.3.1.3
+ciVplsBgpExtVERowStatus: 1.3.6.1.4.1.9.10.140.1.3.1.6
+ciscoIetfVplsBgpExtMIBGroups: 1.3.6.1.4.1.9.10.140.2.2
+ciVplsBgpExtPwBindTable: 1.3.6.1.4.1.9.10.140.1.4
+ciVplsBgpExtPwBindEntry: 1.3.6.1.4.1.9.10.140.1.4.1
+ciVplsBgpExtPwBindRemoteVEId: 1.3.6.1.4.1.9.10.140.1.4.1.2
+ciVplsBgpExtRTType: 1.3.6.1.4.1.9.10.140.1.2.1.1
+ciVplsBgpExtVEName: 1.3.6.1.4.1.9.10.140.1.3.1.2
+ciVplsBgpExtVEStorageType: 1.3.6.1.4.1.9.10.140.1.3.1.5
+

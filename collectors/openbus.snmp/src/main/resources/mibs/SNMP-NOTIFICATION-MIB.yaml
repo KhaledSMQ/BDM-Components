@@ -1,0 +1,26 @@
+--- 
+snmpNotifyObjects: 1.3.6.1.6.3.13.1
+snmpNotifyEntry: 1.3.6.1.6.3.13.1.1.1
+snmpNotifyName: 1.3.6.1.6.3.13.1.1.1.1
+snmpNotifyType: 1.3.6.1.6.3.13.1.1.1.3
+snmpNotifyFilterType: 1.3.6.1.6.3.13.1.3.1.3
+snmpNotifyFilterEntry: 1.3.6.1.6.3.13.1.3.1
+snmpNotifyTag: 1.3.6.1.6.3.13.1.1.1.2
+snmpNotifyFilterMask: 1.3.6.1.6.3.13.1.3.1.2
+snmpNotifyGroups: 1.3.6.1.6.3.13.3.2
+snmpNotificationMIB: 1.3.6.1.6.3.13
+snmpNotifyStorageType: 1.3.6.1.6.3.13.1.1.1.4
+snmpNotifyFilterProfileRowStatus: 1.3.6.1.6.3.13.1.2.1.3
+snmpNotifyFilterStorageType: 1.3.6.1.6.3.13.1.3.1.4
+snmpNotifyConformance: 1.3.6.1.6.3.13.3
+snmpNotifyFilterProfileStorType: 1.3.6.1.6.3.13.1.2.1.2
+snmpNotifyFilterTable: 1.3.6.1.6.3.13.1.3
+snmpNotifyCompliances: 1.3.6.1.6.3.13.3.1
+snmpNotifyFilterSubtree: 1.3.6.1.6.3.13.1.3.1.1
+snmpNotifyFilterRowStatus: 1.3.6.1.6.3.13.1.3.1.5
+snmpNotifyRowStatus: 1.3.6.1.6.3.13.1.1.1.5
+snmpNotifyFilterProfileName: 1.3.6.1.6.3.13.1.2.1.1
+snmpNotifyTable: 1.3.6.1.6.3.13.1.1
+snmpNotifyFilterProfileEntry: 1.3.6.1.6.3.13.1.2.1
+snmpNotifyFilterProfileTable: 1.3.6.1.6.3.13.1.2
+

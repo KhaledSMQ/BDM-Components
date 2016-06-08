@@ -1,0 +1,24 @@
+--- 
+ciscoEthernetFabricExtenderMIB: 1.3.6.1.4.1.9.9.691
+cefexConfigPinningFailOverMode: 1.3.6.1.4.1.9.9.691.1.1.2.1.4
+cefexConfigRowStatus: 1.3.6.1.4.1.9.9.691.1.1.2.1.7
+cefexConfig: 1.3.6.1.4.1.9.9.691.1.1
+cefexConfigExtenderName: 1.3.6.1.4.1.9.9.691.1.1.2.1.1
+cEthernetFabricExtenderMIBCompliances: 1.3.6.1.4.1.9.9.691.2.1
+cefexConfigEntry: 1.3.6.1.4.1.9.9.691.1.1.2.1
+cefexConfigSerialNum: 1.3.6.1.4.1.9.9.691.1.1.2.1.3
+cefexBindingTable: 1.3.6.1.4.1.9.9.691.1.1.1
+cefexBindingRowStatus: 1.3.6.1.4.1.9.9.691.1.1.1.1.4
+cefexConfigTable: 1.3.6.1.4.1.9.9.691.1.1.2
+cEthernetFabricExtenderMIBGroups: 1.3.6.1.4.1.9.9.691.2.2
+ciscoEthernetFabricExtenderMIBNotifs: 1.3.6.1.4.1.9.9.691.0
+cefexBindingInterfaceOnCoreSwitch: 1.3.6.1.4.1.9.9.691.1.1.1.1.1
+cefexBindingCreationTime: 1.3.6.1.4.1.9.9.691.1.1.1.1.3
+cefexBindingEntry: 1.3.6.1.4.1.9.9.691.1.1.1.1
+cefexConfigSerialNumCheck: 1.3.6.1.4.1.9.9.691.1.1.2.1.2
+cefexConfigPinningMaxLinks: 1.3.6.1.4.1.9.9.691.1.1.2.1.5
+cefexConfigCreationTime: 1.3.6.1.4.1.9.9.691.1.1.2.1.6
+ciscoEthernetFabricExtenderMIBConformance: 1.3.6.1.4.1.9.9.691.2
+ciscoEthernetFabricExtenderObjects: 1.3.6.1.4.1.9.9.691.1
+cefexBindingExtenderIndex: 1.3.6.1.4.1.9.9.691.1.1.1.1.2
+

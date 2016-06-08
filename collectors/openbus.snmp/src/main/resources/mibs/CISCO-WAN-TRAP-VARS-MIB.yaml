@@ -1,0 +1,26 @@
+--- 
+cwTrapLineModuleNumber: 1.3.6.1.4.1.351.150.5.1.1.4
+cwTrapIndex: 1.3.6.1.4.1.351.150.5.1.1.1
+cwTrapPhysicalUnit: 1.3.6.1.4.1.351.150.5.1.1.8
+cwTrapVarsMIBGroups: 1.3.6.1.4.1.351.150.5.2.2
+cwTrapVars: 1.3.6.1.4.1.351.150.5.1.1
+cwTrapPhysicalVendorType: 1.3.6.1.4.1.351.150.5.1.1.3
+cwTrapCardRole: 1.3.6.1.4.1.351.150.5.1.1.9
+cwTrapSctId: 1.3.6.1.4.1.351.150.5.1.1.12
+cwTrapReference: 1.3.6.1.4.1.351.150.5.1.1.16
+cwTrapPhysicalContainer: 1.3.6.1.4.1.351.150.5.1.1.7
+cwTrapSctType: 1.3.6.1.4.1.351.150.5.1.1.11
+cwTrapVarsMIBConformance: 1.3.6.1.4.1.351.150.5.2
+cwTrapVarsMIBCompliances: 1.3.6.1.4.1.351.150.5.2.1
+cwTrapDisplayString: 1.3.6.1.4.1.351.150.5.1.1.6
+cwTrapSctCardType: 1.3.6.1.4.1.351.150.5.1.1.10
+cwTrapThirdIndex: 1.3.6.1.4.1.351.150.5.1.1.18
+cwTrapSlotNumber: 1.3.6.1.4.1.351.150.5.1.1.2
+cwTrapVarLength: 1.3.6.1.4.1.351.150.5.1.1.14
+ciscoWanTrapVarsMIB: 1.3.6.1.4.1.351.150.5
+cwTrapVarMIBObjects: 1.3.6.1.4.1.351.150.5.1
+cwTrapOctetString: 1.3.6.1.4.1.351.150.5.1.1.5
+cwTrapSctMajorVersion: 1.3.6.1.4.1.351.150.5.1.1.13
+cwTrapAtmAddressType: 1.3.6.1.4.1.351.150.5.1.1.15
+cwTrapSecondIndex: 1.3.6.1.4.1.351.150.5.1.1.17
+

@@ -1,0 +1,21 @@
+--- 
+ciscoTBridgeDevIfMIBCompliances: 1.3.6.1.4.1.9.9.269.2.1
+ctbrIpAddress: 1.3.6.1.4.1.9.9.269.1.1.1.1.8
+ciscoTBridgeDevIfMIBGroups: 1.3.6.1.4.1.9.9.269.2.2
+ctbrDefaultPhyAddress: 1.3.6.1.4.1.9.9.269.1.1.1.1.1
+ctbrDevInterfaceTable: 1.3.6.1.4.1.9.9.269.1.1.1
+ciscoTBridgeDevIfMIBConformance: 1.3.6.1.4.1.9.9.269.2
+ciscoTBridgeDevIfMIB: 1.3.6.1.4.1.9.9.269
+ctbrDefaultIpMaskType: 1.3.6.1.4.1.9.9.269.1.1.1.1.5
+ctbrDevInterfaceEntry: 1.3.6.1.4.1.9.9.269.1.1.1.1
+ctbrPhyAddress: 1.3.6.1.4.1.9.9.269.1.1.1.1.2
+ctbrDefaultIpAddress: 1.3.6.1.4.1.9.9.269.1.1.1.1.4
+ctbrMSDUMaxLength: 1.3.6.1.4.1.9.9.269.1.1.1.1.11
+ctbrDefaultIpAddrType: 1.3.6.1.4.1.9.9.269.1.1.1.1.3
+ctbrIpAddressType: 1.3.6.1.4.1.9.9.269.1.1.1.1.7
+ciscoTBridgeDevIfMIBObjects: 1.3.6.1.4.1.9.9.269.1
+ctbrDevInterface: 1.3.6.1.4.1.9.9.269.1.1
+ctbrDefaultIpMask: 1.3.6.1.4.1.9.9.269.1.1.1.1.6
+ctbrIpMaskType: 1.3.6.1.4.1.9.9.269.1.1.1.1.9
+ctbrIpMask: 1.3.6.1.4.1.9.9.269.1.1.1.1.10
+

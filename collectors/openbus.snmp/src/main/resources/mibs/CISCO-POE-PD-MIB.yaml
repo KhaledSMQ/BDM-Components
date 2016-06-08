@@ -1,0 +1,16 @@
+--- 
+cpoePdInformation: 1.3.6.1.4.1.9.9.414.1.1
+cpoePdMIBNotifications: 1.3.6.1.4.1.9.9.414.0
+cpoePdMIBObjects: 1.3.6.1.4.1.9.9.414.1
+cpoePdSupportedPowerLevel: 1.3.6.1.4.1.9.9.414.1.1.3.1.1
+cpoePdMIBCompliances: 1.3.6.1.4.1.9.9.414.2.1
+cpoePdSupportedPowerLevelTable: 1.3.6.1.4.1.9.9.414.1.1.3
+cpoePdCurrentPowerLevel: 1.3.6.1.4.1.9.9.414.1.1.1
+cpoePdCurrentPowerSource: 1.3.6.1.4.1.9.9.414.1.1.2
+ciscoPoePdMIB: 1.3.6.1.4.1.9.9.414
+cpoePdMIBGroups: 1.3.6.1.4.1.9.9.414.2.2
+cpoePdSupportedPowerLevelEntry: 1.3.6.1.4.1.9.9.414.1.1.3.1
+cpoePdSupportedPower: 1.3.6.1.4.1.9.9.414.1.1.3.1.2
+cpoePdMIBConformance: 1.3.6.1.4.1.9.9.414.2
+cpoePdSupportedPowerMode: 1.3.6.1.4.1.9.9.414.1.1.3.1.3
+

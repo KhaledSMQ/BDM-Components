@@ -1,0 +1,33 @@
+--- 
+ciscoHsrpMIB: 1.3.6.1.4.1.9.9.106
+cHsrpComplianceGroups: 1.3.6.1.4.1.9.9.106.3.2
+cHsrpGrpActiveRouter: 1.3.6.1.4.1.9.9.106.1.2.1.1.13
+cHsrpConfigTimeout: 1.3.6.1.4.1.9.9.106.1.1.1
+cHsrpGrpConfiguredHelloTime: 1.3.6.1.4.1.9.9.106.1.2.1.1.7
+cHsrpGrpStandbyRouter: 1.3.6.1.4.1.9.9.106.1.2.1.1.14
+cHsrpGrpEntryRowStatus: 1.3.6.1.4.1.9.9.106.1.2.1.1.17
+cHsrpGrpPreemptDelay: 1.3.6.1.4.1.9.9.106.1.2.1.1.5
+cHsrpGrpAuth: 1.3.6.1.4.1.9.9.106.1.2.1.1.2
+cHsrpGrpUseConfiguredTimers: 1.3.6.1.4.1.9.9.106.1.2.1.1.6
+cHsrpGrpConfiguredHoldTime: 1.3.6.1.4.1.9.9.106.1.2.1.1.8
+cHsrpGrpLearnedHelloTime: 1.3.6.1.4.1.9.9.106.1.2.1.1.9
+cHsrpGrpVirtualIpAddr: 1.3.6.1.4.1.9.9.106.1.2.1.1.11
+cHsrpGrpVirtualMacAddr: 1.3.6.1.4.1.9.9.106.1.2.1.1.16
+cHsrpGrpIpNone: 1.3.6.1.4.1.9.9.106.1.2.1.1.18
+cHsrpGroup: 1.3.6.1.4.1.9.9.106.1.2
+cHsrpGrpPriority: 1.3.6.1.4.1.9.9.106.1.2.1.1.3
+ciscoHsrpMIBObjects: 1.3.6.1.4.1.9.9.106.1
+cHsrpMIBNotificationPrefix: 1.3.6.1.4.1.9.9.106.2
+cHsrpMIBNotifications: 1.3.6.1.4.1.9.9.106.2.0
+cHsrpStateChange: 1.3.6.1.4.1.9.9.106.2.0.1
+cHsrpGrpTable: 1.3.6.1.4.1.9.9.106.1.2.1
+cHsrpGrpPreempt: 1.3.6.1.4.1.9.9.106.1.2.1.1.4
+cHsrpGrpStandbyState: 1.3.6.1.4.1.9.9.106.1.2.1.1.15
+cHsrpConformance: 1.3.6.1.4.1.9.9.106.3
+cHsrpGlobalConfig: 1.3.6.1.4.1.9.9.106.1.1
+cHsrpGrpNumber: 1.3.6.1.4.1.9.9.106.1.2.1.1.1
+cHsrpGrpLearnedHoldTime: 1.3.6.1.4.1.9.9.106.1.2.1.1.10
+cHsrpGrpUseConfigVirtualIpAddr: 1.3.6.1.4.1.9.9.106.1.2.1.1.12
+cHsrpGrpEntry: 1.3.6.1.4.1.9.9.106.1.2.1.1
+cHsrpCompliances: 1.3.6.1.4.1.9.9.106.3.1
+

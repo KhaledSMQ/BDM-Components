@@ -1,0 +1,12 @@
+--- 
+cmplsLsrExtNotifications: 1.3.6.1.4.1.9.10.145.0
+cmplsXCExtTunnelPointer: 1.3.6.1.4.1.9.10.145.1.1.1.1
+cmplsLsrExtCompliances: 1.3.6.1.4.1.9.10.145.2.2
+cmplsLsrExtGroups: 1.3.6.1.4.1.9.10.145.2.1
+cmplsXCExtEntry: 1.3.6.1.4.1.9.10.145.1.1.1
+cmplsLsrExtConformance: 1.3.6.1.4.1.9.10.145.2
+cmplsLsrExtStdMIB: 1.3.6.1.4.1.9.10.145
+cmplsLsrExtObjects: 1.3.6.1.4.1.9.10.145.1
+cmplsXCExtTable: 1.3.6.1.4.1.9.10.145.1.1
+cmplsXCOppositeDirXCPtr: 1.3.6.1.4.1.9.10.145.1.1.1.2
+

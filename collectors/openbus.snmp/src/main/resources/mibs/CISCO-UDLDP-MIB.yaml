@@ -1,0 +1,33 @@
+--- 
+cudldpInterfaceAggressiveMode: 1.3.6.1.4.1.9.9.118.1.2.1.1.3
+cudldpIfFastHelloInterval: 1.3.6.1.4.1.9.9.118.1.2.1.1.6
+ciscoUdldpMIBConformance: 1.3.6.1.4.1.9.9.118.3
+cudldpIfOperHelloInterval: 1.3.6.1.4.1.9.9.118.1.2.1.1.7
+ciscoUdldpMIB: 1.3.6.1.4.1.9.9.118
+cudldpGlobal: 1.3.6.1.4.1.9.9.118.1.1
+cudldpFastHelloLinkFailRptNotifEnable: 1.3.6.1.4.1.9.9.118.1.1.5
+cudldpInterfaceAdminMode: 1.3.6.1.4.1.9.9.118.1.2.1.1.4
+ciscoUdldpMIBCompliances: 1.3.6.1.4.1.9.9.118.3.1
+cudldpInterfaceEnable: 1.3.6.1.4.1.9.9.118.1.2.1.1.1
+cudldpInterfaceOperStatus: 1.3.6.1.4.1.9.9.118.1.2.1.1.2
+cudldpFastHelloOperationalPorts: 1.3.6.1.4.1.9.9.118.1.3.4
+cudldpFastHelloLinkFailRptNotification: 1.3.6.1.4.1.9.9.118.0.1
+ciscoUdldpMIBNotifs: 1.3.6.1.4.1.9.9.118.0
+cudldpInterfaceOperMode: 1.3.6.1.4.1.9.9.118.1.2.1.1.5
+cudldpIfFastHelloOperStatus: 1.3.6.1.4.1.9.9.118.1.2.1.1.8
+cudldpFastHelloMaxPorts: 1.3.6.1.4.1.9.9.118.1.3.2
+cudldpGlobalEnable: 1.3.6.1.4.1.9.9.118.1.1.1
+cudldpGlobalMode: 1.3.6.1.4.1.9.9.118.1.1.3
+cudldpInterface: 1.3.6.1.4.1.9.9.118.1.2
+cudldpInterfaceEntry: 1.3.6.1.4.1.9.9.118.1.2.1.1
+cudldpFastHelloStatusChangeNotification: 1.3.6.1.4.1.9.9.118.0.2
+cudldpHelloIntervalExt: 1.3.6.1.4.1.9.9.118.1.1.4
+cudldpInterfaceTable: 1.3.6.1.4.1.9.9.118.1.2.1
+cudldpFastHello: 1.3.6.1.4.1.9.9.118.1.3
+cudldpFastHelloConfigPorts: 1.3.6.1.4.1.9.9.118.1.3.3
+cudldpHelloInterval: 1.3.6.1.4.1.9.9.118.1.1.2
+ciscoUdldpMIBGroups: 1.3.6.1.4.1.9.9.118.3.2
+ciscoUdldpMIBObjects: 1.3.6.1.4.1.9.9.118.1
+cudldpFastHelloStatusChangeNotifEnable: 1.3.6.1.4.1.9.9.118.1.1.6
+cudldpFastHelloErrorReportEnable: 1.3.6.1.4.1.9.9.118.1.3.1
+

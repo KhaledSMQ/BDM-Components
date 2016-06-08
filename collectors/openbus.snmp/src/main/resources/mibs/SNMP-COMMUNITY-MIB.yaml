@@ -1,0 +1,23 @@
+--- 
+snmpCommunityIndex: 1.3.6.1.6.3.18.1.1.1.1
+snmpCommunityContextName: 1.3.6.1.6.3.18.1.1.1.5
+snmpTargetAddrMMS: 1.3.6.1.6.3.18.1.2.1.2
+snmpCommunityTransportTag: 1.3.6.1.6.3.18.1.1.1.6
+snmpCommunityStorageType: 1.3.6.1.6.3.18.1.1.1.7
+snmpTargetAddrExtEntry: 1.3.6.1.6.3.18.1.2.1
+snmpTrapAddress: 1.3.6.1.6.3.18.1.3
+snmpCommunityTable: 1.3.6.1.6.3.18.1.1
+snmpTargetAddrTMask: 1.3.6.1.6.3.18.1.2.1.1
+snmpCommunityStatus: 1.3.6.1.6.3.18.1.1.1.8
+snmpCommunityMIB: 1.3.6.1.6.3.18
+snmpCommunityName: 1.3.6.1.6.3.18.1.1.1.2
+snmpCommunityMIBGroups: 1.3.6.1.6.3.18.2.2
+snmpCommunityContextEngineID: 1.3.6.1.6.3.18.1.1.1.4
+snmpTrapCommunity: 1.3.6.1.6.3.18.1.4
+snmpCommunitySecurityName: 1.3.6.1.6.3.18.1.1.1.3
+snmpCommunityMIBObjects: 1.3.6.1.6.3.18.1
+snmpCommunityEntry: 1.3.6.1.6.3.18.1.1.1
+snmpCommunityMIBConformance: 1.3.6.1.6.3.18.2
+snmpTargetAddrExtTable: 1.3.6.1.6.3.18.1.2
+snmpCommunityMIBCompliances: 1.3.6.1.6.3.18.2.1
+

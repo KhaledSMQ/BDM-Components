@@ -1,0 +1,14 @@
+--- 
+ciscoMGX8800IfMappingMIB: 1.3.6.1.4.1.351.150.7
+cmimIfType: 1.3.6.1.4.1.351.150.7.1.1.1.1.3
+cmimPhysToIfMIBGroups: 1.3.6.1.4.1.351.150.7.3.2
+cmimPhysToIf: 1.3.6.1.4.1.351.150.7.1.1
+cmimPhysToIfTable: 1.3.6.1.4.1.351.150.7.1.1.1
+cmimPhysToIfMIBCompliances: 1.3.6.1.4.1.351.150.7.3.1
+cmimMappingObjects: 1.3.6.1.4.1.351.150.7.1
+cmimPhysToIfEntry: 1.3.6.1.4.1.351.150.7.1.1.1.1
+cmimIfIndex: 1.3.6.1.4.1.351.150.7.1.1.1.1.4
+cmimModuleIndex: 1.3.6.1.4.1.351.150.7.1.1.1.1.1
+cmimIfNumber: 1.3.6.1.4.1.351.150.7.1.1.1.1.2
+cmimPhysToIfMIBConformance: 1.3.6.1.4.1.351.150.7.3
+

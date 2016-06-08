@@ -1,0 +1,25 @@
+--- 
+ccttActiveLocalTcpPort: 1.3.6.1.4.1.9.9.164.1.1.1.1.2
+ccttHistoryLocalIpAddress: 1.3.6.1.4.1.9.9.164.1.2.1.1.1
+ccttMIBCompliances: 1.3.6.1.4.1.9.9.164.3.1
+ccttMIBGroups: 1.3.6.1.4.1.9.9.164.3.2
+ccttActiveDestinationFailures: 1.3.6.1.4.1.9.9.164.1.1.1.1.5
+ccttHistoryRemoteTcpPort: 1.3.6.1.4.1.9.9.164.1.2.1.1.4
+ccttHistoryEntry: 1.3.6.1.4.1.9.9.164.1.2.1.1
+ccttHistoryRemoteIpAddress: 1.3.6.1.4.1.9.9.164.1.2.1.1.3
+ccttMIBNotificationPrefix: 1.3.6.1.4.1.9.9.164.2
+ccttMIBObjects: 1.3.6.1.4.1.9.9.164.1
+ccttHistoryLocalTcpPort: 1.3.6.1.4.1.9.9.164.1.2.1.1.2
+ccttMIBNotifications: 1.3.6.1.4.1.9.9.164.2.0
+ccttActive: 1.3.6.1.4.1.9.9.164.1.1
+ccttActiveTable: 1.3.6.1.4.1.9.9.164.1.1.1
+ccttActiveRemoteIpAddress: 1.3.6.1.4.1.9.9.164.1.1.1.1.3
+ccttHistory: 1.3.6.1.4.1.9.9.164.1.2
+ciscoCallTrackerTCPMIB: 1.3.6.1.4.1.9.9.164
+ccttMIBConformance: 1.3.6.1.4.1.9.9.164.3
+ccttActiveLocalIpAddress: 1.3.6.1.4.1.9.9.164.1.1.1.1.1
+ccttActiveRemoteTcpPort: 1.3.6.1.4.1.9.9.164.1.1.1.1.4
+ccttHistoryTable: 1.3.6.1.4.1.9.9.164.1.2.1
+ccttHistoryDestinationFailures: 1.3.6.1.4.1.9.9.164.1.2.1.1.5
+ccttActiveEntry: 1.3.6.1.4.1.9.9.164.1.1.1.1
+

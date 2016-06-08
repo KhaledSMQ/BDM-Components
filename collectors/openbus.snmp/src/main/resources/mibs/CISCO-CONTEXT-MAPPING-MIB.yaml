@@ -1,0 +1,30 @@
+--- 
+cContextMappingTable: 1.3.6.1.4.1.9.9.468.1.1
+cContextMappingEntry: 1.3.6.1.4.1.9.9.468.1.1.1
+cContextMappingLicenseGroupTable: 1.3.6.1.4.1.9.9.468.1.4
+cContextMappingLicenseGroupStorageType: 1.3.6.1.4.1.9.9.468.1.4.1.2
+ciscoContextMappingMIB: 1.3.6.1.4.1.9.9.468
+cContextMappingMIBObjects: 1.3.6.1.4.1.9.9.468.1
+cContextMappingBridgeDomainEntry: 1.3.6.1.4.1.9.9.468.1.2.1
+cContextMappingBridgeInstStorageType: 1.3.6.1.4.1.9.9.468.1.3.1.2
+cContextMappingMIBConformance: 1.3.6.1.4.1.9.9.468.2
+cContextMappingRowStatus: 1.3.6.1.4.1.9.9.468.1.1.1.6
+cContextMappingLicenseGroupName: 1.3.6.1.4.1.9.9.468.1.4.1.1
+cContextMappingTopologyName: 1.3.6.1.4.1.9.9.468.1.1.1.3
+cContextMappingMIBGroups: 1.3.6.1.4.1.9.9.468.2.2
+cContextMappingProtoInstName: 1.3.6.1.4.1.9.9.468.1.1.1.4
+cContextMappingBridgeInstanceTable: 1.3.6.1.4.1.9.9.468.1.3
+cContextMappingMIBCompliances: 1.3.6.1.4.1.9.9.468.2.1
+cContextMappingBridgeDomainTable: 1.3.6.1.4.1.9.9.468.1.2
+cContextMappingBridgeDomainIdentifier: 1.3.6.1.4.1.9.9.468.1.2.1.1
+cContextMappingBridgeDomainRowStatus: 1.3.6.1.4.1.9.9.468.1.2.1.3
+cContextMappingLicenseGroupRowStatus: 1.3.6.1.4.1.9.9.468.1.4.1.3
+cContextMappingVrfName: 1.3.6.1.4.1.9.9.468.1.1.1.2
+cContextMappingBridgeInstanceEntry: 1.3.6.1.4.1.9.9.468.1.3.1
+cContextMappingBridgeInstRowStatus: 1.3.6.1.4.1.9.9.468.1.3.1.3
+cContextMappingLicenseGroupEntry: 1.3.6.1.4.1.9.9.468.1.4.1
+cContextMappingVacmContextName: 1.3.6.1.4.1.9.9.468.1.1.1.1
+cContextMappingStorageType: 1.3.6.1.4.1.9.9.468.1.1.1.5
+cContextMappingBridgeDomainStorageType: 1.3.6.1.4.1.9.9.468.1.2.1.2
+cContextMappingBridgeInstName: 1.3.6.1.4.1.9.9.468.1.3.1.1
+

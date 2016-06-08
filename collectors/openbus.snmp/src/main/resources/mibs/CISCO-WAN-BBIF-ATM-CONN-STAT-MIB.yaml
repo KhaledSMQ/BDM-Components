@@ -1,0 +1,22 @@
+--- 
+bbChanCntNum: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.1
+bbChanRcvClp1Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.3
+bbChanNonConformCellsAtGcra2Policer: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.5
+cwbAtmConnStatMIBConformance: 1.3.6.1.4.1.351.150.36.2
+cwbAtmConnStatMIBCompliances: 1.3.6.1.4.1.351.150.36.2.2
+ciscoWanBbifAtmConnStatMIB: 1.3.6.1.4.1.351.150.36
+bbChanNonConformCellsAtGcra1Policer: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.4
+bbChanXmtClp0Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.10
+bbChanCntClrButton: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.14
+cwbAtmConnStatMIBGroups: 1.3.6.1.4.1.351.150.36.2.1
+bbChanCntGrpTable: 1.3.6.1.4.1.351.110.5.2.7.3.1
+bbChanDscdClp0Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.7
+bbChanDscdClpOneCellsToPort: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.13
+bbChanCntGrpEntry: 1.3.6.1.4.1.351.110.5.2.7.3.1.1
+bbChanDscdClp1Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.8
+bbChanDscdClpZeroCellsToPort: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.12
+bbChanRcvClp0Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.2
+bbChanRcvEOFCells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.6
+bbChanXmtClp1Cells: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.11
+bbChanRcvCellsSent: 1.3.6.1.4.1.351.110.5.2.7.3.1.1.9
+

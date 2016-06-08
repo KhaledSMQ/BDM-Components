@@ -1,0 +1,29 @@
+--- 
+ciscoRptrPortLinkTestFailed: 1.3.6.1.4.1.9.9.22.1.1.1.3
+ciscoRptrPortIllegalAddrTrapAcked: 1.3.6.1.4.1.9.9.22.1.1.1.10
+ciscoRptrMIBGroups: 1.3.6.1.4.1.9.9.22.2.2
+ciscoRptrIllegalSrcAddrTrap: 1.3.6.1.4.1.9.9.22.3.0.1
+ciscoRptrMIB: 1.3.6.1.4.1.9.9.22
+ciscoRptrPortEntry: 1.3.6.1.4.1.9.9.22.1.1.1
+ciscoRptrPortIllegalAddrFirstHeard: 1.3.6.1.4.1.9.9.22.1.1.1.12
+ciscoRptrPortIllegalAddrTotalCount: 1.3.6.1.4.1.9.9.22.1.1.1.15
+ciscoRptrMIBTraps: 1.3.6.1.4.1.9.9.22.3.0
+ciscoRptrMIBObjects: 1.3.6.1.4.1.9.9.22.1
+ciscoRptrPortSrcAddrCtrl: 1.3.6.1.4.1.9.9.22.1.1.1.6
+ciscoRptrPortLastIllegalSrcAddr: 1.3.6.1.4.1.9.9.22.1.1.1.9
+ciscoRptrMIBglobal: 1.3.6.1.4.1.9.9.22.1.2
+ciscoRptrTrapAlgorithm: 1.3.6.1.4.1.9.9.22.1.2.1
+ciscoRptrMIBTrapPrefix: 1.3.6.1.4.1.9.9.22.3
+ciscoRptrPortTable: 1.3.6.1.4.1.9.9.22.1.1
+ciscoRptrPortAutoPolarityEnabled: 1.3.6.1.4.1.9.9.22.1.1.1.4
+ciscoRptrMIBCompliances: 1.3.6.1.4.1.9.9.22.2.1
+ciscoRptrPortAllowedSrcAddrStatus: 1.3.6.1.4.1.9.9.22.1.1.1.8
+ciscoRptrPortMDIStatus: 1.3.6.1.4.1.9.9.22.1.1.1.1
+ciscoRptrPortAutoPolarityCorrected: 1.3.6.1.4.1.9.9.22.1.1.1.5
+ciscoRptrPortLinkTestEnabled: 1.3.6.1.4.1.9.9.22.1.1.1.2
+ciscoRptrPortIllegalAddrTrapEnabled: 1.3.6.1.4.1.9.9.22.1.1.1.11
+ciscoRptrMIBConformance: 1.3.6.1.4.1.9.9.22.2
+ciscoRptrPortAllowedSrcAddr: 1.3.6.1.4.1.9.9.22.1.1.1.7
+ciscoRptrPortIllegalAddrLastHeard: 1.3.6.1.4.1.9.9.22.1.1.1.13
+ciscoRptrPortLastIllegalAddrCount: 1.3.6.1.4.1.9.9.22.1.1.1.14
+

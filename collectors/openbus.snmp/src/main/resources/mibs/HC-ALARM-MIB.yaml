@@ -1,0 +1,35 @@
+--- 
+hcAlarmIndex: 1.3.6.1.2.1.16.29.1.1.1.1.1
+hcAlarmFallingEventIndex: 1.3.6.1.2.1.16.29.1.1.1.1.15
+hcAlarmEntry: 1.3.6.1.2.1.16.29.1.1.1.1
+hcAlarmFallingThreshAbsValueLo: 1.3.6.1.2.1.16.29.1.1.1.1.11
+hcAlarmFallingThresholdValStatus: 1.3.6.1.2.1.16.29.1.1.1.1.13
+hcRisingAlarm: 1.3.6.1.2.1.16.29.2.0.1
+hcAlarmAbsValue: 1.3.6.1.2.1.16.29.1.1.1.1.5
+hcAlarmRisingThresholdValStatus: 1.3.6.1.2.1.16.29.1.1.1.1.10
+hcAlarmNotifications: 1.3.6.1.2.1.16.29.2
+hcAlarmRisingThreshAbsValueLo: 1.3.6.1.2.1.16.29.1.1.1.1.8
+hcAlarmFallingThreshAbsValueHi: 1.3.6.1.2.1.16.29.1.1.1.1.12
+hcAlarmCapabilities: 1.3.6.1.2.1.16.29.1.2.1
+hcFallingAlarm: 1.3.6.1.2.1.16.29.2.0.2
+hcAlarmMIB: 1.3.6.1.2.1.16.29
+hcAlarmTable: 1.3.6.1.2.1.16.29.1.1.1
+hcAlarmVariable: 1.3.6.1.2.1.16.29.1.1.1.1.3
+hcAlarmValueStatus: 1.3.6.1.2.1.16.29.1.1.1.1.6
+hcAlarmRisingEventIndex: 1.3.6.1.2.1.16.29.1.1.1.1.14
+hcAlarmCapabilitiesObjects: 1.3.6.1.2.1.16.29.1.2
+hcAlarmNotifPrefix: 1.3.6.1.2.1.16.29.2.0
+hcAlarmConformance: 1.3.6.1.2.1.16.29.3
+hcAlarmValueFailedAttempts: 1.3.6.1.2.1.16.29.1.1.1.1.16
+hcAlarmSampleType: 1.3.6.1.2.1.16.29.1.1.1.1.4
+hcAlarmRisingThreshAbsValueHi: 1.3.6.1.2.1.16.29.1.1.1.1.9
+hcAlarmOwner: 1.3.6.1.2.1.16.29.1.1.1.1.17
+hcAlarmGroups: 1.3.6.1.2.1.16.29.3.2
+hcAlarmControlObjects: 1.3.6.1.2.1.16.29.1.1
+hcAlarmInterval: 1.3.6.1.2.1.16.29.1.1.1.1.2
+hcAlarmStatus: 1.3.6.1.2.1.16.29.1.1.1.1.19
+hcAlarmCompliances: 1.3.6.1.2.1.16.29.3.1
+hcAlarmStartupAlarm: 1.3.6.1.2.1.16.29.1.1.1.1.7
+hcAlarmStorageType: 1.3.6.1.2.1.16.29.1.1.1.1.18
+hcAlarmObjects: 1.3.6.1.2.1.16.29.1
+

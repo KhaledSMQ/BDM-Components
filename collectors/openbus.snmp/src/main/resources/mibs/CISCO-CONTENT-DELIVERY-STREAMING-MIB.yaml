@@ -1,0 +1,31 @@
+--- 
+ccdsStreamingStatsServerErrors: 1.3.6.1.4.1.9.9.708.1.1.1.1.11
+ccdsStreamingStatsBandwidthUnit: 1.3.6.1.4.1.9.9.708.1.1.1.1.19
+ciscoCdsMIBGroups: 1.3.6.1.4.1.9.9.708.2.2
+ccdsStreamingStatsIndex: 1.3.6.1.4.1.9.9.708.1.1.1.1.1
+ccdsStreamingStatsRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.4
+ccdsStreamingStatsBlockedRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.12
+ccdsStreamingStatsBandwidthRate: 1.3.6.1.4.1.9.9.708.1.1.1.1.20
+ccdsStreamingStatsEntry: 1.3.6.1.4.1.9.9.708.1.1.1.1
+ccdsStreamingStatsDescr: 1.3.6.1.4.1.9.9.708.1.1.1.1.2
+ccdsStreamingStatsConcurrentRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.21
+ccdsStreamingStatsCacheHitRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.8
+ccdsStreamingStatsVODBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.17
+ciscoCdsMIBConformance: 1.3.6.1.4.1.9.9.708.2
+ccdsStreamingStatsLiveBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.15
+ciscoContentDeliveryStreamingMIB: 1.3.6.1.4.1.9.9.708
+ccdsStreamingStatsVODRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.6
+ccdsStreamingStatsHCLiveBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.16
+ccdsStreamingStatsClientErrors: 1.3.6.1.4.1.9.9.708.1.1.1.1.10
+ccdsStreamingStatsHCServedBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.14
+ciscoCdsMIBCompliances: 1.3.6.1.4.1.9.9.708.2.1
+ccdsStreamingModule: 1.3.6.1.4.1.9.9.708.1.1
+ccdsStreamingStatsMissRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.9
+ccdsStreamingStatsServedBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.13
+ccdsStreamingStatsTable: 1.3.6.1.4.1.9.9.708.1.1.1
+ccdsStreamingStatsModuleType: 1.3.6.1.4.1.9.9.708.1.1.1.1.3
+ccdsStreamingStatsLiveRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.5
+ciscoCdsMIBObjects: 1.3.6.1.4.1.9.9.708.1
+ccdsStreamingStatsPrepHitRequests: 1.3.6.1.4.1.9.9.708.1.1.1.1.7
+ccdsStreamingStatsHCVODBytes: 1.3.6.1.4.1.9.9.708.1.1.1.1.18
+

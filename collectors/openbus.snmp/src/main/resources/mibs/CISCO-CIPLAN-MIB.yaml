@@ -1,0 +1,24 @@
+--- 
+cipCardLanAdaptAdminAdaptName: 1.3.6.1.4.1.9.9.34.1.1.2.1.3
+cipLanObjects: 1.3.6.1.4.1.9.9.34.1
+cipCardLanAdaptAdminMacAddress: 1.3.6.1.4.1.9.9.34.1.1.2.1.2
+cipCardLanAdaptAdminAdaptNo: 1.3.6.1.4.1.9.9.34.1.1.2.1.1
+ciscoCipLanMibConformance: 1.3.6.1.4.1.9.9.34.2
+cipCardLanAdminLanId: 1.3.6.1.4.1.9.9.34.1.1.1.1.2
+cipCardLanAdminBridgeType: 1.3.6.1.4.1.9.9.34.1.1.1.1.3
+cipCardLanAdminSrbTargetRing: 1.3.6.1.4.1.9.9.34.1.1.1.1.6
+ciscoCipLanMibCompliances: 1.3.6.1.4.1.9.9.34.2.1
+ciscoCipLanMIB: 1.3.6.1.4.1.9.9.34
+cipCardLanAdminLanType: 1.3.6.1.4.1.9.9.34.1.1.1.1.1
+cipCardLanAdminSrbBridgeNum: 1.3.6.1.4.1.9.9.34.1.1.1.1.5
+cipCardLanAdminTable: 1.3.6.1.4.1.9.9.34.1.1.1
+cipCardLanAdminTbBridgeGrp: 1.3.6.1.4.1.9.9.34.1.1.1.1.7
+cipCardLanAdminRowStatus: 1.3.6.1.4.1.9.9.34.1.1.1.1.8
+cipCardLanAdaptAdminEntry: 1.3.6.1.4.1.9.9.34.1.1.2.1
+ciscoCipLanMibGroups: 1.3.6.1.4.1.9.9.34.2.2
+cipCardLanAdminSrbLocalRing: 1.3.6.1.4.1.9.9.34.1.1.1.1.4
+cipCardLanAdaptAdminTable: 1.3.6.1.4.1.9.9.34.1.1.2
+cipCardLanAdminEntry: 1.3.6.1.4.1.9.9.34.1.1.1.1
+cipCardLanAdaptAdminRowStatus: 1.3.6.1.4.1.9.9.34.1.1.2.1.4
+cipLan: 1.3.6.1.4.1.9.9.34.1.1
+

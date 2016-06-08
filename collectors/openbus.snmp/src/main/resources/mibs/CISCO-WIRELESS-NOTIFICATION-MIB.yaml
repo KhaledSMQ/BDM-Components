@@ -1,0 +1,28 @@
+--- 
+ciscoWirelessNotificationMIBObjects: 1.3.6.1.4.1.9.9.712.1
+cWNotificationKey: 1.3.6.1.4.1.9.9.712.1.1.2.1.4
+cWNotificationCategory: 1.3.6.1.4.1.9.9.712.1.1.2.1.5
+cWNotificationManagedObjectAddressType: 1.3.6.1.4.1.9.9.712.1.1.2.1.7
+cwNotificationMOStatusEnable: 1.3.6.1.4.1.9.9.712.1.1.3
+cWNotificationData: 1.3.6.1.4.1.9.9.712.1.1
+cWNotificationDescription: 1.3.6.1.4.1.9.9.712.1.1.2.1.10
+ciscoWirelessMOStatusNotification: 1.3.6.1.4.1.9.9.712.0.1
+cWNotificationSubCategory: 1.3.6.1.4.1.9.9.712.1.1.2.1.6
+cWNotificationSourceDisplayName: 1.3.6.1.4.1.9.9.712.1.1.2.1.9
+ciscoWirelessNotificationMIBNotifs: 1.3.6.1.4.1.9.9.712.0
+cwNotificationHistoryTableMaxLength: 1.3.6.1.4.1.9.9.712.1.1.1
+cWNotificationUpdatedTimestamp: 1.3.6.1.4.1.9.9.712.1.1.2.1.3
+cWNotificationSeverity: 1.3.6.1.4.1.9.9.712.1.1.2.1.11
+cWNotificationVirtualDomains: 1.3.6.1.4.1.9.9.712.1.1.2.1.14
+ciscoWirelessNotificationMIBCompliances: 1.3.6.1.4.1.9.9.712.2.1
+cWNotificationIndex: 1.3.6.1.4.1.9.9.712.1.1.2.1.1
+cWNotificationTimestamp: 1.3.6.1.4.1.9.9.712.1.1.2.1.2
+ciscoWirelessNotificationMIBGroups: 1.3.6.1.4.1.9.9.712.2.2
+ciscoWirelessNotificationMIB: 1.3.6.1.4.1.9.9.712
+cwNotificationHistoryEntry: 1.3.6.1.4.1.9.9.712.1.1.2.1
+cWNotificationManagedObjectAddress: 1.3.6.1.4.1.9.9.712.1.1.2.1.8
+cWNotificationType: 1.3.6.1.4.1.9.9.712.1.1.2.1.13
+ciscoWirelessNotificationMIBConform: 1.3.6.1.4.1.9.9.712.2
+cwNotificationHistoryTable: 1.3.6.1.4.1.9.9.712.1.1.2
+cWNotificationSpecialAttributes: 1.3.6.1.4.1.9.9.712.1.1.2.1.12
+

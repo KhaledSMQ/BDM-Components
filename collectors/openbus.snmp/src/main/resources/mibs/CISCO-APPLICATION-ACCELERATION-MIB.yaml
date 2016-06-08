@@ -1,0 +1,35 @@
+--- 
+caaMIBNotifications: 1.3.6.1.4.1.9.9.594.0
+caaFinalResponseSize: 1.3.6.1.4.1.9.9.594.1.1.1.1.6
+caaStaticObjectMissSize: 1.3.6.1.4.1.9.9.594.1.1.1.1.15
+caaStaticObjectHitSize: 1.3.6.1.4.1.9.9.594.1.1.1.1.13
+caaMIBConformance: 1.3.6.1.4.1.9.9.594.2
+caaStateChangeNotifEnabled: 1.3.6.1.4.1.9.9.594.1.2.1
+caaLastRestartedTime: 1.3.6.1.4.1.9.9.594.1.1.1.1.7
+caaMIBGroups: 1.3.6.1.4.1.9.9.594.2.2
+ciscoApplicationAccelerationMIB: 1.3.6.1.4.1.9.9.594
+caaMIBObjects: 1.3.6.1.4.1.9.9.594.1
+caaNotificationObjects: 1.3.6.1.4.1.9.9.594.1.2
+caaStats: 1.3.6.1.4.1.9.9.594.1.1
+caaStatTable: 1.3.6.1.4.1.9.9.594.1.1.1
+caaStatEntry: 1.3.6.1.4.1.9.9.594.1.1.1.1
+caaState: 1.3.6.1.4.1.9.9.594.1.1.1.1.2
+caaStaticObjectHits: 1.3.6.1.4.1.9.9.594.1.1.1.1.12
+caaPort: 1.3.6.1.4.1.9.9.594.1.1.1.1.1
+caaTransformedObjectIMSRequests: 1.3.6.1.4.1.9.9.594.1.1.1.1.11
+caaStaticObjectMisses: 1.3.6.1.4.1.9.9.594.1.1.1.1.14
+caaRefreshHits: 1.3.6.1.4.1.9.9.594.1.1.1.1.16
+caaIMSHits: 1.3.6.1.4.1.9.9.594.1.1.1.1.17
+caaIMSMisses: 1.3.6.1.4.1.9.9.594.1.1.1.1.18
+caaStateChange: 1.3.6.1.4.1.9.9.594.0.1
+caaNoncondensableRequests: 1.3.6.1.4.1.9.9.594.1.1.1.1.4
+caaTransformed: 1.3.6.1.4.1.9.9.594.1.1.1.1.8
+caaUntransformed: 1.3.6.1.4.1.9.9.594.1.1.1.1.9
+caaDirectRequests: 1.3.6.1.4.1.9.9.594.1.1.1.1.19
+caaTransformedObjectRequests: 1.3.6.1.4.1.9.9.594.1.1.1.1.10
+caaDeltaAbandons: 1.3.6.1.4.1.9.9.594.1.1.1.1.21
+caaMIBCompliances: 1.3.6.1.4.1.9.9.594.2.1
+caaRequests: 1.3.6.1.4.1.9.9.594.1.1.1.1.3
+caaRequestedObjectSize: 1.3.6.1.4.1.9.9.594.1.1.1.1.5
+caaRequestSize: 1.3.6.1.4.1.9.9.594.1.1.1.1.20
+

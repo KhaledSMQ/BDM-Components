@@ -1,0 +1,8 @@
+--- 
+ciscoRoutePoliciesMIBConform: 1.3.6.1.4.1.9.9.578.2
+ciscoRoutePoliciesMIB: 1.3.6.1.4.1.9.9.578
+crpPolicyIfIndex: 1.3.6.1.4.1.9.9.578.1.1.1
+ciscoRoutePoliciesMIBObjects: 1.3.6.1.4.1.9.9.578.1
+ciscoRoutePoliciesMIBNotifs: 1.3.6.1.4.1.9.9.578.0
+crpPolicies: 1.3.6.1.4.1.9.9.578.1.1
+

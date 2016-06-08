@@ -1,0 +1,27 @@
+--- 
+cdrqCmtsCmPollerStopTime: 1.3.6.1.4.1.9.10.59.1.1.7
+cdrqCmtsCmDownChannelPower: 1.3.6.1.4.1.9.10.59.1.2.1.1.1
+cdrqCmtsCmPollerContextName: 1.3.6.1.4.1.9.10.59.1.1.5
+cdrqCmtsCmSigQMicroreflections: 1.3.6.1.4.1.9.10.59.1.2.1.1.5
+ciscoDocsRQNotifications: 1.3.6.1.4.1.9.10.59.2.0
+cdrqDocsRemoteQueryCompliances: 1.3.6.1.4.1.9.10.59.3.1
+cdrqCmtsCmRQDoneNotification: 1.3.6.1.4.1.9.10.59.2.0.1
+cdrqCmtsCmPollerCommunity: 1.3.6.1.4.1.9.10.59.1.1.3
+cdrqCmtsCmPollerContextEngineID: 1.3.6.1.4.1.9.10.59.1.1.4
+cdrqCmtsCmStatusTxPower: 1.3.6.1.4.1.9.10.59.1.2.1.1.2
+ciscoDocsRQNotificationsPrefix: 1.3.6.1.4.1.9.10.59.2
+cdrqCmtsCmPollerInterval: 1.3.6.1.4.1.9.10.59.1.1.2
+cdrqCmtsCmPollerStartTime: 1.3.6.1.4.1.9.10.59.1.1.6
+ciscoDocsRemQueryMIBObjects: 1.3.6.1.4.1.9.10.59.1
+cdrqCmtsCmStatusEntry: 1.3.6.1.4.1.9.10.59.1.2.1.1
+cdrqCmtsCmUpChnlTxTimingOffset: 1.3.6.1.4.1.9.10.59.1.2.1.1.3
+cdrqDocsRemoteQueryGroups: 1.3.6.1.4.1.9.10.59.3.2
+ciscoDocsRemoteQueryMIB: 1.3.6.1.4.1.9.10.59
+cdrqCmtsCmStatusTable: 1.3.6.1.4.1.9.10.59.1.2.1
+cdrqCmtsCmSigQSignalNoise: 1.3.6.1.4.1.9.10.59.1.2.1.1.4
+ciscoDocsRemoteQueryConformance: 1.3.6.1.4.1.9.10.59.3
+cdrqCmtsCmPollerEnable: 1.3.6.1.4.1.9.10.59.1.1.1
+cdrqPoller: 1.3.6.1.4.1.9.10.59.1.1
+cdrqCM: 1.3.6.1.4.1.9.10.59.1.2
+cdrqCmtsCmPollTime: 1.3.6.1.4.1.9.10.59.1.2.1.1.6
+

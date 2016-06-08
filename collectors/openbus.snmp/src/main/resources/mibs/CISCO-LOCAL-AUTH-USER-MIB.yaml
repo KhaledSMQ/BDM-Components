@@ -1,0 +1,34 @@
+--- 
+clauUserAdded1: 1.3.6.1.4.1.9.9.798.0.5
+ciscoLocalAuthUserMIBNotifs: 1.3.6.1.4.1.9.9.798.0
+clauUserEntry: 1.3.6.1.4.1.9.9.798.1.2.1
+clauUserConfigName: 1.3.6.1.4.1.9.9.798.1.3.1.1
+clauUserConfigType: 1.3.6.1.4.1.9.9.798.1.3.1.2
+clauMIBGroups: 1.3.6.1.4.1.9.9.798.2.2
+clauUserConfigDescription: 1.3.6.1.4.1.9.9.798.1.3.1.6
+clauMIBCompliances: 1.3.6.1.4.1.9.9.798.2.1
+clauUserDeleted: 1.3.6.1.4.1.9.9.798.0.2
+clauNotifEnable: 1.3.6.1.4.1.9.9.798.1.1
+clauUserType: 1.3.6.1.4.1.9.9.798.1.2.1.3
+ciscoLocalAuthUserMIBObjects: 1.3.6.1.4.1.9.9.798.1
+clauUserConfigRowStatus: 1.3.6.1.4.1.9.9.798.1.3.1.8
+clauUserLoggedIn1: 1.3.6.1.4.1.9.9.798.0.7
+clauUserConfigCreationTime: 1.3.6.1.4.1.9.9.798.1.3.1.3
+clauUserConfigPassword: 1.3.6.1.4.1.9.9.798.1.3.1.5
+clauUserIndex: 1.3.6.1.4.1.9.9.798.1.2.1.1
+clauUserConfigEntry: 1.3.6.1.4.1.9.9.798.1.3.1
+clauUserConfigLifetime: 1.3.6.1.4.1.9.9.798.1.3.1.4
+clauUserName: 1.3.6.1.4.1.9.9.798.1.2.1.2
+clauUserConfigTable: 1.3.6.1.4.1.9.9.798.1.3
+ciscoLocalAuthUserMIB: 1.3.6.1.4.1.9.9.798
+clauUserLoggedIn: 1.3.6.1.4.1.9.9.798.0.3
+clauUserLoggedOut1: 1.3.6.1.4.1.9.9.798.0.8
+clauUserTable: 1.3.6.1.4.1.9.9.798.1.2
+clauUserCreationTime: 1.3.6.1.4.1.9.9.798.1.2.1.4
+clauUserConfigStorageType: 1.3.6.1.4.1.9.9.798.1.3.1.7
+clauUserAdded: 1.3.6.1.4.1.9.9.798.0.1
+clauUserDeleted1: 1.3.6.1.4.1.9.9.798.0.6
+ciscoLocalAuthUserMIBConform: 1.3.6.1.4.1.9.9.798.2
+clauUserLoggedOut: 1.3.6.1.4.1.9.9.798.0.4
+clauUserLifetime: 1.3.6.1.4.1.9.9.798.1.2.1.5
+

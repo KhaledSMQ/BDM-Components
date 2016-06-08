@@ -1,0 +1,13 @@
+--- 
+cvqtNumberOfSessions: 1.3.6.1.4.1.9.9.969.1.1.1
+ciscoVqeToolsMIBNotifs: 1.3.6.1.4.1.9.9.969.0
+cvqtTotalSentResponses: 1.3.6.1.4.1.9.9.969.1.1.3
+cvqtMIBCompliances: 1.3.6.1.4.1.9.9.969.2.1
+cvqtRequestRate: 1.3.6.1.4.1.9.9.969.1.1.4
+cvqtVcdsInfo: 1.3.6.1.4.1.9.9.969.1.1
+cvqtTotalReceivedRequests: 1.3.6.1.4.1.9.9.969.1.1.2
+ciscoVqeToolsMIB: 1.3.6.1.4.1.9.9.969
+ciscoVqeToolsMIBObjects: 1.3.6.1.4.1.9.9.969.1
+ciscoVqeToolsMIBConform: 1.3.6.1.4.1.9.9.969.2
+cvqtMIBGroups: 1.3.6.1.4.1.9.9.969.2.2
+

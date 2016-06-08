@@ -1,0 +1,25 @@
+--- 
+ciscoMpoaExtMIB: 1.3.6.1.4.1.9.9.99999
+cMpsInterfaceMappingRowStatus: 1.3.6.1.4.1.9.9.99999.1.3.1.1.2
+cMpcInterfaceMappingEntry: 1.3.6.1.4.1.9.9.99999.1.2.1.1
+cmpcSCVci: 1.3.6.1.4.1.9.9.99999.1.1.1.1.2
+cMpcInterfaceMappingRowStatus: 1.3.6.1.4.1.9.9.99999.1.2.1.1.2
+ciscoMpoaExtMIBNotifications: 1.3.6.1.4.1.9.9.99999.2.0
+ciscoMpoaExtMIBConformance: 1.3.6.1.4.1.9.9.99999.3
+cMpsInterfaceMappingIndex: 1.3.6.1.4.1.9.9.99999.1.3.1.1.1
+cMpcExtShortcutVCCTable: 1.3.6.1.4.1.9.9.99999.1.1.1
+cMpcExtShortcutVCCEntry: 1.3.6.1.4.1.9.9.99999.1.1.1.1
+cmpcSCVpi: 1.3.6.1.4.1.9.9.99999.1.1.1.1.1
+cMpsInterface: 1.3.6.1.4.1.9.9.99999.1.3
+ciscoMpoaExtMIBCompliances: 1.3.6.1.4.1.9.9.99999.3.1
+ciscoMpoaExtMIBGroups: 1.3.6.1.4.1.9.9.99999.3.2
+cMpcInterfaceMappingIndex: 1.3.6.1.4.1.9.9.99999.1.2.1.1.1
+ciscoMpoaExtMIBNotificationPrefix: 1.3.6.1.4.1.9.9.99999.2
+cmpcDestAtmAddr: 1.3.6.1.4.1.9.9.99999.1.1.1.1.3
+cMpsInterfaceMappingTable: 1.3.6.1.4.1.9.9.99999.1.3.1
+cMpcExtShortcutVCC: 1.3.6.1.4.1.9.9.99999.1.1
+ciscoMpoaExtMIBObjects: 1.3.6.1.4.1.9.9.99999.1
+cMpcInterface: 1.3.6.1.4.1.9.9.99999.1.2
+cMpcInterfaceMappingTable: 1.3.6.1.4.1.9.9.99999.1.2.1
+cMpsInterfaceMappingEntry: 1.3.6.1.4.1.9.9.99999.1.3.1.1
+

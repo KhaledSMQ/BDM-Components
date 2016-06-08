@@ -1,0 +1,23 @@
+--- 
+ccbptPolicyInstance: 1.3.6.1.4.1.9.9.533.1.1.2.1.9
+ccbptPolicyAttachTime: 1.3.6.1.4.1.9.9.533.1.1.2.1.10
+ciscoCbpTargetMIBNotifs: 1.3.6.1.4.1.9.9.533.0
+ccbptTargetId: 1.3.6.1.4.1.9.9.533.1.1.2.1.2
+ciscoCbpTargetMIBConform: 1.3.6.1.4.1.9.9.533.2
+ciscoCbpTargetMIBObjects: 1.3.6.1.4.1.9.9.533.1
+ccbptTargetAttachCfg: 1.3.6.1.4.1.9.9.533.1.1
+ccbptPolicyId: 1.3.6.1.4.1.9.9.533.1.1.2.1.5
+ccbptTargetStatus: 1.3.6.1.4.1.9.9.533.1.1.2.1.6
+ccbptPolicyIdNext: 1.3.6.1.4.1.9.9.533.1.1.1
+ccbptPolicySourceType: 1.3.6.1.4.1.9.9.533.1.1.2.1.4
+ccbptPolicyMap: 1.3.6.1.4.1.9.9.533.1.1.2.1.8
+ccbptTargetEntry: 1.3.6.1.4.1.9.9.533.1.1.2.1
+ciscoCbpTargetMIBMIBGroups: 1.3.6.1.4.1.9.9.533.2.2
+ccbptTargetTable: 1.3.6.1.4.1.9.9.533.1.1.2
+ccbptTargetStorageType: 1.3.6.1.4.1.9.9.533.1.1.2.1.7
+ccbptTargetTableLastChange: 1.3.6.1.4.1.9.9.533.1.1.3
+ciscoCbpTargetMIBCompliances: 1.3.6.1.4.1.9.9.533.2.1
+ciscoCbpTargetMIB: 1.3.6.1.4.1.9.9.533
+ccbptTargetDir: 1.3.6.1.4.1.9.9.533.1.1.2.1.3
+ccbptTargetType: 1.3.6.1.4.1.9.9.533.1.1.2.1.1
+

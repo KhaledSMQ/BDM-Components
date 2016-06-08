@@ -1,0 +1,30 @@
+--- 
+altigaPPPoEStatsMibModule: 1.3.6.1.4.1.3076.1.1.45.2
+alPPPoEStatsIfPeerName: 1.3.6.1.4.1.3076.2.1.2.40.2.1.16
+altigaPPPoEStatsMibCompliances: 1.3.6.1.4.1.3076.1.1.45.2.1.1
+alPPPoEStatsIfACCookie: 1.3.6.1.4.1.3076.2.1.2.40.2.1.17
+alPPPoEStatsIfIndex: 1.3.6.1.4.1.3076.2.1.2.40.2.1.1
+alPPPoEStatsIfPADTTx: 1.3.6.1.4.1.3076.2.1.2.40.2.1.3
+alPPPoEStatsIfPADRTimeouts: 1.3.6.1.4.1.3076.2.1.2.40.2.1.7
+alPPPoEStatsIfSessionID: 1.3.6.1.4.1.3076.2.1.2.40.2.1.9
+alPPPoEStatsIfDuration: 1.3.6.1.4.1.3076.2.1.2.40.2.1.15
+alPPPoEStatsIfHostUnique: 1.3.6.1.4.1.3076.2.1.2.40.2.1.18
+alPPPoEStatsIfPADTRx: 1.3.6.1.4.1.3076.2.1.2.40.2.1.2
+alPPPoEStatsIfRelaySessID: 1.3.6.1.4.1.3076.2.1.2.40.2.1.19
+alPPPoEStatsIfTable: 1.3.6.1.4.1.3076.2.1.2.40.2
+alPPPoEStatsIfType: 1.3.6.1.4.1.3076.2.1.2.40.2.1.13
+alPPPoEStatsIfGenericErrorsRx: 1.3.6.1.4.1.3076.2.1.2.40.2.1.4
+alPPPoEStatsActiveSessions: 1.3.6.1.4.1.3076.2.1.2.40.1.1
+alPPPoEStatsIfMalformedPacketsRx: 1.3.6.1.4.1.3076.2.1.2.40.2.1.5
+alPPPoEStatsIfMultPADORx: 1.3.6.1.4.1.3076.2.1.2.40.2.1.8
+alPPPoEStatsIfPeerAddr: 1.3.6.1.4.1.3076.2.1.2.40.2.1.10
+alPPPoEStatsTotalSessions: 1.3.6.1.4.1.3076.2.1.2.40.1.2
+alStatsPPPoEGlobal: 1.3.6.1.4.1.3076.2.1.2.40.1
+alPPPoEStatsMaxSessions: 1.3.6.1.4.1.3076.2.1.2.40.1.3
+alPPPoEStatsIfConnectTime: 1.3.6.1.4.1.3076.2.1.2.40.2.1.14
+altigaPPPoEStatsMibConformance: 1.3.6.1.4.1.3076.1.1.45.2.1
+alPPPoEStatsIfEntry: 1.3.6.1.4.1.3076.2.1.2.40.2.1
+alPPPoEStatsIfPADITimeouts: 1.3.6.1.4.1.3076.2.1.2.40.2.1.6
+alPPPoEStatsIfSessionState: 1.3.6.1.4.1.3076.2.1.2.40.2.1.11
+alPPPoEStatsIfVersion: 1.3.6.1.4.1.3076.2.1.2.40.2.1.12
+

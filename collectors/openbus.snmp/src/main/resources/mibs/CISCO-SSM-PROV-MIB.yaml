@@ -1,0 +1,25 @@
+--- 
+ssmProvFeatureNeedsImage: 1.3.6.1.4.1.9.9.448.1.1.1.1.2
+ssmProvFeatureIfStartPort: 1.3.6.1.4.1.9.9.448.1.1.2.1.1
+ssmProvDppEntry: 1.3.6.1.4.1.9.9.448.1.1.3.1
+ssmProvDppName: 1.3.6.1.4.1.9.9.448.1.1.3.1.3
+ssmProvFeatureIfRowStatus: 1.3.6.1.4.1.9.9.448.1.1.2.1.6
+ssmProvMIBGroups: 1.3.6.1.4.1.9.9.448.2.2
+ciscoSsmProvMIBObjects: 1.3.6.1.4.1.9.9.448.1
+ssmProvFeatureEntry: 1.3.6.1.4.1.9.9.448.1.1.1.1
+ssmProvFeatureIfTable: 1.3.6.1.4.1.9.9.448.1.1.2
+ssmProvFeatureIfFeatureName: 1.3.6.1.4.1.9.9.448.1.1.2.1.3
+ssmProvFeatureIfForceRemove: 1.3.6.1.4.1.9.9.448.1.1.2.1.4
+ssmProvFeatureName: 1.3.6.1.4.1.9.9.448.1.1.1.1.1
+ssmProvFeatureIfPartnerImageURI: 1.3.6.1.4.1.9.9.448.1.1.2.1.5
+ssmProvDppTable: 1.3.6.1.4.1.9.9.448.1.1.3
+ciscoSsmProvMIBConform: 1.3.6.1.4.1.9.9.448.2
+ssmProvConfiguration: 1.3.6.1.4.1.9.9.448.1.1
+ssmProvDppEndPort: 1.3.6.1.4.1.9.9.448.1.1.3.1.2
+ssmProvMIBCompliances: 1.3.6.1.4.1.9.9.448.2.1
+ciscoSsmProvMIB: 1.3.6.1.4.1.9.9.448
+ssmProvFeatureIfEntry: 1.3.6.1.4.1.9.9.448.1.1.2.1
+ssmProvFeatureIfEndPort: 1.3.6.1.4.1.9.9.448.1.1.2.1.2
+ssmProvFeatureTable: 1.3.6.1.4.1.9.9.448.1.1.1
+ssmProvDppStartPort: 1.3.6.1.4.1.9.9.448.1.1.3.1.1
+

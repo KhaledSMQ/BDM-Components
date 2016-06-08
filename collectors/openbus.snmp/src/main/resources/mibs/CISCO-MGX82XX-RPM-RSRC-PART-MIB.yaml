@@ -1,0 +1,20 @@
+--- 
+rpmIfRscPrtVpiLow: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.7
+cmrRsrcPartMIBCompliances: 1.3.6.1.4.1.351.150.61.3.1
+rpmIfRscPrtVciHigh: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.10
+rpmIfRscPrtEgrPctBandwidth: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.6
+rpmIfCnfRscPartTable: 1.3.6.1.4.1.351.110.5.2.9.2.1
+rpmIfRscPrtRowStatus: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.4
+rpmIfRscPrtVciLow: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.9
+rpmIfCnfResPart: 1.3.6.1.4.1.351.110.5.2.9.2
+rpmIfRscPartIfNum: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.2
+rpmIfRscPrtIngrPctBandwidth: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.5
+ciscoMgx82xxRpmRsrcPartMIB: 1.3.6.1.4.1.351.150.61
+rpmIfRscSlotNum: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.1
+rpmIfRscPrtVpiHigh: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.8
+rpmIfRscPrtMaxChans: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.11
+cmrRsrcPartMIBGroups: 1.3.6.1.4.1.351.150.61.3.2
+rpmIfCnfRscPartEntry: 1.3.6.1.4.1.351.110.5.2.9.2.1.1
+rpmIfRscPartCtrlrNum: 1.3.6.1.4.1.351.110.5.2.9.2.1.1.3
+cmrRsrcPartMIBConformance: 1.3.6.1.4.1.351.150.61.3
+

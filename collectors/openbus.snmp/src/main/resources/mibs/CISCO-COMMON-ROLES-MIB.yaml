@@ -1,0 +1,37 @@
+--- 
+ccrInfo: 1.3.6.1.4.1.9.9.361.1.1
+commonRoleRuleIndex: 1.3.6.1.4.1.9.9.361.1.3.2.1.1
+commonRoleSupportedOperEntry: 1.3.6.1.4.1.9.9.361.1.1.2.1
+ciscoCommonRolesMIBGroups: 1.3.6.1.4.1.9.9.361.2.2
+ciscoCommonRolesNotifications: 1.3.6.1.4.1.9.9.361.0
+commonRoleFeatureName: 1.3.6.1.4.1.9.9.361.1.1.1.1.2
+commonRoleMaxRoles: 1.3.6.1.4.1.9.9.361.1.2.1
+commonRoleEntry: 1.3.6.1.4.1.9.9.361.1.2.2.1
+commonRoleDescription: 1.3.6.1.4.1.9.9.361.1.2.2.1.2
+ciscoCommonRolesMIBConformance: 1.3.6.1.4.1.9.9.361.2
+commonRoleSupportedOperTable: 1.3.6.1.4.1.9.9.361.1.1.2
+commonRoleName: 1.3.6.1.4.1.9.9.361.1.2.2.1.1
+ccrRuleConfig: 1.3.6.1.4.1.9.9.361.1.3
+ciscoCommonRolesMIBCompliances: 1.3.6.1.4.1.9.9.361.2.1
+ciscoCommonRolesMIBObjects: 1.3.6.1.4.1.9.9.361.1
+commonRoleTable: 1.3.6.1.4.1.9.9.361.1.2.2
+commonRoleRowStatus: 1.3.6.1.4.1.9.9.361.1.2.2.1.6
+commonRoleRuleRowStatus: 1.3.6.1.4.1.9.9.361.1.3.2.1.5
+commonRoleRuleOperPermitted: 1.3.6.1.4.1.9.9.361.1.3.2.1.4
+commonRoleFeatureTable: 1.3.6.1.4.1.9.9.361.1.1.1
+commonRoleScope1: 1.3.6.1.4.1.9.9.361.1.2.2.1.4
+commonRoleScope2: 1.3.6.1.4.1.9.9.361.1.2.2.1.5
+commonRoleRuleEntry: 1.3.6.1.4.1.9.9.361.1.3.2.1
+commonRoleFeatureOperation: 1.3.6.1.4.1.9.9.361.1.1.1.1.3
+commonRoleSupportedOperation: 1.3.6.1.4.1.9.9.361.1.1.2.1.2
+ccrRoleConfig: 1.3.6.1.4.1.9.9.361.1.2
+commonRoleMaxRulesPerRole: 1.3.6.1.4.1.9.9.361.1.3.1
+commonRoleRuleTable: 1.3.6.1.4.1.9.9.361.1.3.2
+commonRoleRuleFeatureName: 1.3.6.1.4.1.9.9.361.1.3.2.1.2
+ciscoCommonRolesMIB: 1.3.6.1.4.1.9.9.361
+commonRoleScopeRestriction: 1.3.6.1.4.1.9.9.361.1.2.2.1.3
+commonRoleFeatureEntry: 1.3.6.1.4.1.9.9.361.1.1.1.1
+commonRoleFeatureIndex: 1.3.6.1.4.1.9.9.361.1.1.1.1.1
+commonRoleRuleOperation: 1.3.6.1.4.1.9.9.361.1.3.2.1.3
+commonRoleAccessMethod: 1.3.6.1.4.1.9.9.361.1.1.2.1.1
+
