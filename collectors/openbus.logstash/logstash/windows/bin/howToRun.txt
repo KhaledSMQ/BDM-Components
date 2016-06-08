@@ -1,0 +1,13 @@
+# Windows
+
+# Service
+Na pasta "...\logstash\bin\":
+
+	create_service_exe.bat install LogStashService
+
+
+# Non service
+
+    run_non_service_logstash.bat
+    
+

@@ -1,0 +1,2 @@
+*/10 * * * * /usr/sbin/logrotate /produtos/logstash/conf/logrotate.conf
+
