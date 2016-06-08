@@ -1,0 +1,19 @@
+openbus {
+
+  	schemaFile = "/opt/openbus/schema/zabbix.avsc"
+  	
+  	redisConfig {
+  		host = "172.16.32.132"
+  		port = 6379
+  		userInfo = "openbus:openbus"
+  	}
+  	
+	kafkaConfig {
+		brokerList = "172.16.32.132:9092"
+		requiredAcks = false
+		isAsync = true
+		batchNumMessages = 300
+		successTopic = "BR.metrics.success"
+		failureTopic = "BR.all.failure"
+	}
+}

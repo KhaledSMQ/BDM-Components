@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"
+	debug="true">
+
+	<appender name="file" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="/opt/javaproxy.log" />
+		<param name="Append" value="true" />
+		<param name="maxFileSize" value="50MB" />
+		<param name="maxBackupIndex" value="100" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{ISO8601} %-5p %c{1} %x - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="file2" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="/opt/MessageTranformer.log" />
+		<param name="Append" value="true" />
+                <param name="maxFileSize" value="50MB" />
+                <param name="maxBackupIndex" value="20" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{ISO8601} %-5p %c{1} %x - %m%n" />
+		</layout>
+	</appender>
+
+        <appender name="file3" class="org.apache.log4j.RollingFileAppender">
+                <param name="File" value="/opt/IntegrationListener.log" />
+                <param name="Append" value="true" />
+                <param name="maxFileSize" value="50MB" />
+                <param name="maxBackupIndex" value="10" />
+                <layout class="org.apache.log4j.PatternLayout">
+                        <param name="ConversionPattern" value="%d{ISO8601} %-5p %c{1} %x - %m%n" />
+                </layout>
+        </appender>
+
+
+	<logger name="br.com.produban.openbus.utils.MessageTransformer" additivity="false">  
+                <level value="ERROR"/>  
+                <appender-ref ref="file2"/>  
+	</logger>
+
+        <logger name="br.com.produban.openbus.integration.KafkaIntegrationListener" additivity="false">
+                <level value="ERROR"/>
+                <appender-ref ref="file3"/>
+        </logger>
+
+
+	<root>
+		<priority value="ALL" />
+		<appender-ref ref="file" />
+	</root>
+
+</log4j:configuration>
