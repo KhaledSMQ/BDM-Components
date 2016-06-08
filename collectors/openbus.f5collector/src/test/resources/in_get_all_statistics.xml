@@ -1,0 +1,12 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pool="urn:iControl:LocalLB/PoolMember">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <pool:get_all_statistics SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+         <pool_names>
+             <item>pool_cust.santanderbr.corp_10045</item>
+             <item>pool_santanderaldia</item>
+             <item>gda-adsm-santanderbr.corp</item>
+         </pool_names>
+      </pool:get_all_statistics>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

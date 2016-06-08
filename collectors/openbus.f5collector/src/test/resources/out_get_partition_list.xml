@@ -1,0 +1,20 @@
+<E:Envelope E:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:E="http://schemas.xmlsoap.org/soap/envelope/" xmlns:A="http://schemas.xmlsoap.org/soap/encoding/" xmlns:s="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.w3.org/2001/XMLSchema" xmlns:iControl="urn:iControl">
+   <E:Body>
+      <m:get_partition_listResponse xmlns:m="urn:iControl:Management/Partition">
+         <return s:type="A:Array" A:arrayType="iControl:Management.Partition.AuthZPartition[3]">
+            <item>
+               <partition_name s:type="y:string">Common</partition_name>
+               <description s:type="y:string">Repository for system objects and shared objects.</description>
+            </item>
+            <item>
+               <partition_name s:type="y:string">ADELANTO</partition_name>
+               <description s:type="y:string"/>
+            </item>
+            <item>
+               <partition_name s:type="y:string">camada2</partition_name>
+               <description s:type="y:string"/>
+            </item>
+         </return>
+      </m:get_partition_listResponse>
+   </E:Body>
+</E:Envelope>

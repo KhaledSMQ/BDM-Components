@@ -1,0 +1,15 @@
+openbus {
+  schemaFile = "/PATH/bigip.avsc"
+
+  kafkaConfig {
+    brokerList = "localhost:9092"
+     requiredAcks = false
+    isAsync = true
+    batchNumMessages = 300
+  }
+  topicConfig {
+    successTopic = "BR_metrics"
+    failureTopic = "BR_failure"
+
+  }
+}

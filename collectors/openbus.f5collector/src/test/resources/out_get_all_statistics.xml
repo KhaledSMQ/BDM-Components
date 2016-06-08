@@ -1,0 +1,2204 @@
+<E:Envelope E:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:E="http://schemas.xmlsoap.org/soap/envelope/" xmlns:A="http://schemas.xmlsoap.org/soap/encoding/" xmlns:s="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.w3.org/2001/XMLSchema" xmlns:iControl="urn:iControl">
+    <E:Body>
+        <m:get_all_statisticsResponse xmlns:m="urn:iControl:LocalLB/PoolMember">
+            <return s:type="A:Array" A:arrayType="iControl:LocalLB.PoolMember.MemberStatistics[3]">
+                <item>
+                    <statistics s:type="A:Array" A:arrayType="iControl:LocalLB.PoolMember.MemberStatisticEntry[2]">
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">10045</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">11090</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8718</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">144</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">144</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">12</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">2</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">2</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">10045</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">15</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                    </statistics>
+                    <time_stamp s:type="iControl:Common.TimeStamp">
+                        <year s:type="y:long">2015</year>
+                        <month s:type="y:long">3</month>
+                        <day s:type="y:long">16</day>
+                        <hour s:type="y:long">19</hour>
+                        <minute s:type="y:long">4</minute>
+                        <second s:type="y:long">57</second>
+                    </time_stamp>
+                </item>
+                <item>
+                    <statistics s:type="A:Array" A:arrayType="iControl:LocalLB.PoolMember.MemberStatisticEntry[1]">
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                    </statistics>
+                    <time_stamp s:type="iControl:Common.TimeStamp">
+                        <year s:type="y:long">2015</year>
+                        <month s:type="y:long">3</month>
+                        <day s:type="y:long">16</day>
+                        <hour s:type="y:long">19</hour>
+                        <minute s:type="y:long">4</minute>
+                        <second s:type="y:long">57</second>
+                    </time_stamp>
+                </item>
+                <item>
+                    <statistics s:type="A:Array" A:arrayType="iControl:LocalLB.PoolMember.MemberStatisticEntry[12]">
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">774171345</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">49498048</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">598237</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">361299</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">11</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13923</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">48</high>
+                                        <low s:type="y:long">1121739240</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">2</high>
+                                        <low s:type="y:long">1290720224</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">152170530</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">90557895</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">29</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">22</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">2397903</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">48</high>
+                                        <low s:type="y:long">2083121986</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">2</high>
+                                        <low s:type="y:long">1313971108</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">152801579</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">90936198</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">24</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">2396430</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">773762706</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">27660182</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">591349</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">346566</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13955</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">758827663</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">27360795</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">581101</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">341219</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13911</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">48</high>
+                                        <low s:type="y:long">1815015190</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">2</high>
+                                        <low s:type="y:long">1302780036</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">152635233</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">90797386</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">20</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">2398687</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">8</high>
+                                        <low s:type="y:long">-659974300</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">1821148744</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">27924162</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">16599731</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">440002</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">745146796</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">48798822</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">578074</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">350383</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13888</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">731906468</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">49425187</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">570032</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">347029</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13954</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">748293797</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">48937765</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">580847</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">350871</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">8</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">13978</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">749584911</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">50007488</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">582390</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">354157</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">9</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">14030</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                        <item>
+                            <member s:type="iControl:Common.IPPortDefinition">
+                                <address s:type="y:string">localhost</address>
+                                <port s:type="y:long">80</port>
+                            </member>
+                            <statistics s:type="A:Array" A:arrayType="iControl:Common.Statistic[17]">
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">808190760</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">50802715</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">621495</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">375559</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">9</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">14045</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_BYTES_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_IN</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_PACKETS_OUT</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_CURRENT_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_MAXIMUM_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_PVA_SERVER_SIDE_TOTAL_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_REQUESTS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_TOTAL_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                                <item>
+                                    <type s:type="iControl:Common.StatisticType">STATISTIC_CURRENT_PVA_ASSISTED_CONNECTIONS</type>
+                                    <value s:type="iControl:Common.ULong64">
+                                        <high s:type="y:long">0</high>
+                                        <low s:type="y:long">0</low>
+                                    </value>
+                                    <time_stamp s:type="y:long">0</time_stamp>
+                                </item>
+                            </statistics>
+                        </item>
+                    </statistics>
+                    <time_stamp s:type="iControl:Common.TimeStamp">
+                        <year s:type="y:long">2015</year>
+                        <month s:type="y:long">3</month>
+                        <day s:type="y:long">16</day>
+                        <hour s:type="y:long">19</hour>
+                        <minute s:type="y:long">4</minute>
+                        <second s:type="y:long">57</second>
+                    </time_stamp>
+                </item>
+            </return>
+        </m:get_all_statisticsResponse>
+    </E:Body>
+</E:Envelope>

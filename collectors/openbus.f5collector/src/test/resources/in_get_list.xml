@@ -1,0 +1,6 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pool="urn:iControl:LocalLB/Pool">
+   <SOAP-ENV:Header/>
+   <SOAP-ENV:Body>
+      <pool:get_list/>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
