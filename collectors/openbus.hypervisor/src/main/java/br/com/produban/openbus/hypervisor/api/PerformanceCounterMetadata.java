@@ -21,11 +21,11 @@ import com.vmware.vim25.RetrieveOptions;
 import com.vmware.vim25.RetrieveResult;
 import com.vmware.vim25.RuntimeFaultFaultMsg;
 
-import br.com.produban.openbus.hypervisor.collector.HypervisorService;
+import br.com.produban.openbus.hypervisor.collector.HypervisorMetricsCollector;
 
 public class PerformanceCounterMetadata {
 
-	private static final Logger LOGGER = LoggerFactory.getLogger(HypervisorService.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(HypervisorMetricsCollector.class);
 	
 	private HashMap<String, Integer> countersIdMap;
 	private HashMap<Integer, PerfCounterInfo> countersInfoMap;

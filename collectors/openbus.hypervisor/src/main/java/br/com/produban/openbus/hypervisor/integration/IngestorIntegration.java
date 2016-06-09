@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
 import br.com.openbus.publisher.kafka.KafkaAvroPublisher;
 import br.com.produban.openbus.ingestor.OpenbusDataIngestion;
 
+
 @Configuration
 public class IngestorIntegration {
 
@@ -36,6 +37,9 @@ public class IngestorIntegration {
 	@Value("${kafka.hypervisor.avro.schema}")
 	private String schemaPath;
 	
+	@Value("${kafka.hypervisor.event.avro.schema}")
+	private String eventPath;
+	
 	@SuppressWarnings("unchecked")
 	@Bean
 	public KafkaAvroPublisher<GenericRecord> kafkaAvroPublisher(){
@@ -50,8 +54,13 @@ public class IngestorIntegration {
 				.withFailureTopic(failureTopic).build();
 	}
 	
-	@Bean
+	@Bean(name = "hypervisorSchema")
 	public Schema schema() throws IOException {
 		return new Schema.Parser().parse(new File(schemaPath));
+	}
+	
+	@Bean(name = "eventSchema")
+	public Schema eventSchema() throws IOException {
+	    return new Schema.Parser().parse(new File(eventPath));
 	}
 }

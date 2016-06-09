@@ -30,17 +30,19 @@ public class Connection {
 	private Credentials credentials;
 	
 	private ManagedObjectReference perfManager;
+	
+	private ManagedObjectReference alarmManager;
 
 	private ManagedObjectReference propertyCollector;
 	
-	public Connection(Credentials credentials) throws RuntimeFaultFaultMsg, KeyManagementException, NoSuchAlgorithmException {
+	public Connection(Credentials credentials, String vcenterUrl) throws RuntimeFaultFaultMsg, KeyManagementException, NoSuchAlgorithmException {
 		DisableSecurity.trustEveryone();
 		
 		this.credentials = credentials;
 		this.vimPort = new VimService().getVimPort();
 
 		Map<String, Object> ctxt = ((BindingProvider) vimPort).getRequestContext();
-		ctxt.put(BindingProvider.ENDPOINT_ADDRESS_PROPERTY, credentials.getUrl());
+		ctxt.put(BindingProvider.ENDPOINT_ADDRESS_PROPERTY, vcenterUrl);
 		ctxt.put(BindingProvider.SESSION_MAINTAIN_PROPERTY, MAINTAIN_SESSION);
 
 		ManagedObjectReference serviceInstace = new ManagedObjectReference();
@@ -48,8 +50,10 @@ public class Connection {
 		serviceInstace.setValue(SERVICE_INSTANCE);
 
 		this.serviceContent = vimPort.retrieveServiceContent(serviceInstace);
+		this.alarmManager = serviceContent.getAlarmManager();
 		this.perfManager = serviceContent.getPerfManager();
 		this.propertyCollector = serviceContent.getPropertyCollector();
+		
 	}
 
 	public void login() throws InvalidLocaleFaultMsg, InvalidLoginFaultMsg, RuntimeFaultFaultMsg, KeyManagementException, NoSuchAlgorithmException {
@@ -74,6 +78,10 @@ public class Connection {
 
 	public ManagedObjectReference getPropertyCollector() {
 		return propertyCollector;
+	}
+	
+	public ManagedObjectReference getAlarmManager() {
+	    	return alarmManager;
 	}
 	
 }
