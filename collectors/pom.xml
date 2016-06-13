@@ -10,4 +10,5 @@
     <artifactId>bdm-collectors</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <properties><ingestor.version>1.0.0</ingestor.version></properties>
 </project>
