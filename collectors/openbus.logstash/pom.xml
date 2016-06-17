@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.produban</groupId>
     <artifactId>openbus.logstash</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
 
     <dependencies>
         <dependency>
@@ -72,12 +72,12 @@
         <dependency>
 			<groupId>br.com.produban.openbus.model</groupId>
 			<artifactId>data</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0-RELEASE</version>
 		</dependency>
         <dependency>
             <groupId>br.com.produban</groupId>
             <artifactId>openbus.avro</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>1.0.0-RELEASE</version>
             <exclusions>
                 <exclusion>
                     <groupId>log4j</groupId>

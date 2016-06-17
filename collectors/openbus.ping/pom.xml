@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>br.com.produban.bdm-components</groupId>
 		<artifactId>bdm-collectors</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0-RELEASE</version>
 	</parent>
 	<artifactId>openbus.ping</artifactId>
 
@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>br.com.produban.openbus.model</groupId>
 			<artifactId>data</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0-RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>br.com.produban</groupId>
 			<artifactId>openbus.ingestor</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0-RELEASE</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>neo4j</artifactId>

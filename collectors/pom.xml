@@ -4,11 +4,11 @@
     <parent>
         <groupId>br.com.produban</groupId>
         <artifactId>bdm-components</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0-RELEASE</version>
     </parent>
     <groupId>br.com.produban.bdm-components</groupId>
     <artifactId>bdm-collectors</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
     <packaging>pom</packaging>
     <properties><ingestor.version>1.0.0</ingestor.version></properties>
 </project>
