@@ -13,15 +13,15 @@ import com.typesafe.config.ConfigFactory;
 @Configuration
 public class ApplicationConfig {
 
-    @Value("${config.file.path}")
-    private String configFilePath;
+	@Value("${config.file.path}")
+	private String configFilePath;
 
-    @Bean
-    public Config config() {
+	@Bean
+	public Config config() {
 
-	if (StringUtils.isEmpty(configFilePath)) {
-	    return ConfigFactory.load();
+		if (StringUtils.isEmpty(configFilePath)) {
+			return ConfigFactory.load();
+		}
+		return ConfigFactory.parseFile(new File(configFilePath));
 	}
-	return ConfigFactory.parseFile(new File(configFilePath));
-    }
 }

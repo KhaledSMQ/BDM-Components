@@ -9,11 +9,11 @@ import br.com.produban.openbus.mq.collector.MQReaderService;
 @SpringBootApplication
 public class Launcher {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-	ConfigurableApplicationContext context = SpringApplication.run(Launcher.class, args);
-	context.getBean(MQReaderService.class).doTask();
+		ConfigurableApplicationContext context = SpringApplication.run(Launcher.class, args);
+		context.getBean(MQReaderService.class).doTask();
 
-    }
+	}
 
 }

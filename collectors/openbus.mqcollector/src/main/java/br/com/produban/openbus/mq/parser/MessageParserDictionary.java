@@ -6,42 +6,43 @@ import br.com.produban.openbus.mq.parser.exception.MessageParserNotDefinedExcept
 
 public class MessageParserDictionary {
 
-    private static HashMap<String, MessageParser> parserMap = new HashMap<String, MessageParser>();
+	private static HashMap<String, MessageParser> parserMap = new HashMap<String, MessageParser>();
 
-    public static MessageParser findByQueueName(String queueName) throws MessageParserNotDefinedException {
+	public static MessageParser findByQueueName(String queueName) throws MessageParserNotDefinedException {
 
-	if (!parserMap.containsKey(queueName)) {
+		if (!parserMap.containsKey(queueName)) {
 
-	    register(queueName);
-	}
+			register(queueName);
+		}
 
-	return parserMap.get(queueName);
-
-    }
-
-    private static void register(String queueName) throws MessageParserNotDefinedException {
-
-	MessageParser parser = null;
-
-	switch (queueName) {
-
-	case "IDR.QL.DB0K.ZBDT163": {
-	    parser = new QReplicatorMessageParser();
-	    break;
-	}
-	default: {
-	    parser = null;
-	    break;
-	}
+		return parserMap.get(queueName);
 
 	}
 
-	if (parser == null)
-	    throw new MessageParserNotDefinedException(String.format("MessageParser not defined. You must register a parser for queue '%s'", queueName));
+	private static void register(String queueName) throws MessageParserNotDefinedException {
 
-	parserMap.put(queueName, parser);
+		MessageParser parser = null;
 
-    }
+		switch (queueName) {
 
-    
+			case "IDR.QL.DB0K.ZBDT163": {
+				parser = new QReplicatorMessageParser();
+				break;
+			}
+			
+			default: {
+				parser = null;
+				break;
+			}
+
+		}
+
+		if (parser == null)
+			throw new MessageParserNotDefinedException(
+					String.format("MessageParser not defined. You must register a parser for queue '%s'", queueName));
+
+		parserMap.put(queueName, parser);
+
+	}
+
 }

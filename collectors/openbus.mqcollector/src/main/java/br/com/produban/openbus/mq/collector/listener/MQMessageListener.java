@@ -4,6 +4,6 @@ import javax.jms.Message;
 
 public interface MQMessageListener {
 
-    public void onMessageReceived(String queueName, Message msg);
+	public void onMessageReceived(String queueName, Message msg);
 
 }

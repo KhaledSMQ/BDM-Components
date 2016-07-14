@@ -6,9 +6,30 @@
         <artifactId>bdm-components</artifactId>
         <version>1.0.0-RELEASE</version>
     </parent>
+
+    <modules>
+        <module>openbus.f5box</module>
+        <module>openbus.f5collector</module>
+        <module>openbus.hypervisor</module>
+        <module>openbus.infoblox</module>
+        <module>openbus.introscope</module>
+        <module>openbus.javaproxy</module>
+        <module>openbus.log</module>
+        <module>openbus.logstash</module>
+        <module>openbus.mqcollector</module>
+        <module>openbus.mqmonitor</module>
+        <module>openbus.ping</module>
+        <module>openbus.rack</module>
+        <module>openbus.snmp</module>
+        <module>openbus.social</module>
+        <module>openbus.sql2kafka</module>
+    </modules>
+
     <groupId>br.com.produban.bdm-components</groupId>
     <artifactId>bdm-collectors</artifactId>
-    <version>1.0.0-RELEASE</version>
     <packaging>pom</packaging>
-    <properties><ingestor.version>1.0.0</ingestor.version></properties>
+
+    <properties>
+        <ingestor.version>1.0.0</ingestor.version>
+    </properties>
 </project>
